@@ -63,14 +63,13 @@ speller:
     - derive/(.*)aoh/$1ah/                        # 模糊前後ah
    #- derive/(.*)ae/$1e/                          # 模糊“蘭”“雷”
 
-    - derive/^ni/ny/       # 隨意自定義
-    - derive/^ni/nyi/ 
+    - derive/^ni/ny/            # 隨意自定義
+    - derive/^ni/nyi/           
     - derive/(.*)u/$1ou/ 
     - derive/(.*)uih/$1uh/ 
-    - derive/^t/d/         # 嘸沒必要去區分迭些清濁，伲吳語個發音辨識度高
-    - derive/^d/t/ 
+    - derive/^t(?!s)/d/         # 嘸沒必要去區分迭些清濁，伲吳語個發音辨識度高
+    - derive/^d/t(?!s)/ 
     - derive/^b/p/ 
-    - derive/^p/b/ 
     - derive/^p/b/ 
     - derive/^c/j/ 
     - derive/^j/c/ 
@@ -92,11 +91,15 @@ speller:
     - derive/^u/w/
     - derive/^w/u/
     - derive/^nyi/ni/
-    - derive/^ni/nyi/
     - derive/^ny/ni/
-    - derive/^ni/ny/
     - derive/^zaon/laon/
     - derive/^(?<!d)zi(?=a)/y/ #謝謝 zia ya
+
+    - derive/(.*)en/$1n/                          # 方便
+    - derive/(.*)au/$1ao/                         
+    - derive/(.*(?:i|o|a|e|u))h/$1k/ 
+    - derive/^tsh/tt/
+    - derive/^/q/
 
    #- derive/^tzi/ci/                             # 以下幾行是模糊分尖團音個
    #- derive/^tsi/chi/
