@@ -4,7 +4,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 ## 安裝
 
-將所有文件複製到Rime用戶文件夾（MacOS下一般是`~/Library/Rime/`）即可。
+將所有`*.yaml`文件複製到Rime用戶文件夾（MacOS下一般是`~/Library/Rime/`）即可。
 
 ## 使用
 
