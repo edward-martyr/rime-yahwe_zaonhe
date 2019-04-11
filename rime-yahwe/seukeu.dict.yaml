@@ -3,7 +3,6 @@ name: seukeu
 version: "2019"
 sort: by_weight
 use_preset_vocabulary: true
-max_phrase_length: 10
 min_phrase_weight: 100
 ...
 

@@ -101,6 +101,7 @@ speller:
     - derive/(.*)uih/$1uu/
     - derive/^sy/ss/
     - derive/^zy/zz/
+    - derive/^tsy/tss/
     - derive/(.*)uih/$1uh/ 
 
 
