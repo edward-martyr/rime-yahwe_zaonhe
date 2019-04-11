@@ -102,6 +102,7 @@ speller:
     - derive/^sy/ss/
     - derive/^zy/zz/
     - derive/^tsy/tss/
+    - derive/^dzy/dzz/
     - derive/(.*)uih/$1uh/ 
 
 
@@ -111,11 +112,12 @@ speller:
    #- derive/^zi/zhi/
    #- derive/^si/xi/
     - derive/^(c|ch|j|ny|sh|y|x)i([aeou])/$1$2/     
-    - derive/^(ts|z|dz)i(eu)/$1$2/     
-    - derive/^tzyu/tzy/                           # 以下四行是模糊“書”“詩”
+    - derive/^(ts|z|dz|s|l)i(eu)/$1$2/     
+    - derive/^tshyu/tshy/                         # 模糊“書”“詩”
     - derive/^tsyu/tsy/
     - derive/^zyu/zy/
     - derive/^syu/sy/
+    - derive/^dzyu/dzy/
    #- derive/(.*)ie/$1i/                          # 模糊“煙”“衣”
     - derive/(.*)aon/$1an/                        # 模糊前後an
     - derive/(.*)an/$1aon/ 
