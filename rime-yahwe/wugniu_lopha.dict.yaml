@@ -192,7 +192,7 @@ min_phrase_weight: 100
 一被	ih be
 一見	ih cie
 一覺	ih cioh
-一言	ih nyie
+一言	ih yie
 一計
 一記頭
 一說	ih seh
@@ -279,7 +279,7 @@ min_phrase_weight: 100
 七翹八裂	tshih jiau pah lih
 七老八十	tshih lau pah seh
 七萬	tshih vae
-七言	tshih nyie
+七言	tshih yie
 七講八講	tshih kaon pah kaon
 七項
 七高八低
@@ -1022,7 +1022,7 @@ min_phrase_weight: 100
 不見	peh cie
 不覺	peh cioh
 不解	peh cia
-不言	peh nyie
+不言	peh yie
 不計	peh ci
 不許	peh shiu
 不訴	peh su
@@ -1422,7 +1422,7 @@ min_phrase_weight: 100
 之虞
 之術	tsy dzeh
 之見	tsy cie
-之言	tsy nyie
+之言	tsy yie
 之誤
 之說	tsy seh
 之論
@@ -2157,7 +2157,7 @@ min_phrase_weight: 100
 五袋	ng de
 五見	ng cie
 五角	ng koh
-五言	ng nyie
+五言	ng yie
 五課	ng khu
 五識	ng seh
 五谷	ng koh
@@ -2751,7 +2751,7 @@ min_phrase_weight: 100
 代耕	de ken
 代行	de yin
 代表字
-代言	de nyie
+代言	de yie
 代賣
 代雪
 令	lin
@@ -3310,7 +3310,7 @@ min_phrase_weight: 100
 佯動
 佯死	yan sy
 佯細
-佯言	yan nyie
+佯言	yan yie
 佰	paoh
 佳	cia
 佳	ka
@@ -3441,7 +3441,7 @@ min_phrase_weight: 100
 例湯	li thaon
 例舉
 例行	li yin
-例言	li nyie
+例言	li yie
 侍	zy
 侍女	zy nyu
 侍從	zy dzon
@@ -3798,7 +3798,7 @@ min_phrase_weight: 100
 倡廉	tshaon lie
 倡條	tshaon diau
 倡狂	tshaon guaon
-倡言	tshaon nyie
+倡言	tshaon yie
 倡議	tshaon nyi
 倥	khon
 倥侗	khon don
@@ -3876,7 +3876,7 @@ min_phrase_weight: 100
 假若	ka zaoh
 假藥	ka yaoh
 假裝	ka tsaon
-假言	ka nyie
+假言	ka yie
 假託	ka thoh
 假設	ka seh
 假話	ka gho
@@ -4040,7 +4040,7 @@ min_phrase_weight: 100
 偽經
 偽藥
 偽裝
-偽言	we nyie
+偽言	we yie
 偽証
 偽誓
 偽謬
@@ -4132,7 +4132,7 @@ min_phrase_weight: 100
 傳紀
 傳聞	dzoe ven
 傳聲	dzoe sen
-傳言	dzoe nyie
+傳言	dzoe yie
 傳說	dzoe seh
 傳遍	dzoe pie
 傴	iu
@@ -4953,7 +4953,7 @@ min_phrase_weight: 100
 其用	ji yon
 其職	ji tseh
 其解	ji cia
-其言	ji nyie
+其言	ji yie
 其間	ji cie
 其餘	ji yu
 具	jiu
@@ -5263,7 +5263,7 @@ min_phrase_weight: 100
 出葬
 出行	tsheh yin
 出街	tsheh ka
-出言無常	tsheh nyie vu zan
+出言無常	tsheh yie vu zan
 出言話	tsheh ghae gho
 出說話	tsheh seh gho
 出趟
@@ -5739,7 +5739,7 @@ min_phrase_weight: 100
 前繞
 前腳後腳
 前行	dzie yin
-前言	dzie nyie
+前言	dzie yie
 前記
 前識	dzie seh
 前車	dzie tsho
@@ -6832,7 +6832,7 @@ min_phrase_weight: 100
 危峰
 危怠
 危矣
-危言	we nyie
+危言	we yie
 危象
 危迫	we phaoh
 即	tsih
@@ -7489,7 +7489,7 @@ min_phrase_weight: 100
 可能性	khu nen sin
 可行	khu yin
 可見	khu cie
-可言	khu nyie
+可言	khu yie
 可說	khu seh
 可調	khu diau
 可讀	khu doh
@@ -7707,7 +7707,7 @@ min_phrase_weight: 100
 吉日	cih zeh
 吉期	cih ji
 吉藏
-吉言	cih nyie
+吉言	cih yie
 吉通
 吊	tiau
 吊勾
@@ -7801,7 +7801,7 @@ min_phrase_weight: 100
 名腳
 名茶
 名表
-名言	min nyie
+名言	min yie
 名諺
 名貴	min kue
 名車	min tsho
@@ -8758,7 +8758,7 @@ min_phrase_weight: 100
 善於	zoe yu
 善業
 善睞
-善言	zoe nyie
+善言	zoe yie
 善逝
 善遇
 善飛
@@ -9112,7 +9112,7 @@ min_phrase_weight: 100
 嘉興	ka shin
 嘉良	ka lian
 嘉華	ka gho
-嘉言	ka nyie
+嘉言	ka yie
 嘉許	ka shiu
 嘉賓	ka pin
 嘉陵	ka lin
@@ -9909,7 +9909,7 @@ min_phrase_weight: 100
 坦摯	thae tsy
 坦率	thae se
 坦眼
-坦言	thae nyie
+坦言	thae yie
 坨	du
 坩	koe
 坪	bin
@@ -10636,7 +10636,7 @@ min_phrase_weight: 100
 多虧	tu khue
 多要
 多見	tu cie
-多言	tu nyie
+多言	tu yie
 多說	tu seh
 多說多話	tu seh tu gho
 多講	tu kaon
@@ -11354,7 +11354,7 @@ min_phrase_weight: 100
 失約	seh iaoh
 失群
 失聲	seh sen
-失言	seh nyie
+失言	seh yie
 失調	seh diau
 失貞
 失責	seh tseh
@@ -11842,7 +11842,7 @@ min_phrase_weight: 100
 妄為	vaon we
 妄稱	vaon tshen
 妄自	vaon dzy
-妄言	vaon nyie
+妄言	vaon yie
 妄語	vaon nyu
 妄說	vaon seh
 妄談	vaon dae
@@ -11865,7 +11865,7 @@ min_phrase_weight: 100
 妖物	iau veh
 妖艷
 妖術	iau dzeh
-妖言	iau nyie
+妖言	iau yie
 妖邪	iau zia
 妖鬼	iau kue
 妖魔鬼怪	iau mu ciu kua
@@ -12070,7 +12070,7 @@ min_phrase_weight: 100
 婉然
 婉約	uoe iaoh
 婉蜒
-婉言	uoe nyie
+婉言	uoe yie
 婊	piau
 婕	tsih
 婚	huen
@@ -12105,7 +12105,7 @@ min_phrase_weight: 100
 媒	me
 媒人	me nyin
 媒介	me ka
-媒言	me nyie
+媒言	me yie
 媚	mi
 媚人	mi nyin
 媚悅
@@ -12639,7 +12639,7 @@ min_phrase_weight: 100
 宛延	uoe yie
 宛然	uoe zoe
 宛若	uoe zaoh
-宛言	uoe nyie
+宛言	uoe yie
 宛轉	uoe tsoe
 宜	nyi
 宜人	nyi nyin
@@ -12660,7 +12660,7 @@ min_phrase_weight: 100
 客隆
 宣	sie
 宣教	sie ciau
-宣言	sie nyie
+宣言	sie yie
 宣講	sie kaon
 宣讀	sie doh
 室	seh
@@ -12909,7 +12909,7 @@ min_phrase_weight: 100
 寓教	nyu ciau
 寓於	nyu yu
 寓義
-寓言	nyu nyie
+寓言	nyu yie
 寞	moh
 寞然
 察	tshah
@@ -12921,7 +12921,7 @@ min_phrase_weight: 100
 寡妻
 寡孀
 寡聞	ko ven
-寡言	ko nyie
+寡言	ko yie
 寢	tshin
 寢車	tshin tsho
 寣	hueh
@@ -13273,7 +13273,7 @@ min_phrase_weight: 100
 導標
 導發
 導碼
-導言	dau nyie
+導言	dau yie
 導課
 導讀	dau doh
 導通
@@ -14023,7 +14023,7 @@ min_phrase_weight: 100
 巧思	chiau sy
 巧果
 巧用
-巧言	chiau nyie
+巧言	chiau yie
 巧雲
 巨	jiu
 巨人	jiu nyin
@@ -14277,7 +14277,7 @@ min_phrase_weight: 100
 常莊
 常被	zan be
 常見	zan cie
-常言	zan nyie
+常言	zan yie
 常說	zan seh
 常識	zan seh
 常銷
@@ -14519,7 +14519,7 @@ min_phrase_weight: 100
 庎	ka
 庎廚
 序	ziu
-序言	ziu nyie
+序言	ziu yie
 底	ti
 底下	ti gho
 底下頭	ti gho deu
@@ -14747,7 +14747,7 @@ min_phrase_weight: 100
 引者
 引荐
 引見	yin cie
-引言	yin nyie
+引言	yin yie
 引避
 引頸	yin cin
 弗	feh
@@ -15410,7 +15410,7 @@ min_phrase_weight: 100
 微行	vi yin
 微視	vi zy
 微觀	vi kuoe
-微言	vi nyie
+微言	vi yie
 微詞	vi zy
 微調	vi diau
 微賤	vi dzie
@@ -15610,7 +15610,7 @@ min_phrase_weight: 100
 忠心度
 忠於	tson yu
 忠牲	tson san
-忠言	tson nyie
+忠言	tson yie
 忡	tshon
 忤	ng
 忤	wu
@@ -15802,7 +15802,7 @@ min_phrase_weight: 100
 怨望	ioe waon
 怨毒	ioe doh
 怨聲	ioe sen
-怨言	ioe nyie
+怨言	ioe yie
 怨鬼	ioe kue
 怩	nyi
 怪	kua
@@ -16058,7 +16058,7 @@ min_phrase_weight: 100
 惡臭	oh tsheu
 惡行	oh yin
 惡補	oh pu
-惡言	oh nyie
+惡言	oh yie
 惡語	oh nyu
 惡賊	oh dzeh
 惡質	oh tseh
@@ -16256,7 +16256,7 @@ min_phrase_weight: 100
 感覺	koe cioh
 感觀	koe kuoe
 感觸	koe tshoh
-感言	koe nyie
+感言	koe yie
 感謝	koe zia
 感通	koe thon
 感遇	koe nyu
@@ -16295,7 +16295,7 @@ min_phrase_weight: 100
 慎思	zen sy
 慎於	zen yu
 慎行	zen yin
-慎言	zen nyie
+慎言	zen yie
 慎防	zen vaon
 慕	mu
 慕道
@@ -16752,7 +16752,7 @@ min_phrase_weight: 100
 戲衣	shi i
 戲裝	shi tsaon
 戲裡	shi li
-戲言	shi nyie
+戲言	shi yie
 戲評	shi bin
 戲說	shi seh
 戲論	shi len
@@ -16829,7 +16829,7 @@ min_phrase_weight: 100
 所花
 所藏
 所見	su cie
-所言	su nyie
+所言	su yie
 所訂
 所設
 所誤
@@ -18191,7 +18191,7 @@ min_phrase_weight: 100
 插檔
 插滿
 插蠟燭
-插言	tshah nyie
+插言	tshah yie
 插髮簪
 揖	ih
 揖別
@@ -18200,7 +18200,7 @@ min_phrase_weight: 100
 揚樹頭
 揚波	yan pu
 揚聲	yan sen
-揚言	yan nyie
+揚言	yan yie
 揚鑣
 揚長	yan dzan
 揚麥
@@ -19091,7 +19091,7 @@ min_phrase_weight: 100
 放聲	faon sen
 放蛇	faon dzo
 放行	faon yin
-放言	faon nyie
+放言	faon yie
 放逸
 放過門
 放還	faon wae
@@ -19226,7 +19226,7 @@ min_phrase_weight: 100
 敢是
 敢為
 敢煩
-敢言	koe nyie
+敢言	koe yie
 敢說	koe seh
 敢講	koe kaon
 敢鬥
@@ -19386,7 +19386,7 @@ min_phrase_weight: 100
 文華	ven gho
 文萃
 文號
-文言	ven nyie
+文言	ven yie
 文言文	ven yie ven
 文論
 文讀	ven doh
@@ -19574,7 +19574,7 @@ min_phrase_weight: 100
 斷落	doe loh
 斷裂	doe lih
 斷見	doe cie
-斷言	doe nyie
+斷言	doe yie
 斷語	doe nyu
 斷貨	doe hu
 斷路	doe lu
@@ -19612,7 +19612,7 @@ min_phrase_weight: 100
 方臘	faon lah
 方華	faon gho
 方術	faon dzeh
-方言	faon nyie
+方言	faon yie
 方言	faon yie
 方言歌	faon yie ku
 方鋼
@@ -19974,7 +19974,7 @@ min_phrase_weight: 100
 明瓦
 明眼
 明膠	min kau
-明言	min nyie
+明言	min yie
 明說	min seh
 明講	min kaon
 明起
@@ -20460,7 +20460,7 @@ min_phrase_weight: 100
 暢演
 暢聚
 暢行	tshan yin
-暢言	tshan nyie
+暢言	tshan yie
 暨	ci
 暨南	ci noe
 暨大	ci da
@@ -21135,7 +21135,7 @@ min_phrase_weight: 100
 有規範
 有解	yeu cia
 有解釋	yeu ka seh
-有言	yeu nyie
+有言	yeu yie
 有詩
 有說	yeu seh
 有講究	yeu kaon cieu
@@ -22040,7 +22040,7 @@ min_phrase_weight: 100
 格柵	kaoh sah
 格物	kaoh veh
 格裡
-格言	kaoh nyie
+格言	kaoh yie
 格調	kaoh diau
 格賤
 格錚	kaoh tsen
@@ -22984,7 +22984,7 @@ min_phrase_weight: 100
 正而巴緊	tsen r pa cin
 正肥	tsen vi
 正被	tsen be
-正言	tsen nyie
+正言	tsen yie
 正詞
 正負	tsen veu
 正賽
@@ -23018,7 +23018,7 @@ min_phrase_weight: 100
 此行	tshy ghaon
 此行	tshy yin
 此表
-此言	tshy nyie
+此言	tshy yie
 此誠
 此論
 此謂
@@ -24070,7 +24070,7 @@ min_phrase_weight: 100
 法而
 法英
 法術	fah dzeh
-法言	fah nyie
+法言	fah yie
 法象
 法這
 法難
@@ -24314,7 +24314,7 @@ min_phrase_weight: 100
 流滿
 流紅	lieu ghon
 流行	lieu yin
-流言	lieu nyie
+流言	lieu yie
 流金
 流飛
 流食	lieu dzeh
@@ -26053,7 +26053,7 @@ min_phrase_weight: 100
 無視	vu zy
 無角	vu koh
 無解	vu cia
-無言	vu nyie
+無言	vu yie
 無話	vu gho
 無語	vu nyu
 無誤	vu ngu
@@ -26211,7 +26211,7 @@ min_phrase_weight: 100
 煩神
 煩老太婆
 煩膩
-煩言	vae nyie
+煩言	vae yie
 煬	yaon
 煮	tsyu
 煮湯	tsyu thaon
@@ -26766,7 +26766,7 @@ min_phrase_weight: 100
 狂歌
 狂瀉
 狂舞
-狂言	guaon nyie
+狂言	guaon yie
 狃	nyeu
 狄	dih
 狉	phi
@@ -27666,7 +27666,7 @@ min_phrase_weight: 100
 留歸
 留痕
 留蘇
-留言	lieu nyie
+留言	lieu yie
 留足
 留辦
 留院
@@ -27780,7 +27780,7 @@ min_phrase_weight: 100
 異行	yi ghaon
 異術	yi dzeh
 異見	yi cie
-異言	yi nyie
+異言	yi yie
 異說	yi seh
 異趣	yi tshiu
 畲	so
@@ -28176,7 +28176,7 @@ min_phrase_weight: 100
 發行	fah yin
 發西風
 發覺	fah cioh
-發言	fah nyie
+發言	fah yie
 發踱
 發車	fah tsho
 發還	fah wae
@@ -28526,7 +28526,7 @@ min_phrase_weight: 100
 直裏
 直裏向
 直覺	dzeh cioh
-直言	dzeh nyie
+直言	dzeh yie
 直說	dzeh seh
 直講	dzeh kaon
 直轄	dzeh yah
@@ -28714,7 +28714,7 @@ min_phrase_weight: 100
 真生活	tsen san weh
 真細
 真能	tsen nen
-真言	tsen nyie
+真言	tsen yie
 真陡
 真靈
 真靚	tsen lian
@@ -29013,7 +29013,7 @@ min_phrase_weight: 100
 矜持	cin dzy
 矜誇	cin kho
 矢	sy
-矢言	sy nyie
+矢言	sy yie
 矣	yi
 知	tsy
 知了	tsy liau
@@ -29997,7 +29997,7 @@ min_phrase_weight: 100
 空無	khon vu
 空疏	khon syu
 空箱
-空言	khon nyie
+空言	khon yie
 空調	khon diau
 空費	khon fi
 空郵
@@ -30115,7 +30115,7 @@ min_phrase_weight: 100
 立標準
 立櫃	lih gue
 立約	lih iaoh
-立言	lih nyie
+立言	lih yie
 立說	lih seh
 立賬
 立顯
@@ -30226,7 +30226,7 @@ min_phrase_weight: 100
 笑煞
 笑答
 笑聲	siau sen
-笑言	siau nyie
+笑言	siau yie
 笑話奇談
 笑說	siau seh
 笑誰
@@ -30334,7 +30334,7 @@ min_phrase_weight: 100
 答復
 答曰
 答茬
-答言	tah nyie
+答言	tah yie
 答酬
 策	tshaoh
 筘	kheu
@@ -30421,7 +30421,7 @@ min_phrase_weight: 100
 箱	sian
 箱等
 箴	tsen
-箴言	tsen nyie
+箴言	tsen yie
 箸	dzyu
 箸籠
 節	tsih
@@ -30617,7 +30617,7 @@ min_phrase_weight: 100
 粗胖	tshu phaon
 粗茶
 粗莽
-粗言	tshu nyie
+粗言	tshu yie
 粗讀	tshu doh
 粗貨
 粗飯
@@ -30801,7 +30801,7 @@ min_phrase_weight: 100
 約翰	iaoh ghoe
 約莫	iaoh moh
 約見	iaoh cie
-約言	iaoh nyie
+約言	iaoh yie
 約計	iaoh ci
 約談	iaoh dae
 約請	iaoh tshin
@@ -31160,7 +31160,7 @@ min_phrase_weight: 100
 結籽
 結脫
 結蛛
-結言	cih nyie
+結言	cih yie
 結識	cih seh
 結足
 結體
@@ -31433,7 +31433,7 @@ min_phrase_weight: 100
 緋紅	fi ghon
 緋聞	fi ven
 緒	ziu
-緒言	ziu nyie
+緒言	ziu yie
 緔	zaon
 緗	sian
 緘	ci
@@ -31603,7 +31603,7 @@ min_phrase_weight: 100
 總章
 總第
 總給
-總而言之	tson r nyie tsy
+總而言之	tson r yie tsy
 總肯
 總能	tson nen
 總行	tson ghaon
@@ -31958,7 +31958,7 @@ min_phrase_weight: 100
 美芹
 美萍
 美術	mhe dzeh
-美言	mhe nyie
+美言	mhe yie
 美食	mhe dzeh
 羑	yeu
 羔	kau
@@ -32307,7 +32307,7 @@ min_phrase_weight: 100
 而臥
 而落
 而行	r yin
-而言	r nyie
+而言	r yie
 而設
 而逃
 而顯
@@ -32581,7 +32581,7 @@ min_phrase_weight: 100
 聲聞	sen ven
 聲能	sen nen
 聲色	sen seh
-聲言	sen nyie
+聲言	sen yie
 聲討	sen thau
 聲調	sen diau
 聲譽	sen yu
@@ -32925,7 +32925,7 @@ min_phrase_weight: 100
 胡普
 胡淆
 胡瓜	wu ko
-胡言	wu nyie
+胡言	wu yie
 胡說	wu seh
 胡鍛
 胤	yin
@@ -34424,7 +34424,7 @@ min_phrase_weight: 100
 萬華	vae gho
 萬萬	vae vae
 萬行	vae ghaon
-萬言	vae nyie
+萬言	vae yie
 萬變	vae pie
 萬象	vae zian
 萬貫	vae kuae
@@ -35029,7 +35029,7 @@ min_phrase_weight: 100
 虛練
 虛腫
 虛衰	shiu se
-虛言	shiu nyie
+虛言	shiu yie
 虛誇	shiu kho
 虛開
 虛雲
@@ -35982,7 +35982,7 @@ min_phrase_weight: 100
 要落
 要見	iau cie
 要視
-要言	iau nyie
+要言	iau yie
 要誰
 要講	iau kaon
 要變
@@ -36295,35 +36295,35 @@ min_phrase_weight: 100
 言	nyie	0%
 言	ghae	0%
 言	yie	100%
-言下	nyie gho
-言之	nyie tsy
-言傳	nyie dzoe
-言及	nyie jih
-言和	nyie wu
-言喻	nyie yu
-言外	nyie nga
-言官	nyie kuoe
-言對	nyie te
-言情	nyie dzin
-言教	nyie ciau
-言明	nyie min
-言歡	nyie huoe
-言歸	nyie kue
-言煩	nyie vae
-言笑	nyie siau
-言筌	nyie tshie
-言者	nyie tse
-言行	nyie yin
-言詞	nyie zy
+言下	yie gho
+言之	yie tsy
+言傳	yie dzoe
+言及	yie jih
+言和	yie wu
+言喻	yie yu
+言外	yie nga
+言官	yie kuoe
+言對	yie te
+言情	yie dzin
+言教	yie ciau
+言明	yie min
+言歡	yie huoe
+言歸	yie kue
+言煩	yie vae
+言笑	yie siau
+言筌	yie tshie
+言者	yie tse
+言行	yie yin
+言詞	yie zy
 言話	ghae gho
-言語	nyie nyu
-言說	nyie seh
-言談	nyie dae
-言論	nyie len
-言路	nyie lu
-言辭	nyie zy
-言道	nyie dau
-言重	nyie dzon
+言語	yie nyu
+言說	yie seh
+言談	yie dae
+言論	yie len
+言路	yie lu
+言辭	yie zy
+言道	yie dau
+言重	yie dzon
 訂	tin
 訂下	tin gho
 訂了	tin liau
@@ -36386,7 +36386,7 @@ min_phrase_weight: 100
 託媒
 託幼
 託盤
-託言	thoh nyie
+託言	thoh yie
 託辦
 記	ci
 記下	ci gho
@@ -36403,7 +36403,7 @@ min_phrase_weight: 100
 訛	ngu
 訛人	ngu nyin
 訛算
-訛言	ngu nyie
+訛言	ngu yie
 訛錯
 訝	ia
 訟	son
@@ -36624,7 +36624,7 @@ min_phrase_weight: 100
 誓由
 誓約	zy iaoh
 誓與
-誓言	zy nyie
+誓言	zy yie
 誕	tae
 誕生	tae sen
 誗	dzie
@@ -36643,7 +36643,7 @@ min_phrase_weight: 100
 語業
 語群
 語聲	nyu sen
-語言	nyu nyie
+語言	nyu yie
 語調	nyu diau
 語象
 誠	zen
@@ -36965,7 +36965,7 @@ min_phrase_weight: 100
 諭	yu
 諮	tsy
 諱	hue
-諱言	hue nyie
+諱言	hue yie
 諳	oe
 諳識	oe seh
 諳達
@@ -36986,7 +36986,7 @@ min_phrase_weight: 100
 諺曰
 諼	shioe
 諾	noh
-諾言	noh nyie
+諾言	noh yie
 諾頓	noh ten
 謀	meu
 謀害	meu ghe
@@ -37005,7 +37005,7 @@ min_phrase_weight: 100
 謇	cie
 謊	huaon
 謊花
-謊言	huaon nyie
+謊言	huaon yie
 謎	me
 謎	mi
 謎團	mi doe
@@ -37099,7 +37099,7 @@ min_phrase_weight: 100
 謝非
 謠	yau
 謠俗
-謠言	yau nyie
+謠言	yau yie
 謠諺
 謨	mu
 謫	tsaoh
@@ -37285,7 +37285,7 @@ min_phrase_weight: 100
 讎讎
 讒	dzae
 讒害	dzae ghe
-讒言	dzae nyie
+讒言	dzae yie
 讓	nyan
 讓人	nyan nyin
 讓人家	nyan nyin ka
@@ -37297,7 +37297,7 @@ min_phrase_weight: 100
 讓車	nyan tsho
 讓道
 讕	lae
-讕言	lae nyie
+讕言	lae yie
 讖	tshen
 讖緯	tshen we
 讚	tsae
@@ -37800,13 +37800,13 @@ min_phrase_weight: 100
 賾	dzaoh
 贄	tsy
 贅	tsoe
-贅言	tsoe nyie
+贅言	tsoe yie
 贇	iun
 贈	dzen
 贈予	dzen yu
 贈物	dzen veh
 贈票
-贈言	dzen nyie
+贈言	dzen yie
 贈賜
 贊	tsae
 贊佩
@@ -38619,7 +38619,7 @@ min_phrase_weight: 100
 輕聲	chin sen
 輕薄	chin boh
 輕觸
-輕言	chin nyie
+輕言	chin yie
 輕讀	chin doh
 輕財
 輕軟
@@ -39230,7 +39230,7 @@ min_phrase_weight: 100
 進給
 進線
 進行	tsin yin
-進言	tsin nyie
+進言	tsin yie
 進身
 進迫	tsin phaoh
 進針
@@ -39550,7 +39550,7 @@ min_phrase_weight: 100
 遺臣	yi zen
 遺落	yi loh
 遺著	yi tsyu
-遺言	yi nyie
+遺言	yi yie
 遺訓	yi shiun
 遺詔	yi tsau
 遺贈	yi dzen
@@ -41390,7 +41390,7 @@ min_phrase_weight: 100
 附着	vu dzaoh
 附約	vu iaoh
 附耳	vu r
-附言	vu nyie
+附言	vu yie
 附頁
 陋	leu
 陋屋	leu oh
@@ -41632,7 +41632,7 @@ min_phrase_weight: 100
 陳禕
 陳紅	dzen ghon
 陳虎
-陳言	dzen nyie
+陳言	dzen yie
 陳說	dzen seh
 陳賬
 陳軍
@@ -41848,7 +41848,7 @@ min_phrase_weight: 100
 雅樂	ia yaoh
 雅致
 雅苑
-雅言	ia nyie
+雅言	ia yie
 雅趣	ia tshiu
 集	dzih
 集合	dzih gheh
@@ -42057,7 +42057,7 @@ min_phrase_weight: 100
 難行	nae ghan
 難被	nae be
 難解	nae cia
-難言	nae nyie
+難言	nae yie
 難說	nae seh
 難講	nae kaon
 難越
@@ -42587,7 +42587,7 @@ min_phrase_weight: 100
 預繳	yu ciau
 預考
 預見	yu cie
-預言	yu nyie
+預言	yu yie
 預防	yu vaon
 頑	mae
 頑	woe
@@ -42939,7 +42939,7 @@ min_phrase_weight: 100
 食缽	dzeh peh
 食肆	dzeh sy
 食肉	dzeh nyoh
-食言	dzeh nyie
+食言	dzeh yie
 食譜	dzeh pu
 食道	dzeh dau
 食邑	dzeh ih

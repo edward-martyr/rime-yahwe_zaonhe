@@ -3,4 +3,4 @@ patch:
       - schema: luna_pinyin         # 朙月拼音
     # - schema: jyutping            # 粵拼
       - schema: yahwe               # 吳語協會
-   #  - schema: ipa_xsampa          # X-SAMPA 國際音標
+    # - schema: ipa_xsampa          # X-SAMPA 國際音標
