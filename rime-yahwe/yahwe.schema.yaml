@@ -93,7 +93,7 @@ speller:
     - derive/(.*(?:i|o|a|e|u))h/$1k/ 
     - derive/^tsh/tt/
     - derive/^sh/x/
-    - derive/^/q/
+    - derive/^ch/q/
     - derive/(.*)ah/$1aa/
     - derive/(.*)oh/$1oo/
     - derive/(.*)eh/$1ee/
