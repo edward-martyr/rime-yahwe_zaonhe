@@ -28,7 +28,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 ![成語](https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/chengyu.png)
 
-支持俗語（注意「射」的寫法，可爲dza，太湖片以外口音，區分度高，也可爲za，符合太湖片習慣）：
+支持俗語（注意「射」的寫法，可爲dza，蘇滬嘉小片以外口音，區分度高，也可爲za，符合上海話習慣）：
 
 ![俗語](https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/idiom.png)
 
