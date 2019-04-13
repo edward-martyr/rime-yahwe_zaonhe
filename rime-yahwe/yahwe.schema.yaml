@@ -58,7 +58,9 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^([bcdfghjklprstvwxyz]).+$/$1/       # 對齊標準行
+    - abbrev/^([bcdfghjklprstvwxyz]).+$/$1/       # 若要修改請對齊標準行
+    - abbrev/^([kptgcs]h).+$/$1/
+    - abbrev/^(tsh|ng).+$/$1/
     - derive/^dz/z/                               # 模糊“從”“邪”
     - derive/(.*)aoh/$1ah/                        # 模糊前後ah
     - derive/(.*)ae/$1e/                          # 模糊“蘭”“雷”
@@ -70,8 +72,8 @@ speller:
     - derive/^p/b/ 
     - derive/^c/j/ 
     - derive/^j/c/ 
-    - derive/^k(?!h)/g/ 
-    - derive/^g(?!h)/k/ 
+    - derive/^k(?=a|e|o|u)/g/ 
+    - derive/^g(?=a|e|o|u)/k/ 
     - derive/^nh/n/ 
     - derive/^mh/m/ 
     - derive/^vh/v/ 
@@ -86,7 +88,7 @@ speller:
     - derive/^nyi/ni/
     - derive/^ny/ni/
     - derive/^zaon/laon/
-    - derive/^(?<!d)zi(?=a)/y/                    #謝謝 zia ya
+    - derive/^(?<!d)zi(?=a)/y/                    #謝謝 zia ya，好像 hau yan，etc
 
     - derive/(.*)en/$1n/                          # 方便
     - derive/(.*)au/$1ao/                         
@@ -112,7 +114,7 @@ speller:
     - derive/^zi/zhi/
     - derive/^si/xi/
     - derive/^si/shi/
-    - derive/^(c|ch|j|ny|sh|y|x)i([aeou])/$1$2/     
+    - derive/^(c|ch|j|ny|sh|y|x|q)i([aeou])/$1$2/     
     - derive/^(ts|z|dz|s|l)i(eu)/$1$2/     
     - derive/^tshyu/tshy/                         # 模糊“書”“詩”
     - derive/^tsyu/tsy/
