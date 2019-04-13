@@ -1,17 +1,20 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# 上海吳語（老派）
+# 上海吳語
 #
 # 碼表製作：
 #
 #   上海閒話abc <tzyyiggnih@yahoo.com.cn>
 #   吳語越音 <zhufya@mail.ustc.edu.cn>
 #
+# 增改：
+# 
+#   埃爾德路 ‹edwardmartyr@outlook.com›
 
 ---
-name: wugniu_lopha
-version: "2016.05.14"
+name: yahwe
+version: "2019"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -19,7 +22,7 @@ import_tables:
   - luna_pinyin.poetry
   - inven
   - seukeu
-max_phrase_length: 7
+max_phrase_length: 8
 min_phrase_weight: 100
 ...
 

@@ -6,8 +6,6 @@ schema:
   name: 吳語協會式
   version: "0.15"
   author:
-    - 上海閒話abc <tzyyiggnih@yahoo.com.cn>
-    - 吳語越音 <zhufya@mail.ustc.edu.cn>
     - 埃爾德路 ‹edwardmartyr@outlook.com›
   description: |
     上海言話
@@ -60,20 +58,20 @@ speller:
   algebra:
     - abbrev/^([bcdfghjklprstvwxyz]).+$/$1/       # 若要修改請對齊標準行
     - abbrev/^([kptgcs]h).+$/$1/
-    - abbrev/^(tsh|ng).+$/$1/
+    - abbrev/^(ts|tsh|ng|dz|ny).+$/$1/
     - derive/^dz/z/                               # 模糊“從”“邪”
     - derive/(.*)aoh/$1ah/                        # 模糊前後ah
     - derive/(.*)ae/$1e/                          # 模糊“蘭”“雷”
 
     - derive/(.*)u/$1ou/ 
-    - derive/^t(?!s)/d/         # 嘸沒必要去區分迭些清濁，伲吳語個發音辨識度高
-    - derive/^d/t(?!s)/ 
-    - derive/^b/p/ 
-    - derive/^p/b/ 
-    - derive/^c/j/ 
-    - derive/^j/c/ 
-    - derive/^k(?=a|e|o|u)/g/ 
-    - derive/^g(?=a|e|o|u)/k/ 
+    - derive/^t(?=[aeiou])/d/         # 嘸沒必要去區分迭些清濁，伲吳語個發音辨識度高
+    - derive/^d(?=[aeiou])/t/ 
+    - derive/^b(?=[aeiou])/p/ 
+    - derive/^p(?=[aeiou])/b/ 
+    - derive/^c(?=[aeiou])/j/ 
+    - derive/^j(?=[aeiou])/c/ 
+    - derive/^k(?=[aeou])/g/ 
+    - derive/^g(?=[aeou])/k/ 
     - derive/^nh/n/ 
     - derive/^mh/m/ 
     - derive/^vh/v/ 
@@ -92,7 +90,7 @@ speller:
 
     - derive/(.*)en/$1n/                          # 方便
     - derive/(.*)au/$1ao/                         
-    - derive/(.*(?:i|o|a|e|u))h/$1k/ 
+    - derive/(.*(?:[aeiou]))h/$1k/ 
     - derive/^tsh/tt/
     - derive/^sh/x/
     - derive/^ch/q/
@@ -106,6 +104,7 @@ speller:
     - derive/^tsy/tss/
     - derive/^dzy/dzz/
     - derive/(.*)uih/$1uh/ 
+    - derive/^ng/gg/
 
 
     - derive/^tshi/ci/                             # 以下幾行是模糊分尖團音個
@@ -126,8 +125,8 @@ speller:
     - derive/(.*)an/$1aon/ 
 
 translator:
-  dictionary: wugniu_lopha
-  prism: wugniu
+  dictionary: yahwe
+  prism: yahwe
   spelling_hints: 5
 
 reverse_lookup:
