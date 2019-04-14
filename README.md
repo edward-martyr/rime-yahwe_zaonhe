@@ -24,7 +24,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe` 即可。
 
-![示例](https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/example.png =50x)
+<img src="https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/example.png" alt="示例" width="200"/>
 
 支持四字成語：
 
