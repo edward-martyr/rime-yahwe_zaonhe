@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./images/logo.svg?sanitize=true" height="100"/></div>
+<img align="center" src="./images/logo.svg?sanitize=true" alt="logo" height="100"/>
 
 # rime-yahwe：吳語協會式上海話輸入法
 
