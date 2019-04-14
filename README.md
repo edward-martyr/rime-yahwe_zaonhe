@@ -1,4 +1,4 @@
-<img align="center" src="./images/logo.svg?sanitize=true" alt="logo" height="100"/>
+<p align="center"><img align="center" src="./images/logo.svg?sanitize=true" alt="logo" height="100"/></p>
 
 # rime-yahwe：吳語協會式上海話輸入法
 
@@ -10,7 +10,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 ## 安裝
 
-將所有`*.yaml`文件複製到Rime用戶文件夾（MacOS下一般是`~/Library/Rime/`）即可。
+將所有 `*.yaml` 文件複製到Rime用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可。
 
 ## 文件說明
 
@@ -18,7 +18,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 `*.dict.yaml` 都是字典文件。
 
-`yahwe.schema.yaml` 輸入方案設定，包括模糊音、簡寫等設置。
+`yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
 ## 輸入習慣
 
@@ -36,6 +36,6 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 <img src="./images/idiom.png" alt="俗語" height="200"/>
 
-通過`luna_pinyin.poetry.dict.yaml`支持詩句：
+通過 `luna_pinyin.poetry.dict.yaml` 支持詩句：
 
 <img src="./images/poetry.png" alt="詩句" height="200"/>
