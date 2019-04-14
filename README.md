@@ -10,7 +10,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 ## 安裝
 
-將所有 `*.yaml` 文件複製到Rime用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可。
+將所有 `rime-yahwe/*.yaml` 文件複製到Rime用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
 
 ## 文件說明
 
@@ -26,7 +26,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe` 即可。
 
-<img src="./images/example.png" alt="示例" height="200"/>
+<img src="./images/emoji.png" alt="示例" height="200"/>
 
 支持四字成語：
 
