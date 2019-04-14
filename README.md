@@ -2,9 +2,9 @@
 
 Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶。這個repo把 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動），又結合了搜狗詞庫等，望能方便更多用戶、使用面更廣。簡介另見<https://zhuanlan.zhihu.com/p/62118563>。
 
-
-
-|![示例1](https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/gifsample2.gif)|![示例2](https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/gifsample1.gif)|
+| Examples                                                     |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![示例1](https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/gifsample2.gif) | ![示例2](https://github.com/edward-martyr/Rime-Yahwe/blob/master/images/gifsample1.gif) |
 
 ## 安裝
 
