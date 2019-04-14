@@ -22,7 +22,7 @@ Plum給出的吳語拼音方案是法吳的，並不一定適合所有的用戶�
 
 ## 輸入習慣
 
-在 `yahwe.schema.yaml` 中默認是不區分尖團的，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 `ss=sy`、`tsh=tt`，在實際使用中可用可不用，熟悉的用戶都可以自定義。
+在 `yahwe.schema.yaml` 中默認是不區分尖團的，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 `ss=sy`、`tsh=tt`、`VV=Vh (V is any vowel, eg. nyoo=nyoh)`，在實際使用中可用可不用，熟悉的用戶都可以自定義。
 
 可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe` 即可。
 
