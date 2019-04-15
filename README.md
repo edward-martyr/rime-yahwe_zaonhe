@@ -2,7 +2,7 @@
 
 # rime-yahwe：吳語協會式上海話輸入法
 
-[Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個repo把 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下知乎介紹），又結合了搜狗詞庫等，望能方便更多用戶、使用面更廣。簡介另見<https://zhuanlan.zhihu.com/p/62118563>。
+[Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個repo把 Plum 方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），又結合了搜狗詞庫等，望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563>。
 
 | Example 1                         | Example 2                         |
 | --------------------------------- | --------------------------------- |
@@ -10,13 +10,15 @@
 
 ## 安裝
 
-將所有 `rime-yahwe/*.yaml` 文件複製到Rime用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
+沒有安裝過 Rime 引擎的用戶先行安裝該輸入法引擎：<https://rime.im/download/>。
+
+將所有 `rime-yahwe/*.yaml` 文件複製到 Rime 用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
 
 ## 文件說明
 
 `default.custom.yaml`：包含朙月拼音和吳語協會式兩種的定義。熟悉的用戶可以使用自己定義的文檔。
 
-`*.dict.yaml` 都是字典文件。
+`*.dict.yaml` 皆爲字典文件。
 
 `yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
@@ -32,7 +34,7 @@
 
 <img src="./images/chengyu.png" alt="成語" height="200"/>
 
-支持俗語（注意「射」的寫法，可爲dza，蘇滬嘉小片以外口音，區分度高，也可爲za，符合上海話習慣）：
+支持俗語（注意「射」的寫法，可爲 `dza`，蘇滬嘉小片以外口音，區分度高，也可爲 `za`，符合上海話習慣）：
 
 <img src="./images/idiom.png" alt="俗語" height="200"/>
 
