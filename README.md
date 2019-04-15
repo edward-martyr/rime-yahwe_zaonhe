@@ -33,7 +33,7 @@ bash rime-install edward-martyr/Rime-Yahwe
 
 #### Windows
 
-調出`【小狼毫】方案選單設定` 的頁面，點擊「獲取更多輸入方案」，在跳出的窗口中輸入 `edward-martyr/Rime-Yahwe`。
+調出`【小狼毫】方案選單設定` 的頁面，點擊「獲取更多輸入方案」，在跳出的窗口中輸入 `edward-martyr/Rime-Yahwe`。
 
 #### 安卓
 
