@@ -20,7 +20,7 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin.hanyu
   - luna_pinyin.poetry
-  - inven
+  - easy_en
   - seukeu
 min_phrase_weight: 100
 ...
