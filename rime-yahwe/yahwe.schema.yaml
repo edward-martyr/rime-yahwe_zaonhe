@@ -4,7 +4,7 @@
 schema:
   schema_id: yahwe
   name: 吳語協會式
-  version: "0.15"
+  version: "2019"
   author:
     - 埃爾德路 ‹edwardmartyr@outlook.com›
   description: |
@@ -133,6 +133,7 @@ translator:
   spelling_hints: 5
 
 reverse_lookup:
+  tags: [luna_pinyin]
   dictionary: luna_pinyin
   prefix: "`"
   suffix: "'"
