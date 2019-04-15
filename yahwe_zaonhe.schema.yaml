@@ -128,8 +128,8 @@ speller:
     - derive/(.*)an/$1aon/ 
 
 translator:
-  dictionary: yahwe
-  prism: yahwe
+  dictionary: yahwe_zaonhe
+  prism: yahwe_zaonhe
   spelling_hints: 5
 
 reverse_lookup:
