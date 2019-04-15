@@ -1,5 +1,4 @@
-<p align="center"><img align="center" src="./images/logo.svg?sanitize=true" alt="logo" height="100"/></p>
-<p align="center" style="display:block; margin-top:-40px;"><img align="center"  src="./images/zaonhe.svg?sanitize=true" alt="logo" height="60"/></p>
+<p align="center"><img src="./images/logo.svg?sanitize=true" alt="logo" height="100"/></p> 
 
 # rime-yahwe_zaonhe：吳語協會式上海話輸入法
 
@@ -29,7 +28,14 @@ curl -fsSL https://git.io/rime-install | bash
 
 ```bash
 cd plum
+bash rime-install :preset 
 bash rime-install edward-martyr/rime-yahwe_zaonhe
+```
+
+從未使用過 rime 的用戶請添一行：
+
+```bash
+bash rime-install :preset 
 ```
 
 #### Windows

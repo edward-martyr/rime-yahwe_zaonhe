@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 212.3 50.7" style="enable-background:new 0 0 212.3 50.7;" xml:space="preserve">
+	 viewBox="0 0 424.1 132.3" style="enable-background:new 0 0 424.1 132.3;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
-	.st1{enable-background:new    ;}
+	.st0{font-family:'ManbowClear-Regular';}
+	.st1{font-size:100px;}
+	.st2{font-family:'ManbowLines-Regular';}
+	.st3{font-size:60px;}
 </style>
-<rect x="-34.3" y="-44.7" class="st0" width="34.3" height="46.1"/>
-<rect y="1.4" class="st0" width="257.8" height="131.3"/>
-<g class="st1">
-	<path d="M37.8,1.4L9.4,50.3H8.2l10.4-18.2L0.8,1.4h15.8l9.9,17l9.8-17H37.8z M19.3,30.8l6.5-11.1L15.9,2.5H2.8L19.3,30.8z"/>
-	<path d="M47.4,38.2H24.2c-0.3,0-0.5-0.2-0.7-0.3c-0.2-0.2-0.2-0.5,0.1-0.9L44.8,0.7c0.1-0.2,0.3-0.2,0.6-0.2c0.3,0,0.5,0.1,0.6,0.2
-		l21.9,37.5H52L38.1,14.5L24.9,37.2h21.9L47.4,38.2z M45.3,2.1l-6.5,11.2l14,24h13L45.3,2.1z"/>
-	<path d="M105.4,19.8H84.9v18.4H70.9V1.4h14.1v17.3h20.5V1.4h1.2v36.8h-1.2V19.8z M72.2,37.2h11.5V2.5H72.2V37.2z"/>
-	<path d="M143.3,21.1l9.6,16.4l21-36.1h1.4L153.5,39c-0.1,0.2-0.3,0.2-0.6,0.2c-0.3,0-0.5-0.1-0.6-0.2l-9.8-16.7L132.9,39
-		c-0.1,0.2-0.3,0.2-0.6,0.2s-0.5-0.1-0.6-0.2L109.8,1.4h15.8l13.9,23.8l2.4-4L130.3,1.4h24.5L143.3,21.1z M111.8,2.5l20.5,35
-		l6.5-11.1L124.9,2.5H111.8z M142.6,19.9l10.2-17.5h-20.3L142.6,19.9z"/>
-	<path d="M178.4,1.4h33.1v1h-19v16.3h18.8v1h-18.8v17.4h19.1v1h-33.2V1.4z M179.7,37.2h11.5V2.5h-11.5V37.2z"/>
-</g>
+<text transform="matrix(1 0 0 1 0 76.0628)" class="st0 st1">Yahwe</text>
+<text transform="matrix(1 0 0 1 84.02 130.0628)" class="st2 st3">Zaonhe</text>
 </svg>
