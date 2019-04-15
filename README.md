@@ -10,9 +10,40 @@
 
 ## 安裝
 
+### 準備
+
 沒有安裝過 Rime 引擎的用戶先行安裝該輸入法引擎：<https://rime.im/download/>。
 
-將所有 `rime-yahwe/*.yaml` 文件複製到 Rime 用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
+### 命令行
+
+#### Mac，Linux
+
+先安裝東風破：
+
+```bash
+curl -fsSL https://git.io/rime-install | bash
+```
+
+再通過東風破安裝 `rime-yahwe`：
+
+```bash
+cd plum
+bash rime-install edward-martyr/Rime-Yahwe
+```
+
+#### Windows
+
+調出`【小狼毫】方案選單設定` 的頁面，點擊「獲取更多輸入方案」，在跳出的窗口中輸入 `edward-martyr/Rime-Yahwe`。
+
+#### 安卓
+
+見下。
+
+### 直接複製
+
+電腦用戶將所有 `./rime-yahwe/*.yaml` 文件複製到 Rime 用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
+
+安卓 Trime 用戶也是將文件複製到 `sdcard/Rime` 文件夾下（每臺手機 sd 卡路徑可能不同）。
 
 ## 文件說明
 

@@ -3,7 +3,7 @@
 
 schema:
   schema_id: yahwe
-  name: 吳語協會式
+  name: 吳協式上海言話
   version: "2019"
   author:
     - 埃爾德路 ‹edwardmartyr@outlook.com›
@@ -24,7 +24,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: extended_charset
-    states: ["通用", "增廣"]
+    states: [ 通用, 增廣 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
