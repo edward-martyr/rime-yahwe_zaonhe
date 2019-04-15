@@ -56,7 +56,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^([bcdfghjklprstvwxyz]).+$/$1/       # 若要修改請對齊標準行
+    - abbrev/^([bcdfghjklpqrstvwxyz]).+$/$1/       # 若要修改請對齊標準行
     - abbrev/^([kptgcs]h).+$/$1/
     - abbrev/^(ts|tsh|ng|dz|ny).+$/$1/
     - derive/^dz/z/                               # 模糊“從”“邪”
@@ -88,9 +88,8 @@ speller:
     - derive/^zaon/laon/
     - derive/^(?<!d)zi(?=a)/y/                    #謝謝 zia ya，好像 hau yan，etc
 
-    - derive/(.*)en/$1n/                          # 方便
+    - derive/(.*)en/$1n/                          # 簡寫以及更多易錯模糊
     - derive/(.*)au/$1ao/                         
-    - derive/(.*(?:[aeiou]))h/$1k/ 
     - derive/^tsh/tt/
     - derive/^sh/x/
     - derive/^ch/q/
@@ -103,8 +102,12 @@ speller:
     - derive/^zy/zz/
     - derive/^tsy/tss/
     - derive/^dzy/dzz/
+    - derive/^tshy/ttt/
     - derive/(.*)uih/$1uh/ 
     - derive/^ng/gg/
+    - derive/^ny/nn/
+    - derive/^gh/hh/
+    - derive/^oe/eo/
 
 
     - derive/^tshi/ci/                             # 以下幾行是模糊分尖團音個
