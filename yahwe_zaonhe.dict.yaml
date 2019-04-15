@@ -14,7 +14,7 @@
 
 ---
 name: yahwe_zaonhe
-version: "2019.4.15"
+version: "2019.04.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:

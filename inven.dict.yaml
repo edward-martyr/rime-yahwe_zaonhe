@@ -1,6 +1,6 @@
 ---
 name: inven
-version: "2019"
+version: "2019.04.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...

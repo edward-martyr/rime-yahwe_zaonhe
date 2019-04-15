@@ -1,5 +1,5 @@
 <p align="center"><img align="center" src="./images/logo.svg?sanitize=true" alt="logo" height="100"/></p>
-<p align="center"><img align="center"  src="./images/zaonhe.svg?sanitize=true" alt="logo" height="60"/></p>
+<p align="center" style="display:block; margin-top:-40px;"><img align="center"  src="./images/zaonhe.svg?sanitize=true" alt="logo" height="60"/></p>
 
 # rime-yahwe_zaonhe：吳語協會式上海話輸入法
 
