@@ -1,6 +1,7 @@
 <p align="center"><img align="center" src="./images/logo.svg?sanitize=true" alt="logo" height="100"/></p>
+<p align="center"><img align="center"  src="./images/zaonhe.svg?sanitize=true" alt="logo" height="60"/></p>
 
-# rime-yahwe：吳語協會式上海話輸入法
+# rime-yahwe_zaonhe：吳語協會式上海話輸入法
 
 [Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個repo把 Plum 方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），又結合了搜狗詞庫等，望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563>。
 
@@ -28,12 +29,12 @@ curl -fsSL https://git.io/rime-install | bash
 
 ```bash
 cd plum
-bash rime-install edward-martyr/Rime-Yahwe
+bash rime-install edward-martyr/rime-yahwe_zaonhe
 ```
 
 #### Windows
 
-調出`【小狼毫】方案選單設定` 的頁面，點擊「獲取更多輸入方案」，在跳出的窗口中輸入 `edward-martyr/Rime-Yahwe`。
+調出`【小狼毫】方案選單設定` 的頁面，點擊「獲取更多輸入方案」，在跳出的窗口中輸入 `edward-martyr/rime-yahwe_zaonhe`。
 
 #### 安卓
 
