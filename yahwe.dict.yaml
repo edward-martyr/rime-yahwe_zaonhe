@@ -14,12 +14,10 @@
 
 ---
 name: yahwe
-version: "2019"
+version: "2019.4.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
-  - luna_pinyin.hanyu
-  - luna_pinyin.poetry
   - inven
   - seukeu
 max_phrase_length: 8

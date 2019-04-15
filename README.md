@@ -41,7 +41,7 @@ bash rime-install edward-martyr/Rime-Yahwe
 
 ### 直接複製
 
-電腦用戶將所有 `./rime-yahwe/*.yaml` 文件複製到 Rime 用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
+電腦用戶將所有 `*.yaml` 文件複製到 Rime 用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
 
 安卓 Trime 用戶也是將文件複製到 `sdcard/Rime` 文件夾下（每臺手機 sd 卡路徑可能不同）。
 
@@ -69,6 +69,6 @@ bash rime-install edward-martyr/Rime-Yahwe
 
 <img src="./images/idiom.png" alt="俗語" height="200"/>
 
-通過 `luna_pinyin.poetry.dict.yaml` 支持詩句：
+可通過 `luna_pinyin.poetry.dict.yaml` 支持詩句：
 
 <img src="./images/poetry.png" alt="詩句" height="200"/>
