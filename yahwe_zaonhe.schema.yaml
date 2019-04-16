@@ -79,8 +79,8 @@ speller:
     - derive/^nk/ng/
     - derive/^i/y/
     - derive/^y/i/
-    - derive/^yih/ih/
-    - derive/^ih/yih/
+    - derive/^yi/i/
+    - derive/^i/yi/
     - derive/^u/w/
     - derive/^w/u/
     - derive/^nyi/ni/
