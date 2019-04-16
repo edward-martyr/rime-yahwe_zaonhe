@@ -2,7 +2,7 @@
 
 # rime-yahwe_zaonhe：吳語協會式上海話輸入法
 
-[Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個repo把 Plum 方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），又結合了搜狗詞庫等，望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563>。
+[Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個 repo 把  Plum  方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），又結合了搜狗詞庫等，望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563>。
 
 | Example 1                         | Example 2                         |
 | --------------------------------- | --------------------------------- |
@@ -24,7 +24,7 @@
 curl -fsSL https://git.io/rime-install | bash
 ```
 
-再通過東風破安裝 `rime-yahwe`：
+再通過東風破安裝 `rime-yahwe_zaonhe`：
 
 ```bash
 cd plum
@@ -52,13 +52,42 @@ bash rime-install :preset
 
 安卓 Trime 用戶也是將文件複製到 `sdcard/Rime` 文件夾下（每臺手機 sd 卡路徑可能不同）。
 
+## Miscellaneous
+
+用  `rime-yahwe_zaonhe` 也有別具一格的寫詩體驗：
+
+```
+草長鶯飛 路邊
+某種動物 塌下的五穀
+有鋤頭和花芳
+伊講
+要從布穀鳥的叫聲當中
+挑出三個
+錯別字
+因爲鋤頭講成了乳頭
+但是
+夢裏夢着的詩
+是啥言話就是啥
+翻譯不出
+不是訛轉了 燕子的詩
+
+隆冬 夜半鐘聲
+盆栽裏煮了一鑊紫菜
+嘸啥機會呢
+是門戶之見 誰人
+井底田雞 嘶叫 朔風
+霾暗 虧損 矮墩
+松柏 煙華 香塵
+```
+
+自然就具備了一種 pastoralism。
+
 ## 文件說明
 
-`default.custom.yaml`：包含朙月拼音和吳語協會式兩種的定義。熟悉的用戶可以使用自己定義的文檔。
+- `default.custom.yaml`：包含朙月拼音和吳語協會式兩種的定義。熟悉的用戶可以使用自己定義的文檔。
+- `*.dict.yaml` 皆爲字典文件。
+- `yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
-`*.dict.yaml` 皆爲字典文件。
-
-`yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
 ## 輸入習慣
 
