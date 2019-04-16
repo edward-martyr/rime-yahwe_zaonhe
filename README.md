@@ -28,11 +28,10 @@ curl -fsSL https://git.io/rime-install | bash
 
 ```bash
 cd plum
-bash rime-install :preset 
 bash rime-install edward-martyr/rime-yahwe_zaonhe
 ```
 
-從未使用過 rime 的用戶請添一行：
+未安裝過 rime 基本包的用戶請再輸入一行：
 
 ```bash
 bash rime-install :preset 
@@ -44,7 +43,7 @@ bash rime-install :preset
 
 #### 安卓
 
-見下。
+見灋二。
 
 ### 灋二：直接複製
 
@@ -78,6 +77,8 @@ bash rime-install :preset
 井底田雞 嘶叫 朔風
 霾暗 虧損 矮墩
 松柏 煙華 香塵
+
+—— Edward the Martyr
 ```
 
 自然就具備了一種 pastoralism。
