@@ -1,6 +1,6 @@
 ---
 name: seukeu
-version: "2019.04.15"
+version: "2019.04.16"
 sort: by_weight
 use_preset_vocabulary: true
 min_phrase_weight: 100

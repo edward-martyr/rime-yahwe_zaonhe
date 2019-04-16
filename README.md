@@ -14,7 +14,7 @@
 
 沒有安裝過 Rime 引擎的用戶先行安裝該輸入法引擎：<https://rime.im/download/>。
 
-### 命令行
+### 灋一：命令行
 
 #### Mac，Linux
 
@@ -46,7 +46,7 @@ bash rime-install :preset
 
 見下。
 
-### 直接複製
+### 灋二：直接複製
 
 電腦用戶將所有 `*.yaml` 文件複製到 Rime 用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
 
@@ -85,7 +85,7 @@ bash rime-install :preset
 ## 文件說明
 
 - `default.custom.yaml`：包含朙月拼音和吳語協會式兩種的定義。熟悉的用戶可以使用自己定義的文檔。
-- `*.dict.yaml` 皆爲字典文件。
+- `*.dict.yaml` 皆爲字典文件。其中，如有加入英文詞庫的需要，請自行在主字典中開啓 `yahwe_zaonhe.dict.yaml`，否則會稍許拖慢運行速度。
 - `yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
 
