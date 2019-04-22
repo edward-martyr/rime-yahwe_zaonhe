@@ -49,7 +49,7 @@ bash rime-install :preset
 
 電腦用戶將所有 `*.yaml` 文件複製到 Rime 用戶文件夾（MacOS下一般是 `~/Library/Rime/`）即可（熟悉的用戶可以忽略 `default.custom.yaml`）。
 
-安卓 Trime 用戶也是將文件複製到 `sdcard/Rime` 文件夾下（每臺手機 sd 卡路徑可能不同）。
+安卓 [Trime](<http://osfans.github.io/trime/>) 用戶也是將文件複製到 `sdcard/Rime` 文件夾下（每臺手機 sd 卡路徑可能不同）。
 
 ## Miscellaneous
 
