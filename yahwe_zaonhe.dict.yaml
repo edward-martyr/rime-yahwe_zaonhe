@@ -21,7 +21,7 @@ import_tables:
   - luna_pinyin.hanyu
   - luna_pinyin.poetry
   #- easy_en
-  - seukeu
+  #- seukeu
 min_phrase_weight: 100
 ...
 
