@@ -14,14 +14,15 @@
 
 ---
 name: yahwe_zaonhe
-version: "2019.04.16"
+version: "2019.08.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - luna_pinyin.hanyu
-  - luna_pinyin.poetry
-  #- easy_en
-  #- seukeu
+#  - luna_pinyin.poetry
+#  - luna_pinyin.net
+#  - luna_pinyin.computer
+#  - luna_pinyin.place
 min_phrase_weight: 100
 ...
 
@@ -582,7 +583,7 @@ min_phrase_weight: 100
 下挫	gho tshu
 下探	gho thoe
 下揚州	gho yan tseu
-下撥	gho peh
+下畀	gho peh
 下操	gho tshau
 下擺	gho pa
 下放	gho faon
@@ -1583,7 +1584,7 @@ min_phrase_weight: 100
 也挺	gha thin
 也搖	gha yau
 也搞	gha gau
-也撥	gha peh
+也畀	gha peh
 也敢	gha koe
 也於	gha yu
 也早	gha tsau
@@ -2880,10 +2881,11 @@ min_phrase_weight: 100
 企	chi
 企望	chi maon
 伉	khaon
-伉麗 khaon li
+伉儷 khaon li
 伊	i	100%
 伊	yi	0%
 伊人	i nyin
+渠人	yi nyin
 伊仔	i tsy
 伊來付	yi le fu
 伊個	yi gheh
@@ -3251,7 +3253,7 @@ min_phrase_weight: 100
 佞	nyin
 佟	don
 你	nhi
-你丫	nhi o
+你丫	nhi ia
 你也	nhi gha
 你仍	nhi nyin
 你再
@@ -3347,7 +3349,7 @@ min_phrase_weight: 100
 併	pin
 併勒
 併合	pin gheh
-併撥
+併畀
 併為
 併立
 佶	jih
@@ -4124,8 +4126,8 @@ min_phrase_weight: 100
 傳家	dzoe ka
 傳感	dzoe koe
 傳戒	dzoe ka
-傳撥儂
-傳撥我
+傳畀儂
+傳畀我
 傳教	dzoe ciau
 傳染	dzoe nyie
 傳標
@@ -4363,7 +4365,7 @@ min_phrase_weight: 100
 先嘗
 先夫	sie fu
 先懂
-先撥
+先畀
 先於	sie yu
 先期	sie ji
 先生	sie san
@@ -4867,7 +4869,7 @@ min_phrase_weight: 100
 六里
 兮	ghe	0%
 兮	yi	100%
-兮兮	yi yi
+兮兮	shi shi
 共	gon
 共	kon
 共	ghon
@@ -4997,7 +4999,7 @@ min_phrase_weight: 100
 再如
 再後來
 再提	tse di
-再撥儂
+再畀儂
 再收
 再是
 再會	tse we
@@ -5356,7 +5358,7 @@ min_phrase_weight: 100
 分拆	fen tshaoh
 分掉	fen diau
 分揀	fen kae
-分撥	fen peh
+分畀	fen peh
 分擔	fen tae
 分攤	fen thae
 分支	fen tsy
@@ -6236,7 +6238,7 @@ min_phrase_weight: 100
 勿快
 勿悲
 勿想
-勿撥
+勿畀
 勿放
 勿是
 勿曉得
@@ -8091,6 +8093,7 @@ min_phrase_weight: 100
 呢	nyi
 呢	nhe
 呢	nheh
+呢	nyie
 呢喃	nyi noe
 呢噥	nyi non
 呢帽	nyi mau
@@ -13495,7 +13498,7 @@ min_phrase_weight: 100
 就將	dzieu tsian
 就幹
 就懂
-就撥
+就畀
 就教	dzieu ciau
 就數
 就更	dzieu ken
@@ -18690,16 +18693,16 @@ min_phrase_weight: 100
 撤股
 撤防	tsheh vaon
 撥	peh
-撥了	peh liau
+畀了	peh liau
 撥交	peh kau
-撥人家	peh nyin ka
-撥伊	peh yi
-撥儂
+畀人家	peh nyin ka
+畀伊	peh yi
+畀儂
 撥入
 撥叫	peh ciau
 撥弦
-撥我
-撥拉	peh lha
+畀我
+畀拉	peh lha
 撥河
 撥糧
 撥踢
@@ -18707,7 +18710,7 @@ min_phrase_weight: 100
 撩	lhiau
 撩	liau
 撩人	liau nyin
-撩撥	liau peh
+撩畀	liau peh
 撩起	liau chi
 撩逗	liau deu
 撩開	liau khe
@@ -20135,7 +20138,7 @@ min_phrase_weight: 100
 是應
 是所
 是打
-是撥
+是畀
 是教	zy ciau
 是於	zy yu
 是日	zy zeh
@@ -22025,9 +22028,27 @@ min_phrase_weight: 100
 核驗
 核帳	gah tsan
 核苗頭	gah moie deu
-覈	gah
+覈	gah	0%
+覈	gheh	0%
+覈	ghah	100%
 覈苗頭	gah moie deu
 覈帳	gah tsan
+覈准
+覈字
+覈定
+覈實
+覈審
+覈對
+覈批
+覈查
+覈減
+覈示
+覈算
+覈編
+覈計
+覈資
+覈驗
+覈帳	ghah tsan
 根	ken
 根株
 根機
@@ -22183,6 +22204,11 @@ min_phrase_weight: 100
 梯	thi
 梯河
 械	ye
+械	yae
+冶	ye
+諧	ye
+冶	yae
+諧	yae
 械器
 梱	khuen
 梳	syu
@@ -23813,7 +23839,7 @@ min_phrase_weight: 100
 沒戲	meh shi
 沒扔
 沒搜
-沒撥
+沒畀
 沒救了	meh cieu lheh
 沒死	meh sy
 沒潭潭	meh dae dae
@@ -24745,10 +24771,8 @@ min_phrase_weight: 100
 減讓
 減負	kae veu
 渝	yu
-渠	jiu
-渠	yi
-佢	yi
-渠慣
+渠	jiu	20%
+渠	yi	80%
 渡	du
 渡橋
 渡江	du kaon
@@ -36849,7 +36873,7 @@ min_phrase_weight: 100
 調排	diau ba
 調控	diau khon
 調換	diau woe
-調撥	diau peh
+調畀	diau peh
 調攝	diau seh
 調教	diau ciau
 調整	diau tsen
@@ -37576,7 +37600,7 @@ min_phrase_weight: 100
 買單	ma tae
 買家	ma ka
 買手
-買撥
+買畀
 買斷	ma doe
 買樓
 買畫
@@ -38989,7 +39013,7 @@ min_phrase_weight: 100
 送傘
 送去	son chi
 送子
-送撥
+送畀
 送死	son sy
 送湯	son thaon
 送竈
@@ -41442,7 +41466,8 @@ min_phrase_weight: 100
 降頻	kaon bin
 降香	kaon shian
 降魔	ghaon mu
-限	ghae
+限	ghae	100%
+限	yie	1%
 限乘	ghae tshen
 限印
 限寬
@@ -46031,6 +46056,7 @@ min_phrase_weight: 100
 党	taon
 淀	die
 佢	jiu
+佢	yi
 据	ciu
 漓	li
 窪	ua
@@ -46187,6 +46213,8 @@ min_phrase_weight: 100
 葫	ghou
 且	tshie
 些	sie
+姐	tsie
+姊	tsie
 廿	nyie
 月	ngeh
 哉	tseh
@@ -46203,7 +46231,7 @@ min_phrase_weight: 100
 國	koh
 刊	khoe
 黛	de
-哦	eu
+噢	eu
 T-shirt	tshirt
 跋	beh
 鋸	ke
@@ -46215,3 +46243,114 @@ T-shirt	tshirt
 哈軒	ho shie
 射屁	dza phi
 卵底下	loe ti gho
+Rime 中州韻輸入法	rime
+介聽渠	ka thin yi
+渠來付	yi le fu
+渠個	yi gheh
+渠哥	yi ku
+渠妹	yi me
+渠想	yi sian
+渠拉	yi la
+渠拉	yi lha
+渠拉個	yi la gheh
+渠要是	yi iau zy
+叫渠	ciau yi
+對渠	te yi
+弗睬渠	feh tshe yi
+懷疑渠呢	wa nyi yi nhe
+畀渠	peh yi
+放渠一碼	faon yi ih mo
+睬渠	tshe yi
+讓渠	nyan yi
+讓渠拉	nyan yi la
+讓渠拉	nyan yi lha
+儂也	non gha
+儂仍	non nyin
+儂去	non chi
+儂又	non yeu
+儂呢	non nyi
+儂嗎	non mo
+儂家	non ka
+儂將	non tsian
+儂從	non dzon
+儂更	non ken
+儂曾	non dzen
+儂會	non we
+儂死	non sy
+儂無	non vu
+儂能	non nen
+儂被	non be
+儂見	non cie
+儂說	non seh
+儂講	non kaon
+儂還	non wae
+助儂	dzu non
+句儂	ciu non
+叫儂	ciau non
+害儂	ghe non
+將儂	tsian non
+日儂	zeh non
+會儂	we non
+望儂	waon non
+比儂	pi non
+祝儂	tsoh non
+見儂	cie non
+說儂	seh non
+識儂	seh non
+做脫𡢿
+傳畀𡢿
+𡢿	non
+𡢿也	non gha
+𡢿個	non gheh
+𡢿叫	non ciau
+𡢿指
+𡢿早
+𡢿有
+𡢿用𡢿個	non yon non gheh
+𡢿要
+𡢿認得
+再畀𡢿
+向𡢿
+問𡢿	men non
+對𡢿
+畀𡢿
+望𡢿	maon non
+睬𡢿白眼
+等𡢿
+聽𡢿
+衰瘏煞𡢿	sa du sah non
+謝謝𡢿
+跟𡢿
+𡢿也	non gha
+𡢿仍	non nyin
+𡢿去	non chi
+𡢿又	non yeu
+𡢿呢	non nyi
+𡢿嗎	non mo
+𡢿家	non ka
+𡢿將	non tsian
+𡢿從	non dzon
+𡢿更	non ken
+𡢿曾	non dzen
+𡢿會	non we
+𡢿死	non sy
+𡢿無	non vu
+𡢿能	non nen
+𡢿被	non be
+𡢿見	non cie
+𡢿說	non seh
+𡢿講	non kaon
+𡢿還	non wae
+助𡢿	dzu non
+句𡢿	ciu non
+叫𡢿	ciau non
+害𡢿	ghe non
+將𡢿	tsian non
+日𡢿	zeh non
+會𡢿	we non
+望𡢿	waon non
+比𡢿	pi non
+祝𡢿	tsoh non
+見𡢿	cie non
+說𡢿	seh non
+識𡢿	seh non
