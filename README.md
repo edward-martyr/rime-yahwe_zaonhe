@@ -1,7 +1,7 @@
-<p align="center"><img src="./images/logo.svg?sanitize=true" alt="logo" height="120"/></p> 
+<p align="center"><img src="./images/logo.svg?sanitize=true"  height="120"/></p> 
 # rime-yahwe_zaonhe：吳語協會式上海話輸入法
 
-[Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個 repo 把  Plum  方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），又結合了搜狗詞庫等，望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563>。
+[Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個 repo 把  Plum  方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563>。
 
 | Example 1                         | Example 2                         |
 | --------------------------------- | --------------------------------- |
@@ -50,7 +50,7 @@ bash rime-install :preset
 
 安卓 [Trime](<http://osfans.github.io/trime/>) 用戶也是將文件複製到 `sdcard/Rime` 文件夾下（每臺手機 sd 卡路徑可能不同）。
 
-## 試驗
+## 試用
 
 用  `rime-yahwe_zaonhe` 也有別具一格的寫詩體驗：
 
@@ -76,14 +76,13 @@ bash rime-install :preset
 
 ## 文件說明
 
-- `default.custom.yaml`：包含朙月拼音和吳語協會式兩種的定義。熟悉的用戶可以使用自己定義的文檔。
-- `*.dict.yaml` 皆爲字典文件。其中，如有加入英文詞庫的需要，請自行在主字典中開啓 `yahwe_zaonhe.dict.yaml`，否則會稍許拖慢運行速度。
+- ``*.dict.yaml` 皆爲字典文件，若不需要則可以在 `yahwe_zaonhe.dict.yaml` 中註釋掉。
 - `yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
 
 ## 輸入習慣
 
-在 `yahwe.schema.yaml` 中默認是不區分尖團的，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 `ss=sy`、`tsh=tt`、`VV=Vh (V is any vowel, eg. nyoo=nyoh)`，在實際使用中可用可不用，熟悉的用戶都可以自定義。
+在 `yahwe.schema.yaml` 中默認是不區分尖團的，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 `ss=sy`、`tsh=tt`、`-VV=-Vh (V is any vowel, eg. nyoo=nyoh)`，etc，熟悉的用戶都可以自定義。
 
 可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe` 即可。
 

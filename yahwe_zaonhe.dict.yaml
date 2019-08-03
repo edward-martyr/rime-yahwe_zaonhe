@@ -18,11 +18,10 @@ version: "2019.08.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
+  - luna_pinyin.extended
   - luna_pinyin.hanyu
-#  - luna_pinyin.poetry
-#  - luna_pinyin.net
-#  - luna_pinyin.computer
-#  - luna_pinyin.place
+  - luna_pinyin.poetry
+  - luna_pinyin.net
 min_phrase_weight: 100
 ...
 
@@ -1320,7 +1319,7 @@ min_phrase_weight: 100
 乃賦
 乃需
 久	cieu
-久仰	cieu nhyan
+久仰	cieu nyhan
 久咳	cieu kheh
 久安
 久居
@@ -1337,6 +1336,7 @@ min_phrase_weight: 100
 么弟	iau di
 么爺
 之	tsy
+之	tsyu
 之三
 之下	tsy gho
 之世
@@ -2797,32 +2797,32 @@ min_phrase_weight: 100
 以降	i kaon
 仨	sae
 仫	mu
-仰	nhyan
+仰	nyhan
 仰	ngaon
-仰仗	nhyan dzan
-仰光	nhyan kuaon
-仰天	nhyan thie
-仰式	nhyan seh
-仰慕	nhyan mu
-仰承	nhyan zen
-仰拍	nhyan phaoh
-仰望	nhyan maon
-仰止	nhyan tsy
-仰泳	nhyan ion
-仰看	nhyan khoe
-仰着	nhyan dzaoh
-仰臉	nhyan lie
-仰臥	nhyan ngu
-仰視	nhyan zy
-仰角	nhyan koh
-仰賴	nhyan la
-仰起	nhyan chi
-仰靠	nhyan khau
-仰面	nhyan mie
-仰韶	nhyan zau
-仰頭	nhyan deu
-仰首	nhyan seu
-仰高	nhyan kau
+仰仗	nyhan dzan
+仰光	nyhan kuaon
+仰天	nyhan thie
+仰式	nyhan seh
+仰慕	nyhan mu
+仰承	nyhan zen
+仰拍	nyhan phaoh
+仰望	nyhan maon
+仰止	nyhan tsy
+仰泳	nyhan ion
+仰看	nyhan khoe
+仰着	nyhan dzaoh
+仰臉	nyhan lie
+仰臥	nyhan ngu
+仰視	nyhan zy
+仰角	nyhan koh
+仰賴	nyhan la
+仰起	nyhan chi
+仰靠	nyhan khau
+仰面	nyhan mie
+仰韶	nyhan zau
+仰頭	nyhan deu
+仰首	nyhan seu
+仰高	nyhan kau
 仲	dzon
 仲介	dzon ka
 仲夏	dzon gho
@@ -3398,7 +3398,7 @@ min_phrase_weight: 100
 來定
 來將	le tsian
 來對
-來尿	le nhyau
+來尿	le nyhau
 來弗來	le feh le
 來勿來	le veh le
 來後
@@ -3519,7 +3519,7 @@ min_phrase_weight: 100
 俊峰
 俊眼
 俊郎
-俊鳥	tsin nhyau
+俊鳥	tsin nyhau
 俎	tsu
 俏	siau
 俏	tshiau
@@ -3571,7 +3571,7 @@ min_phrase_weight: 100
 俠女	yah nyu
 信	sen
 信	sin
-信仰	sin nhyan
+信仰	sin nyhan
 信件	sin jie
 信任	sin zen
 信使	sin sy
@@ -3636,7 +3636,7 @@ min_phrase_weight: 100
 修鞋
 修齊	sieu dzi
 俯	fu
-俯仰	fu nhyan
+俯仰	fu nyhan
 俯拍
 俯拾	fu zeh
 俯撐
@@ -3767,7 +3767,7 @@ min_phrase_weight: 100
 候溫
 候車	gheu tsho
 候駕	gheu ka
-候鳥	gheu nhyau
+候鳥	gheu nyhau
 倚	i
 倚仗	i dzan
 倚望	i maon
@@ -5573,7 +5573,7 @@ min_phrase_weight: 100
 利刀
 利害	li ghe
 利導
-利尿	li nhyau
+利尿	li nyhau
 利差	li tsho
 利於	li yu
 利根
@@ -5708,7 +5708,7 @@ min_phrase_weight: 100
 前人	dzie nyin
 前仇	dzie zeu
 前他
-前仰	dzie nhyan
+前仰	dzie nyhan
 前任	dzie zen
 前個	dzie ku
 前兒	dzie r
@@ -6592,7 +6592,7 @@ min_phrase_weight: 100
 千話萬話	tshie gho vae gho
 千赫	tshie heh
 千魚	tshie ng
-千鳥	tshie nhyau
+千鳥	tshie nyhau
 卅	sah
 升	sen
 升子
@@ -7547,6 +7547,7 @@ min_phrase_weight: 100
 司長	sy tsan
 司馬	sy mo
 叻	leh
+叻	le
 叼	tiau
 叼煙
 叼着	tiau dzaoh
@@ -9142,6 +9143,7 @@ min_phrase_weight: 100
 嘛	mha
 嘜	maoh
 嘞	leh
+嘞	le
 嘟	tu
 嘡	daon
 嘣	pan
@@ -9587,7 +9589,7 @@ min_phrase_weight: 100
 國華	kueh gho
 國術	kueh dzeh
 國防	kueh vaon
-國鳥	kueh nhyau
+國鳥	kueh nyhau
 圍	we	100%
 圍	yu	0%
 圍上	we zaon
@@ -10156,7 +10158,7 @@ min_phrase_weight: 100
 塋	yin
 塌	thah
 塌了	thah liau
-塌尿	thah nhyau
+塌尿	thah nyhau
 塌毀
 塌邪	thah zia
 塌陷	thah ghae
@@ -10656,7 +10658,8 @@ min_phrase_weight: 100
 多餐
 多髮
 多麼	tu meh
-夜	ya
+夜	ya	100%
+夜	ia	0%
 夜光	ya kuaon
 夜出世
 夜到
@@ -10670,6 +10673,7 @@ min_phrase_weight: 100
 夜宿	ya soh
 夜巡
 夜心
+夜快
 夜快同
 夜快頭
 夜日頭吃家日頭	ya nyih deu chih ka nyih deu
@@ -11855,7 +11859,7 @@ min_phrase_weight: 100
 妊	nyin
 妊	zen
 妊娠	zen zen
-妍	nhyie
+妍	nyhie
 妒	tu
 妓	ji
 妓女	ji nyu
@@ -11893,7 +11897,7 @@ min_phrase_weight: 100
 妙趣	miau tshiu
 妙音
 妝	tsaon
-妞	nhyeu
+妞	nyheu
 妣	pi
 妤	yu
 妥	thu
@@ -12212,7 +12216,7 @@ min_phrase_weight: 100
 嬸	sen
 嬸娘
 孀	saon
-孃	nhyan
+孃	nyhan
 孃孃
 孃孃婆婆
 孌	loe
@@ -12461,7 +12465,7 @@ min_phrase_weight: 100
 學齡	ghoh lin
 孺	zyu
 孽	nyih
-孽	nhyih
+孽	nyhih
 孽情	nyih dzin
 孽根	nyih ken
 孽緣	nyih yoe
@@ -12576,7 +12580,7 @@ min_phrase_weight: 100
 宕下來	daon gho le
 宕帳
 宗	tson
-宗仰	tson nhyan
+宗仰	tson nyhan
 宗教	tson ciau
 宗數
 宗要
@@ -12704,7 +12708,7 @@ min_phrase_weight: 100
 害臊	ghe sau
 害處	ghe tshyu
 害蟲	ghe dzon
-害鳥	ghe nhyau
+害鳥	ghe nyhau
 宴	ie
 宴廳
 宴會	ie we
@@ -13274,7 +13278,7 @@ min_phrase_weight: 100
 對面前
 對齊	te dzi
 導	dau
-導尿	dau nhyau
+導尿	dau nyhau
 導標
 導發
 導碼
@@ -13406,7 +13410,7 @@ min_phrase_weight: 100
 小鬼三	siau ciu sae
 小鬼丫頭	siau ciu o deu
 小鬼頭	siau ciu deu
-小鳥	siau nhyau
+小鳥	siau nyhau
 小鷹
 尐	tsih
 少	sau
@@ -13574,26 +13578,26 @@ min_phrase_weight: 100
 尾鰭	vi ji
 三尾子	sae me tsy
 两尾子	lian me tsy
-尿	nhyau	100%
+尿	nyhau	100%
 尿	sy	0%
-尿壺	nhyau wu
-尿尿	nhyau nhyau
-尿床	nhyau dzaon
-尿急	nhyau cih
-尿桶	nhyau don
-尿檢	nhyau cie
-尿液	nhyau yih
-尿濕	nhyau seh
-尿炕	nhyau khaon
-尿素	nhyau su
+尿壺	nyhau wu
+尿尿	nyhau nyhau
+尿床	nyhau dzaon
+尿急	nyhau cih
+尿桶	nyhau don
+尿檢	nyhau cie
+尿液	nyhau yih
+尿濕	nyhau seh
+尿炕	nyhau khaon
+尿素	nyhau su
 尿脬	sy phau
-尿血	nhyau shiuih
-尿褲	nhyau khu
-尿路	nhyau lu
-尿道	nhyau dau
-尿酸	nhyau soe
-尿閉	nhyau pi
-尿頻	nhyau bin
+尿血	nyhau shiuih
+尿褲	nyhau khu
+尿路	nyhau lu
+尿道	nyhau dau
+尿酸	nyhau soe
+尿閉	nyhau pi
+尿頻	nyhau bin
 局	jioh
 局促
 局內	jioh ne
@@ -13666,7 +13670,7 @@ min_phrase_weight: 100
 屍	sy
 屍解	sy cia
 屎	sy
-屎尿	sy nhyau
+屎尿	sy nyhau
 屏	bin
 屏	pin
 屏保	bin pau
@@ -13744,7 +13748,7 @@ min_phrase_weight: 100
 屬相	zoh sian
 屬文	tsoh ven
 屬和	tsoh wu
-屬仰	tsoh nhyan
+屬仰	tsoh nyhan
 屬意	tsoh i
 屯	den	100%
 屯	tsen	0%
@@ -13867,7 +13871,7 @@ min_phrase_weight: 100
 崁	khae
 崆	khon
 崇	dzon
-崇仰	dzon nhyan
+崇仰	dzon nyhan
 崇信	dzon sin
 崇光	dzon kuaon
 崇北	dzon poh
@@ -14443,7 +14447,7 @@ min_phrase_weight: 100
 幼託
 幼駒
 幼魚	ieu ng
-幼鳥	ieu nhyau
+幼鳥	ieu nyhau
 幼齡
 幽	ieu
 幽人	ieu nyin
@@ -14937,7 +14941,7 @@ min_phrase_weight: 100
 強悍	jian ghoe
 強意	jian i
 強手	jian seu
-強扭	jian nhyeu
+強扭	jian nyheu
 強抑	jian ih
 強拉	jian lha
 強擊	jian cih
@@ -15669,7 +15673,7 @@ min_phrase_weight: 100
 念過	nyie ku
 念頭	nyie deu
 忸	nyoh	100%
-忸	nhyeu	0%
+忸	nyheu	0%
 忺	shie
 忺頭
 忻	shin
@@ -16392,7 +16396,7 @@ min_phrase_weight: 100
 憊	be
 憋	pih
 憋住	pih dzyu
-憋尿	pih nhyau
+憋尿	pih nyhau
 憎	tsen
 憎惡	tsen u
 憎愛
@@ -17024,13 +17028,13 @@ min_phrase_weight: 100
 扣繳	kheu ciau
 扣脫個	kheu theh gheh
 扦	tshie
-扭	nhyeu
+扭	nyheu
 扭扯
 扭搭
-扭斷	nhyeu doe
-扭虧	nhyeu khue
-扭頭厾頸	nhyeu deu toh cin
-扭頭齾頸	nhyeu deu ngah cin
+扭斷	nyheu doe
+扭虧	nyheu khue
+扭頭厾頸	nyheu deu toh cin
+扭頭齾頸	nyheu deu ngah cin
 扮	pae
 扮戲	pae shi
 扮酷
@@ -17255,7 +17259,7 @@ min_phrase_weight: 100
 抲	hu	0%
 抲	wu	0%
 抲魚	kho ng
-抳	nhyi
+抳	nyhi
 抵	ti
 抵京
 抵估
@@ -17336,7 +17340,7 @@ min_phrase_weight: 100
 拆穿繃
 拆解	tshaoh cia
 拇	mu
-拈	nhyie
+拈	nyhie
 拈量
 拉	la
 拉	lah
@@ -17361,7 +17365,7 @@ min_phrase_weight: 100
 拉夫	lha fu
 拉套	lha thau
 拉客	lha khaoh
-拉尿	lha nhyau
+拉尿	lha nyhau
 拉屎	lha sy
 拉巴	lha pa
 拉幫	lha paon
@@ -17885,9 +17889,9 @@ min_phrase_weight: 100
 捹	ben
 捺	nah
 捻	nyah	0%
-捻	nhyie	100%
-捻軍	nhyie ciun
-捻鑿	nhyie dzoh
+捻	nyhie	100%
+捻軍	nyhie ciun
+捻鑿	nyhie dzoh
 掀	shie
 掀翻
 掂	tie
@@ -17943,7 +17947,7 @@ min_phrase_weight: 100
 排下	ba gho
 排前
 排場	ba dzan
-排尿	ba nhyau
+排尿	ba nyhau
 排布
 排憂
 排戲	ba shi
@@ -18645,7 +18649,7 @@ min_phrase_weight: 100
 撒	sa	0%
 撒	sah	100%
 撒向
-撒尿	sa nhyau
+撒尿	sa nyhau
 撒拉	sa lha
 撒肥	sa vi
 撒韁
@@ -18658,7 +18662,7 @@ min_phrase_weight: 100
 撕破	sy phu
 撖	ghae
 撙	tsen
-撚	nhyie
+撚	nyhie
 撚軍
 撞	dzaon
 撞人	dzaon nyin
@@ -18916,7 +18920,7 @@ min_phrase_weight: 100
 攀比	phae pi
 攀沿
 攄	tshyu
-攆	nhyie
+攆	nyhie
 攉	hoh
 攋	la
 攋帶鬍子
@@ -19196,7 +19200,7 @@ min_phrase_weight: 100
 教父	ciau vu
 教理	ciau li
 教益	ciau ih
-教研	ciau nhyie
+教研	ciau nyhie
 教管	ciau kuoe
 教範	ciau vae
 教給	ciau cih
@@ -19274,7 +19278,7 @@ min_phrase_weight: 100
 敫	ciau
 敫	kau
 敬	cin
-敬仰	cin nhyan
+敬仰	cin nyhan
 敬挽
 敬煙
 敬祝	cin tsoh
@@ -20357,7 +20361,7 @@ min_phrase_weight: 100
 普高
 景	cin	100%
 景	in	0%
-景仰	cin nhyan
+景仰	cin nyhan
 景區	cin chiu
 景天	cin thie
 景山	cin sae
@@ -20881,7 +20885,7 @@ min_phrase_weight: 100
 會首	we seu
 會鼓	we ku
 會齊	we dzi
-朆	vhen
+朆	fen
 月	nyuih	0%
 月	ngeh	0%
 月	yuih	100%
@@ -21284,8 +21288,9 @@ min_phrase_weight: 100
 朝露	tsau lu
 朝鮮	dzau sie
 朞	ci
-期	ci
-期	ji
+期	ci	0%
+期	ji	100%
+期年	ci nyie
 期中	ji tson
 期內	ji ne
 期刊	ji khae
@@ -22314,7 +22319,7 @@ min_phrase_weight: 100
 椅桌
 椅背	i pe
 椋	lian
-椋鳥	lian nhyau
+椋鳥	lian nyhau
 植	zeh
 植字
 植物	zeh veh
@@ -22925,7 +22930,7 @@ min_phrase_weight: 100
 欺負	chi veu
 欺軟
 欽	chin
-欽仰	chin nhyan
+欽仰	chin nyhan
 欽差	chin tsha
 款	khuoe
 款姐	khuoe tsia
@@ -23137,7 +23142,7 @@ min_phrase_weight: 100
 歸降	kue kaon
 歸雁	kue ie
 歸零
-歸鳥	kue nhyau
+歸鳥	kue nyhau
 歸鴻
 歹	te
 歹怪
@@ -23637,7 +23642,7 @@ min_phrase_weight: 100
 水赤痘
 水車	syu tsho
 水鞋
-水鳥	syu nhyau
+水鳥	syu nyhau
 水麵
 水麵筋
 永	ion
@@ -24063,7 +24068,7 @@ min_phrase_weight: 100
 泊車	boh tsho
 泊錨	boh mau
 泌	pi
-泌尿	pi nhyau
+泌尿	pi nyhau
 泐	leh
 泓	ghon
 泔	koe
@@ -24115,7 +24120,7 @@ min_phrase_weight: 100
 泠	lin
 泡	phau
 泡吧	phau ba
-泡尿	phau nhyau
+泡尿	phau nyhau
 泡成
 泡湯	phau thaon
 泡立水
@@ -24436,7 +24441,7 @@ min_phrase_weight: 100
 海頭
 海馬	he mo
 海魚	he ng
-海鳥	he nhyau
+海鳥	he nyhau
 海龜	he kue
 浸	tsin
 浸出
@@ -25030,7 +25035,7 @@ min_phrase_weight: 100
 溶迸
 溷	wen
 溺	nyih
-溺	nhyau
+溺	nyhau
 溺信	nyih sin
 溺嬰	nyih in
 溺床	nyih dzaon
@@ -25555,7 +25560,7 @@ min_phrase_weight: 100
 火車	hu tsho
 火響
 火魔
-火鳥	hu nhyau
+火鳥	hu nyhau
 灰	hue
 灰份	hue ven
 灰冷
@@ -26747,7 +26752,7 @@ min_phrase_weight: 100
 牽風引頭
 牾	ngu
 犀	si
-犀鳥	si nhyau
+犀鳥	si nyhau
 犁	li
 犁痕
 犄	ci
@@ -26800,6 +26805,7 @@ min_phrase_weight: 100
 狉	phi
 狍	bau
 狎	ghah
+狎	yah	100%
 狎	gah
 狎姘頭	gah phin deu
 狎鬧猛	gah nau man
@@ -26968,7 +26974,7 @@ min_phrase_weight: 100
 玄義
 玄覽
 玄論
-玄鳥	yoe nhyau
+玄鳥	yoe nyhau
 率	lih
 率	se
 率先	se sie
@@ -28296,7 +28302,7 @@ min_phrase_weight: 100
 百零
 百頁
 百頁窗
-百鳥	paoh nhyau
+百鳥	paoh nyhau
 皂	dzau
 皂片
 皂莢	dzau kah
@@ -28391,7 +28397,7 @@ min_phrase_weight: 100
 益脾
 益腎
 益菌
-益鳥	ih nhyau
+益鳥	ih nyhau
 盍	gheh
 盎	aon
 盎三
@@ -29012,7 +29018,7 @@ min_phrase_weight: 100
 瞳仁	don nyin
 瞵	lin
 瞻	tsoe
-瞻仰	tsoe nhyan
+瞻仰	tsoe nyhan
 瞻念	tsoe nyie
 瞻望	tsoe maon
 瞻觀
@@ -29194,27 +29200,27 @@ min_phrase_weight: 100
 砑	nga
 砒	phi
 研	nyie
-研	nhyie
-研修	nhyie sieu
-研判	nhyie phoe
-研制	nhyie tsy
-研成	nhyie zen
-研擬	nhyie nyi
-研杵	nhyie tshyu
-研析	nhyie sih
-研查	nhyie dzo
-研求	nhyie jieu
-研發	nhyie fah
-研碎	nhyie se
-研磨	nhyie mu
-研究	nhyie cieu
-研究個	nhyie cieu gheh
-研究生	nhyie cieu san
-研習	nhyie zih
-研藥	nhyie yaoh
-研製	nhyie tsy
-研討	nhyie thau
-研讀	nhyie doh
+研	nyhie
+研修	nyhie sieu
+研判	nyhie phoe
+研制	nyhie tsy
+研成	nyhie zen
+研擬	nyhie nyi
+研杵	nyhie tshyu
+研析	nyhie sih
+研查	nyhie dzo
+研求	nyhie jieu
+研發	nyhie fah
+研碎	nyhie se
+研磨	nyhie mu
+研究	nyhie cieu
+研究個	nyhie cieu gheh
+研究生	nyhie cieu san
+研習	nyhie zih
+研藥	nyhie yaoh
+研製	nyhie tsy
+研討	nyhie thau
+研讀	nyhie doh
 砘	den
 砝	fah
 砟	dzoh
@@ -29464,8 +29470,8 @@ min_phrase_weight: 100
 碼本
 碼級
 碼長	mo dzan
-碾	nhyie
-碾軋	nhyie gah
+碾	nyhie
+碾軋	nyhie gah
 磁	dzy
 磁化	dzy ho
 磁區	dzy chiu
@@ -29491,7 +29497,7 @@ min_phrase_weight: 100
 磐	boe
 磐石	boe zaoh
 磐英
-磑	nhyi
+磑	nyhi
 磑	nge
 磔	tsaoh
 磕	kheh
@@ -29809,7 +29815,7 @@ min_phrase_weight: 100
 科大	khu da
 科教	khu ciau
 科甲	khu kah
-科研	khu nhyie
+科研	khu nyhie
 科科
 科級
 科罰
@@ -30281,7 +30287,7 @@ min_phrase_weight: 100
 笨城
 笨子
 笨瓜	ben ko
-笨鳥	ben nhyau
+笨鳥	ben nyhau
 笪	tah
 笫	tsy
 第	di
@@ -30649,11 +30655,11 @@ min_phrase_weight: 100
 粗讀	tshu doh
 粗貨
 粗飯
-粘	nhyie
-粘了	nhyie liau
-粘住	nhyie dzyu
+粘	nyhie
+粘了	nyhie liau
+粘住	nyhie dzyu
 粘劑
-粘合	nhyie gheh
+粘合	nyhie gheh
 粘固
 粘滿
 粘竿
@@ -30704,7 +30710,7 @@ min_phrase_weight: 100
 精瘦
 精白
 精的
-精研	tsin nhyie
+精研	tsin nyhie
 精粹	tsin dzoe
 精組
 精編
@@ -30732,7 +30738,7 @@ min_phrase_weight: 100
 糖份	daon ven
 糖化	daon ho
 糖塊
-糖尿	daon nhyau
+糖尿	daon nyhau
 糖度
 糖片
 糖瓜	daon ko
@@ -32099,7 +32105,7 @@ min_phrase_weight: 100
 翠色
 翠菊
 翠華	tshoe gho
-翠鳥	tshoe nhyau
+翠鳥	tshoe nyhau
 翡	fi
 翥	tsyu
 翦	tsie
@@ -32269,7 +32275,7 @@ min_phrase_weight: 100
 老靈
 老頭浜
 老鬼失撇	lau ciu seh phih
-老鳥	lau nhyau
+老鳥	lau nyhau
 老鴨
 老硍	lau khen
 老龍
@@ -32285,7 +32291,7 @@ min_phrase_weight: 100
 考查	khau dzo
 考核
 考生	khau sen
-考研	khau nhyie
+考研	khau nyhie
 考綱
 考進
 考風
@@ -32920,7 +32926,7 @@ min_phrase_weight: 100
 胖	phoe
 胖仔	phaon tse
 胖墩	phaon ten
-胖妞	phaon nhyeu
+胖妞	phaon nyheu
 胖娃	phaon ua
 胖子	phaon tsy
 胖孩	phaon ghe
@@ -33112,7 +33118,7 @@ min_phrase_weight: 100
 脬	phau
 脯	bu
 脯	phu
-脲	nhyau
+脲	nyhau
 脶	lu
 脹	tsan
 脹大	tsan da
@@ -33304,7 +33310,7 @@ min_phrase_weight: 100
 膠狀	kau dzaon
 膠皮	kau bi
 膠管	kau kuoe
-膠粘	kau nhyie
+膠粘	kau nyhie
 膠紙	kau tsy
 膠結	kau cih
 膠袋	kau de
@@ -33882,7 +33888,7 @@ min_phrase_weight: 100
 花骨
 花魚	ho ng
 花鯉魚	ho li ng
-花鳥	ho nhyau
+花鳥	ho nyhau
 芳	faon
 芳澤	faon dzeh
 芳烴	faon thin
@@ -34252,7 +34258,7 @@ min_phrase_weight: 100
 菜蔬	tshe su
 菜譜	tshe pu
 菜飯
-菜鳥	tshe nhyau
+菜鳥	tshe nyhau
 菝	bah
 菟	du
 菟	thu
@@ -34916,7 +34922,7 @@ min_phrase_weight: 100
 藍綢
 藍衫
 藍調	lae diau
-藍鳥	lae nhyau
+藍鳥	lae nyhau
 藍點
 藎	dzin
 藏	dzaon
@@ -35199,7 +35205,7 @@ min_phrase_weight: 100
 蜂群
 蜂脾
 蜂蠆
-蜂鳥	fon nhyau
+蜂鳥	fon nyhau
 蜃	zen
 蜆	shie
 蜇	dzeh	100%
@@ -35421,7 +35427,7 @@ min_phrase_weight: 100
 血仇	shiuih zeu
 血光	shiuih kuaon
 血外紅	shiuih nga ghon
-血尿	shiuih nhyau
+血尿	shiuih nyhau
 血崩	shiuih pan
 血影
 血情
@@ -36888,7 +36894,7 @@ min_phrase_weight: 100
 調理	diau li
 調用	diau yon
 調皮	diau bi
-調研	diau nhyie
+調研	diau nyhie
 調笑	diau siau
 調節	diau tsih
 調經	diau cin
@@ -37265,7 +37271,7 @@ min_phrase_weight: 100
 讀物	doh veh
 讀畢	doh pih
 讀盤	doh boe
-讀研	doh nhyie
+讀研	doh nyhie
 讀破	doh phu
 讀秒	doh miau
 讀者	doh tse
@@ -38262,7 +38268,7 @@ min_phrase_weight: 100
 蹌	tshian
 蹌踉
 蹌蹌
-蹍	nhyie
+蹍	nyhie
 蹐	tsih
 蹓	lhieu
 蹔	dzae
@@ -38276,11 +38282,12 @@ min_phrase_weight: 100
 蹢	tih
 蹣	boe
 蹤	tson
-蹦	pan
+蹦	pan	100%
+蹦	pon	0%
 蹦兒	pan r
 蹦床
 蹦跳	pan thiau
-蹨	nhyie
+蹨	nyhie
 蹩	bih
 蹩腰
 蹩腳貨
@@ -39546,7 +39553,7 @@ min_phrase_weight: 100
 遺害	yi ghe
 遺容	yi yon
 遺少	yi sau
-遺尿	yi nhyau
+遺尿	yi nyhau
 遺志	yi tsy
 遺忘	yi vaon
 遺念	yi nyie
@@ -40147,7 +40154,7 @@ min_phrase_weight: 100
 野食	ya dzeh
 野馬	ya mo
 野鬼	ya kue
-野鳥	ya nhyau
+野鳥	ya nyhau
 野鵝
 量	lian
 量化	lian ho
@@ -40775,7 +40782,7 @@ min_phrase_weight: 100
 鑽戒	tsoe ka
 鑽杆
 鑽石	tsoe zaoh
-鑽研	tsoe nhyie
+鑽研	tsoe nyhie
 鑾	loe
 鑾駕	loe ka
 鑿	dzoh
@@ -41905,7 +41912,7 @@ min_phrase_weight: 100
 雌虎
 雌蜂
 雌象
-雌鳥	tshy nhyau
+雌鳥	tshy nyhau
 雍	ion
 雎	tsiu
 雒	loh
@@ -41976,7 +41983,7 @@ min_phrase_weight: 100
 雙釀糰
 雙頰	saon kah
 雛	dzyu
-雛鳥	dzyu nhyau
+雛鳥	dzyu nyhau
 雛鵝
 雜	dzah	100%
 雜	dzeh	0%
@@ -42193,7 +42200,7 @@ min_phrase_weight: 100
 雷炮	le phau
 雷聲	le sen
 雷響
-雷鳥	le nhyau
+雷鳥	le nyhau
 雹	bau
 電	die
 電信	die sin
@@ -42434,6 +42441,7 @@ min_phrase_weight: 100
 靰	u
 靳	cin
 靴	shioe
+靴	shio
 靴筒
 靶	po
 靶場	po dzan
@@ -42937,7 +42945,7 @@ min_phrase_weight: 100
 飛霜
 飛駛
 飛魚	fi ng
-飛鳥	fi nhyau
+飛鳥	fi nyhau
 食	yi	0%
 食	dzeh	100%
 食	zy	0%
@@ -43043,7 +43051,7 @@ min_phrase_weight: 100
 養胖	yan phaon
 養陰	yan in
 養魚	yan ng
-養鳥	yan nhyau
+養鳥	yan nyhau
 餌	r
 餎	kaoh
 餐	tshoe
@@ -43227,7 +43235,7 @@ min_phrase_weight: 100
 馬子	mo tsy
 馬季	mo ci
 馬尾	mo vi
-馬尿	mo nhyau
+馬尿	mo nyhau
 馬屁	mo phi
 馬市	mo zy
 馬幫	mo paon
@@ -43348,7 +43356,7 @@ min_phrase_weight: 100
 駝	du
 駝群
 駝背	du pe
-駝鳥	du nhyau
+駝鳥	du nyhau
 駟	sy
 駢	bie
 駭	ghe
@@ -43433,7 +43441,7 @@ min_phrase_weight: 100
 驗	nyie
 驗光	nyie kuaon
 驗印
-驗尿	nyie nhyau
+驗尿	nyie nyhau
 驗核
 驗身
 驚	cin
@@ -43893,31 +43901,31 @@ min_phrase_weight: 100
 鲶	nyie
 鳚	ue
 鳤	kuoe
-鳥	nhyau
+鳥	nyhau
 鳥	tiau
-鳥人	nhyau nyin
-鳥兒	nhyau r
-鳥叫	nhyau ciau
-鳥啼	nhyau di
-鳥嘴	nhyau tsyu
-鳥害	nhyau ghe
-鳥散	nhyau sae
-鳥林	nhyau lin
-鳥槍	nhyau tshian
-鳥氣	nhyau chi
-鳥獸	nhyau seu
-鳥瞰	nhyau khoe
-鳥窩	nhyau u
-鳥籠	nhyau lon
-鳥糞	nhyau fen
-鳥群	nhyau jiun
-鳥聲	nhyau sen
-鳥蛋	nhyau dae
-鳥語	nhyau nyu
-鳥雀	nhyau tshiaoh
-鳥類	nhyau le
-鳥飛	nhyau fi
-鳥鳴	nhyau min
+鳥人	nyhau nyin
+鳥兒	nyhau r
+鳥叫	nyhau ciau
+鳥啼	nyhau di
+鳥嘴	nyhau tsyu
+鳥害	nyhau ghe
+鳥散	nyhau sae
+鳥林	nyhau lin
+鳥槍	nyhau tshian
+鳥氣	nyhau chi
+鳥獸	nyhau seu
+鳥瞰	nyhau khoe
+鳥窩	nyhau u
+鳥籠	nyhau lon
+鳥糞	nyhau fen
+鳥群	nyhau jiun
+鳥聲	nyhau sen
+鳥蛋	nyhau dae
+鳥語	nyhau nyu
+鳥雀	nyhau tshiaoh
+鳥類	nyhau le
+鳥飛	nyhau fi
+鳥鳴	nyhau min
 鳧	bu
 鳩	cieu
 鳲	sy
@@ -43935,7 +43943,7 @@ min_phrase_weight: 100
 鳴炮	min phau
 鳴聲	min sen
 鳴蟬
-鳴鳥	min nhyau
+鳴鳥	min nyhau
 鳶	yoe
 鴆	dzen
 鴆毒	dzen doh
@@ -43951,7 +43959,7 @@ min_phrase_weight: 100
 鴉鵲	ia tshiaoh
 鴒	lin
 鴕	du
-鴕鳥	du nhyau
+鴕鳥	du nyhau
 鴛	ioe
 鴝	jiu
 鴞	shiau
@@ -44028,7 +44036,7 @@ min_phrase_weight: 100
 鷓	tso
 鷗	eu
 鷗波	eu pu
-鷗鳥	eu nhyau
+鷗鳥	eu nyhau
 鷗鴉	eu ia
 鷙	tsy
 鷚	lieu
@@ -44199,7 +44207,7 @@ min_phrase_weight: 100
 黃魚腦子	waon ng nau tsy
 黃魚車	waon ng tsho
 黃魚鯗	waon ng sian
-黃鳥	waon nhyau
+黃鳥	waon nyhau
 黃黑
 黃鼠
 黇	thie
@@ -44487,7 +44495,7 @@ min_phrase_weight: 100
 淅力索落	sih lih soh loh
 阿胡	a wu
 阿胡一口	a wu ih kheu
-粘支疙瘩	nhyie tsy keh tah
+粘支疙瘩	nyhie tsy keh tah
 伏太陽	bu tha yan
 伏蛋	bu de
 乛	tseh
@@ -44889,7 +44897,7 @@ min_phrase_weight: 100
 鱯	wu
 鸘	saon
 邒	din
-卬	nhyan
+卬	nyhan
 邘	yu
 圢	thin
 玐	pah
@@ -46354,3 +46362,6 @@ Rime 中州韻輸入法	rime
 見𡢿	cie non
 說𡢿	seh non
 識𡢿	seh non
+蹦躂	pon tah
+𠲎	vah
+
