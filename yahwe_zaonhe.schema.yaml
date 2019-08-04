@@ -72,55 +72,41 @@ speller:
     - abbrev/^([kptgcs]h).+$/$1/
     - abbrev/^(ts|ng|dz|ny).+$/$1/
     - abbrev/^(tsh).+$/$1/
-    - derive/^dz/z/                               # 上海話模糊“從”“邪”
-    - derive/(.*)aoh/$1ah/                        # 多數中派模糊前後ah
 
     - derive/(.*)u/$1ou/
-    - derive/^zaon/laon/
+    - derive/^zaon/laon/                          # 地上、衣裳
     - derive/^zi(?=a)/y/                          # 謝謝 zia ya; 好像 hau yan
+    - derive/^dz/z/                               # 上海話模糊“從”“邪”
+    - derive/(.*)aoh/$1ah/                        # 多數中派模糊前後ah
 
     - derive/^ny([aeou])/ni$1/                    # 簡寫以及更多易錯模糊
     - derive/^nyi/ni/
     - derive/^nyh([aeou])/ni$1/
     - derive/^nyhi/ni/
     - derive/^nyh/ny/
-    - derive/^mh/m/
-    - derive/^nh/n/
-    - derive/^lh/l/
+    - derive/^([mnl])h/$1/
     - derive/(.*)au/$1ao/
     - derive/^tsh/tt/
     - derive/^sh/x/
     - derive/^ch/q/
-    - derive/(.*)ah/$1aa/
-    - derive/(.*)oh/$1oo/
-    - derive/(.*)eh/$1ee/
-    - derive/(.*)ih/$1ii/
+    - derive/(.*)([aoei])h/$1$2$2/
     - derive/(.*)uih/$1uu/
-    - derive/^sy/ss/
-    - derive/^zy/zz/
-    - derive/^tsy/tss/
+    - derive/^(.*)([sz])y/$1$2$2/
     - derive/^tshy/ttt/
     - derive/(.*)uih/$1uh/
     - derive/nyuih/nuu/
     - derive/^ng/gg/
     - derive/^gh/hh/
-    - derive/^dz/zz/
 
-    - derive/^([bpsztdhukg])en/$1n/               # 更多簡寫
-    - derive/^([tpkg]h)en/$1n/
-    - derive/^(ts|tsh|tt)en/$1n/
     - derive/^([scmn]h)in/$1n/
-    - derive/^([cjymn])in/$1n/
+    - derive/^([cjymnqx])in/$1n/
     - derive/^([sc]h)iau/$1o/
     - derive/^([cj])iau/$1o/
+    - derive/([bpsztdhuwvklg])en/$1n/                # 更多簡寫
 
     - derive/^(c|ch|j|ny|sh|x|q)i([aeou])/$1$2/
     - derive/^(ts|z|dz|s|l)i(eu)/$1$2/
-    - derive/^tshyu/tshy/                         # 上海話模糊“書”“詩”
-    - derive/^tsyu/tsy/
-    - derive/^zyu/zy/
-    - derive/^syu/sy/
-    - derive/^dzyu/dzy/
+    - derive/^(.*)([zsth])yu/$1$2y/               # 上海話模糊“書”“詩”
     - derive/(.*)aon/$1an/                        # 多數中派模糊前後an
     - derive/(.*)an/$1aon/
 

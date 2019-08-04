@@ -38,6 +38,9 @@ min_phrase_weight: 100
 一介	ih ka
 一石	ih tae
 一他	ih tha
+一𡢿	ih non
+一儂	ih non
+一渠	ih yi
 一仗	ih tsan
 一代人	ih de nyin
 一任	ih zen
@@ -193,7 +196,7 @@ min_phrase_weight: 100
 一行	ih yin
 一被	ih be
 一見	ih cie
-一覺	ih cioh
+一覺	ih ciaoh
 一言	ih yie
 一計
 一記頭
@@ -493,7 +496,7 @@ min_phrase_weight: 100
 上這
 上那
 上鏈
-上門女婿	zaon men nyu siu
+上門女婿	zaon men nyu si
 上閂
 上闕	zaon chiuih
 上院
@@ -514,6 +517,9 @@ min_phrase_weight: 100
 下人	gho nyin
 下仍	gho nyin
 下他	gho tha
+下𡢿	gho non
+下儂	gho non
+下渠	gho yi
 下令	gho lin
 下任	gho zen
 下作坯	gho tsoh phe
@@ -1022,7 +1028,7 @@ min_phrase_weight: 100
 不裝	peh tsaon
 不要	peh iau
 不見	peh cie
-不覺	peh cioh
+不覺	peh ciaoh
 不解	peh cia
 不言	peh yie
 不計	peh ci
@@ -2647,37 +2653,82 @@ min_phrase_weight: 100
 仕	dzy
 仕女	dzy nyu
 他	tha
+𡢿	non
+儂	non
+渠	yi
 他一
 他不	tha peh
+𡢿不	non peh
+儂不	non peh
+渠不	yi peh
 他並
 他也	tha gha
+𡢿也	non gha
+儂也	non gha
+渠也	yi gha
 他亦
 他人	tha nyin
+𡢿人	non nyin
+儂人	non nyin
+渠人	yi nyin
 他仍	tha nyin
+𡢿仍	non nyin
+儂仍	non nyin
+渠仍	yi nyin
 他個	tha ku
+𡢿個	non ku
+儂個	non ku
+渠個	yi ku
 他再
 他則
 他卻
 他又	tha yeu
+𡢿又	non yeu
+儂又	non yeu
+渠又	yi yeu
 他受
 他叫	tha ciau
+𡢿叫	non ciau
+儂叫	non ciau
+渠叫	yi ciau
 他可
 他同
 他向
 他呀
 他呢	tha nyi
+𡢿呢	non nyi
+儂呢	non nyi
+渠呢	yi nyi
 他問	tha ven
+𡢿問	non ven
+儂問	non ven
+渠問	yi ven
 他喝	tha heh
+𡢿喝	non heh
+儂喝	non heh
+渠喝	yi heh
 他喫
 他嗎	tha mo
+𡢿嗎	non mo
+儂嗎	non mo
+渠嗎	yi mo
 他回
 他因
 他好
 他姓
 他學	tha ghoh
+𡢿學	non ghoh
+儂學	non ghoh
+渠學	yi ghoh
 他家	tha ka
+𡢿家	non ka
+儂家	non ka
+渠家	yi ka
 他寫
 他將	tha tsian
+𡢿將	non tsian
+儂將	non tsian
+渠將	yi tsian
 他已
 他帶
 他幫
@@ -2691,18 +2742,42 @@ min_phrase_weight: 100
 他把
 他指
 他於	tha yu
+𡢿於	non yu
+儂於	non yu
+渠於	yi yu
 他日	tha zeh
 他更	tha ken
+𡢿更	non ken
+儂更	non ken
+渠更	yi ken
 他曾	tha dzen
+𡢿曾	non dzen
+儂曾	non dzen
+渠曾	yi dzen
 他最
 他會	tha we
+𡢿會	non we
+儂會	non we
+渠會	yi we
 他本
 他死	tha sy
+𡢿死	non sy
+儂死	non sy
+渠死	yi sy
 他沒
 他無	tha vu
+𡢿無	non vu
+儂無	non vu
+渠無	yi vu
 他爸	tha pa
+𡢿爸	non pa
+儂爸	non pa
+渠爸	yi pa
 他物	tha veh
 他生	tha sen
+𡢿生	non sen
+儂生	non sen
+渠生	yi sen
 他留
 他發
 他瞧
@@ -2710,18 +2785,33 @@ min_phrase_weight: 100
 他給
 他聽
 他能	tha nen
+𡢿能	non nen
+儂能	non nen
+渠能	yi nen
 他與
 他若
 他被	tha be
+𡢿被	non be
+儂被	non be
+渠被	yi be
 他試
 他說	tha seh
+𡢿說	non seh
+儂說	non seh
+渠說	yi seh
 他講	tha kaon
+𡢿講	non kaon
+儂講	non kaon
+渠講	yi kaon
 他讓
 他走
 他跑
 他轉
 他連
 他還	tha wae
+𡢿還	non wae
+儂還	non wae
+渠還	yi wae
 他開
 他點
 仗	tsan
@@ -3254,44 +3344,103 @@ min_phrase_weight: 100
 佟	don
 你	nhi
 你丫	nhi ia
+𡢿丫	non ia
+儂丫	non ia
 你也	nhi gha
+𡢿也	non gha
+儂也	non gha
+渠也	yi gha
 你仍	nhi nyin
+𡢿仍	non nyin
+儂仍	non nyin
+渠仍	yi nyin
 你再
 你出
 你別
 你去	nhi chi
+𡢿去	non chi
+儂去	non chi
+渠去	yi chi
 你又	nhi yeu
+𡢿又	non yeu
+儂又	non yeu
+渠又	yi yeu
 你受
 你呀
 你呢	nhi nyi
+𡢿呢	non nyi
+儂呢	non nyi
+渠呢	yi nyi
 你喫
 你嗎	nhi mo
+𡢿嗎	non mo
+儂嗎	non mo
+渠嗎	yi mo
 你姓
 你家	nhi ka
+𡢿家	non ka
+儂家	non ka
+渠家	yi ka
 你寫
 你將	nhi tsian
+𡢿將	non tsian
+儂將	non tsian
+渠將	yi tsian
 你底
 你從	nhi dzon
+𡢿從	non dzon
+儂從	non dzon
+渠從	yi dzon
 你心
 你打
 你把
 你指
 你早
 你更	nhi ken
+𡢿更	non ken
+儂更	non ken
+渠更	yi ken
 你曾	nhi dzen
+𡢿曾	non dzen
+儂曾	non dzen
+渠曾	yi dzen
 你會	nhi we
+𡢿會	non we
+儂會	non we
+渠會	yi we
 你死	nhi sy
+𡢿死	non sy
+儂死	non sy
+渠死	yi sy
 你為
 你無	nhi vu
+𡢿無	non vu
+儂無	non vu
+渠無	yi vu
 你當
 你給
 你能	nhi nen
+𡢿能	non nen
+儂能	non nen
+渠能	yi nen
 你與
 你處
 你被	nhi be
+𡢿被	non be
+儂被	non be
+渠被	yi be
 你見	nhi cie
+𡢿見	non cie
+儂見	non cie
+渠見	yi cie
 你說	nhi seh
+𡢿說	non seh
+儂說	non seh
+渠說	yi seh
 你講	nhi kaon
+𡢿講	non kaon
+儂講	non kaon
+渠講	yi kaon
 你讓
 你跑
 你軍
@@ -3299,6 +3448,9 @@ min_phrase_weight: 100
 你連
 你過
 你還	nhi wae
+𡢿還	non wae
+儂還	non wae
+渠還	yi wae
 你那
 你錯
 你院
@@ -3325,7 +3477,7 @@ min_phrase_weight: 100
 佳品	cia phin
 佳境	cia cin
 佳妙	cia miau
-佳婿	cia siu
+佳婿	cia si
 佳景	cia cin
 佳期	cia ji
 佳構	cia keu
@@ -3505,7 +3657,7 @@ min_phrase_weight: 100
 係嗎	yi mo
 係為
 促	tshoh
-促掐
+促掐	tshoh khah
 促掐鬼	tshoh khah ciu
 俄	ngu
 俄人	ngu nyin
@@ -3668,7 +3820,8 @@ min_phrase_weight: 100
 倉猝	tshaon tsheh
 倉頡	tshaon ciah
 個	geh
-個	koe
+個	eh
+個	koe	0%
 個	ku
 個	gheh
 個不	ku peh
@@ -4361,7 +4514,7 @@ min_phrase_weight: 100
 先人	sie nyin
 先修
 先去	sie chi
-先吃夜飯去了	sie chih ya vae chi lheh
+先喫夜飯去了	sie chih ya vae chi lheh
 先嘗
 先夫	sie fu
 先懂
@@ -4373,7 +4526,7 @@ min_phrase_weight: 100
 先聲	sie sen
 先行	sie yin
 先見	sie cie
-先覺	sie cioh
+先覺	sie ciaoh
 先說	sie seh
 先走了	sie tseu lheh
 光	kuan
@@ -6036,7 +6189,13 @@ min_phrase_weight: 100
 助	dzyu	0%
 助人	dzu nyin
 助他	dzu tha
+助𡢿	dzu non
+助儂	dzu non
+助渠	dzu yi
 助你	dzu nhi
+助𡢿	dzu non
+助儂	dzu non
+助渠	dzu yi
 助力	dzu lih
 助困	dzu khuen
 助威	dzu ue
@@ -6226,7 +6385,7 @@ min_phrase_weight: 100
 勿分開	veh fen khe
 勿動
 勿及
-勿吃香
+勿喫香
 勿喜
 勿多
 勿多幾時
@@ -6608,7 +6767,7 @@ min_phrase_weight: 100
 午睡	wu zoe
 午砲	wu phau
 午膳	wu zoe
-午覺	wu cioh
+午覺	wu ciaoh
 午門	wu men
 午間	wu cie
 午飯	wu vae
@@ -6968,8 +7127,8 @@ min_phrase_weight: 100
 厲聲	li sen
 厲行	li yin
 厴	ie
-去	chi	100%
-去	chiu	0%
+去	chi	90%
+去	chiu	10%
 去世	chi sy
 去了	chi lheh
 去了	chi liau
@@ -7333,7 +7492,13 @@ min_phrase_weight: 100
 句	keu	0%
 句中	ciu tson
 句你	ciu nhi
+句𡢿	ciu non
+句儂	ciu non
+句渠	ciu yi
 句她	ciu tha
+句𡢿	ciu non
+句儂	ciu non
+句渠	ciu yi
 句嬰	cieu in
 句子	ciu tsy
 句容	ciu yon
@@ -7382,10 +7547,16 @@ min_phrase_weight: 100
 叫人	ciau nyin
 叫人家	ciau nyin ka
 叫他	ciau tha
+叫𡢿	ciau non
+叫儂	ciau non
+叫渠	ciau yi
 叫伊	ciau yi
 叫住	ciau dzyu
 叫作	ciau tsoh
 叫你	ciau nhi
+叫𡢿	ciau non
+叫儂	ciau non
+叫渠	ciau yi
 叫來	ciau le
 叫個	ciau ku
 叫做	ciau tsu
@@ -7556,52 +7727,53 @@ min_phrase_weight: 100
 吁	yu
 吁	shiu
 吁吁	shiu shiu
-吃	chih
-吃個	chih gheh
-吃價
-吃光光	chih kuaon kuaon
-吃准
-吃勿消
-吃勿牢
-吃勿脫
-吃勿落
-吃勿識頭	chih veh seh deu
-吃口
-吃吃我
-吃喜酒
-吃壽酒
-吃夾檔	chih kah taon
-吃官司人	chih kuoe sy nyin
-吃定心丸
-吃屁股
-吃沒
-吃火車	chih hu tsho
-吃牌頭
-吃生活	chih san weh
-吃白食	chih baoh dzeh
-吃着受用	chih tsaoh zeu yon
-吃老酒
-吃耳光	chih nyi kuaon
-吃虧	chih khue
-吃西北風	chih si poh fon
-吃賠帳
-吃軋帳	chih gah tsan
-吃軋頭	chih gah deu
-吃辛吃苦	chih sin chih khu
-吃辣火醬
-吃酒水
-吃酸
-吃野食	chih ya dzeh
-吃頓飯	chih ten vae
-吃頭塔
-吃頭腐
-吃飯去哉	chih vae chi tse
-吃飯家生	chih vae ka san
-吃飯辰光	chih vae zen kuaon
-吃飯間	chih vae kae
-吃香煙
-吃麻栗子
-吃麻蘭頭
+吃	chih	100%
+吃	cih	0%
+口吃	kheu cih
+喫個	chih gheh
+喫價
+喫光光	chih kuaon kuaon
+喫准
+喫勿消
+喫勿牢
+喫勿脫
+喫勿落
+喫勿識頭	chih veh seh deu
+喫口
+喫喫我
+喫喜酒
+喫壽酒
+喫夾檔	chih kah taon
+喫官司人	chih kuoe sy nyin
+喫定心丸
+喫屁股
+喫火車	chih hu tsho
+喫牌頭
+喫生活	chih san weh
+喫白食	chih baoh dzeh
+喫着受用	chih tsaoh zeu yon
+喫老酒
+喫耳光	chih nyi kuaon
+喫虧	chih khue
+喫西北風	chih si poh fon
+喫賠帳
+喫軋帳	chih gah tsan
+喫軋頭	chih gah deu
+喫辛喫苦	chih sin chih khu
+喫辣火醬
+喫酒水
+喫酸
+喫野食	chih ya dzeh
+喫頓飯	chih ten vae
+喫頭塔
+喫頭腐
+喫飯去哉	chih vae chi tse
+喫飯家生	chih vae ka san
+喫飯辰光	chih vae zen kuaon
+喫飯間	chih vae kae
+喫香煙
+喫麻栗子
+喫麻蘭頭
 各	koh
 各一
 各不	koh peh
@@ -7820,7 +7992,8 @@ min_phrase_weight: 100
 吐綠
 吐蕃	thu fae
 吐蕊	thu zoe
-向	shian
+向	shian	100%
+向	san	1%
 向一
 向下	shian gho
 向儂
@@ -8092,9 +8265,9 @@ min_phrase_weight: 100
 呔	te
 呔	tha
 呢	nyi
+呢	nyhi
 呢	nhe
-呢	nheh
-呢	nyie
+呢	nyhae
 呢喃	nyi noe
 呢噥	nyi non
 呢帽	nyi mau
@@ -8148,7 +8321,7 @@ min_phrase_weight: 100
 味素	vi su
 味美	vi mhe
 味蕾	vi le
-味覺	vi cioh
+味覺	vi ciaoh
 味道	mi dau
 呴	heu	100%
 呴	keu	0%
@@ -8516,6 +8689,7 @@ min_phrase_weight: 100
 唐花
 唑	dzu
 唔	nh
+唔	ngh
 唔奶
 唔該
 唔識	nh seh
@@ -8621,6 +8795,9 @@ min_phrase_weight: 100
 問了	ven liau
 問人	men nyin
 問他	men tha
+問𡢿	men non
+問儂	men non
+問渠	men yi
 問住	ven dzyu
 問來	ven le
 問供	ven kon
@@ -9039,7 +9216,7 @@ min_phrase_weight: 100
 嗄	so
 嗅	shieu
 嗅聞	shieu ven
-嗅覺	shieu cioh
+嗅覺	shieu ciaoh
 嗆	tshian
 嗇	seh
 嗉	su
@@ -9254,7 +9431,8 @@ min_phrase_weight: 100
 器識	chi seh
 噩	ngoh
 噩夢	ngoh maon
-噪	tshau
+噪	tshau	100%
+噪	tsau	0%
 噪聲	tshau sen
 噫	a
 噫	i
@@ -9528,7 +9706,7 @@ min_phrase_weight: 100
 困死	khuen sy
 困的
 困苦	khuen khu
-困覺	khuen cioh
+困覺	khuen ciaoh
 困頓	khuen ten
 囹	lin
 固	ku
@@ -10676,11 +10854,11 @@ min_phrase_weight: 100
 夜快
 夜快同
 夜快頭
-夜日頭吃家日頭	ya nyih deu chih ka nyih deu
+夜日頭喫家日頭	ya nyih deu chih ka nyih deu
 夜晚	ya uae
 夜景	ya cin
 夜月	ya yuih
-夜月吃家月	ya yuih chih ka yuih
+夜月喫家月	ya yuih chih ka yuih
 夜校	ya yau
 夜禁
 夜蛾	ya ngu
@@ -10756,6 +10934,9 @@ min_phrase_weight: 100
 大人	du nyin
 大人道理	du nyin dau li
 大他	da tha
+大𡢿	da non
+大儂	da non
+大渠	da yi
 大仙	da sie
 大件	da jie
 大伏裏	da voh li
@@ -11268,7 +11449,7 @@ min_phrase_weight: 100
 天瀴
 天火燒
 天煞
-天狗吃月亮	thie keu chih yuih lian
+天狗喫月亮	thie keu chih yuih lian
 天生	thie san
 天疱瘡	thie pau tshaon
 天碟
@@ -11335,7 +11516,7 @@ min_phrase_weight: 100
 夫君	fu ciun
 夫妻	fu tshi
 夫婦	fu vu
-夫婿	fu siu
+夫婿	fu si
 夫子	fu tsy
 夫家	fu ka
 夫權	fu jioe
@@ -11556,7 +11737,7 @@ min_phrase_weight: 100
 女奴	nyu nu
 女妖	nyu iau
 女娃	nyu ua
-女婿	nyu siu
+女婿	nyu si
 女媧	nyu ua
 女嫁	nyu ka
 女嬰	nyu in
@@ -11640,22 +11821,46 @@ min_phrase_weight: 100
 奸險	kae shie
 奸雄	kae yon
 她	tha
+𡢿	non
+儂	non
+渠	yi
 她並
 她也	tha gha
+𡢿也	non gha
+儂也	non gha
+渠也	yi gha
 她仍	tha nyin
+𡢿仍	non nyin
+儂仍	non nyin
+渠仍	yi nyin
 她作
 她則
 她又	tha yeu
+𡢿又	non yeu
+儂又	non yeu
+渠又	yi yeu
 她叫	tha ciau
+𡢿叫	non ciau
+儂叫	non ciau
+渠叫	yi ciau
 她同
 她向
 她呢	tha nyi
+𡢿呢	non nyi
+儂呢	non nyi
+渠呢	yi nyi
 她和
 她回
 她因
 她太
 她家	tha ka
+𡢿家	non ka
+儂家	non ka
+渠家	yi ka
 她將	tha tsian
+𡢿將	non tsian
+儂將	non tsian
+渠將	yi tsian
 她就
 她很
 她怕
@@ -11663,9 +11868,18 @@ min_phrase_weight: 100
 她指
 她既
 她更	tha ken
+𡢿更	non ken
+儂更	non ken
+渠更	yi ken
 她曾	tha dzen
+𡢿曾	non dzen
+儂曾	non dzen
+渠曾	yi dzen
 她最
 她會	tha we
+𡢿會	non we
+儂會	non we
+渠會	yi we
 她有
 她本
 她正
@@ -11676,12 +11890,27 @@ min_phrase_weight: 100
 她給
 她纔
 她能	tha nen
+𡢿能	non nen
+儂能	non nen
+渠能	yi nen
 她見	tha cie
+𡢿見	non cie
+儂見	non cie
+渠見	yi cie
 她說	tha seh
+𡢿說	non seh
+儂說	non seh
+渠說	yi seh
 她講	tha kaon
+𡢿講	non kaon
+儂講	non kaon
+渠講	yi kaon
 她跑
 她連
 她還	tha wae
+𡢿還	non wae
+儂還	non wae
+渠還	yi wae
 她那
 她開
 好	hau
@@ -11703,8 +11932,8 @@ min_phrase_weight: 100
 好勒
 好去	hau chi
 好古
-好吃吃
-好吃飯
+好喫喫
+好喫飯
 好吧	hau ba
 好呢	hau nhe
 好唻
@@ -11760,7 +11989,7 @@ min_phrase_weight: 100
 好草
 好衣
 好要
-好覺	hau cioh
+好覺	hau ciaoh
 好說	hau seh
 好說好話	hau seh hau gho
 好講	hau kaon
@@ -11916,7 +12145,7 @@ min_phrase_weight: 100
 妳講	nhi kaon
 妹	me
 妹夫	me fu
-妹婿	me siu
+妹婿	me si
 妻	tshi
 妻兒	tshi r
 妻女	tshi nyu
@@ -11932,7 +12161,7 @@ min_phrase_weight: 100
 始	sy
 始於	sy yu
 始知
-始覺	sy cioh
+始覺	sy ciaoh
 姍	sae
 姐	tsia
 姐	tsi
@@ -12109,8 +12338,8 @@ min_phrase_weight: 100
 婷	din
 婸	daon
 婺	vu
-婿	si
-婿	siu
+婿	si	100%
+婿	siu	0%
 媒	me
 媒人	me nyin
 媒介	me ka
@@ -12228,7 +12457,7 @@ min_phrase_weight: 100
 子女	tsy nyu
 子妹
 子姓
-子婿	tsy siu
+子婿	tsy si
 子孝	tsy shiau
 子孫	tsy sen
 子弟	tsy di
@@ -12603,7 +12832,7 @@ min_phrase_weight: 100
 官的
 官能	kuoe nen
 官舍	kuoe so
-官覺	kuoe cioh
+官覺	kuoe ciaoh
 官銜	kuoe ghae
 官長	kuoe tsan
 官階	kuoe cia
@@ -12694,7 +12923,13 @@ min_phrase_weight: 100
 害了	ghe liau
 害人	ghe nyin
 害他	ghe tha
+害𡢿	ghe non
+害儂	ghe non
+害渠	ghe yi
 害你	ghe nhi
+害𡢿	ghe non
+害儂	ghe non
+害渠	ghe yi
 害喜	ghe shi
 害已	ghe i
 害得	ghe teh
@@ -12726,6 +12961,9 @@ min_phrase_weight: 100
 家人	ka nyin
 家什	ka zeh
 家他	cia tha
+家𡢿	cia non
+家儂	cia non
+家渠	cia yi
 家來	cia le
 家信	ka sin
 家傳	ka dzoe
@@ -12744,6 +12982,9 @@ min_phrase_weight: 100
 家塾	cia zoh
 家境	cia cin
 家她	cia tha
+家𡢿	cia non
+家儂	cia non
+家渠	cia yi
 家子	cia tsy
 家學	ka ghoh
 家宅	ka dzaoh
@@ -12922,7 +13163,7 @@ min_phrase_weight: 100
 寞	moh
 寞然
 察	tshah
-察覺	tshah cioh
+察覺	tshah ciaoh
 寡	ko
 寡人	ko nyin
 寡合	ko gheh
@@ -13104,10 +13345,16 @@ min_phrase_weight: 100
 將	tsian
 將之	tsian tsy
 將他	tsian tha
+將𡢿	tsian non
+將儂	tsian non
+將渠	tsian yi
 將令	tsian lin
 將以	tsian i
 將佐	tsian tsu
 將你	tsian nhi
+將𡢿	tsian non
+將儂	tsian non
+將渠	tsian yi
 將使	tsian sy
 將來	tsian le
 將兵	tsian pin
@@ -13120,6 +13367,9 @@ min_phrase_weight: 100
 將在	tsian dze
 將士	tsian dzy
 將她	tsian tha
+將𡢿	tsian non
+將儂	tsian non
+將渠	tsian yi
 將它	tsian tha
 將官	tsian kuoe
 將將	tsian tsian
@@ -13805,6 +14055,7 @@ min_phrase_weight: 100
 山青
 山鷹
 屹	nyih
+屹	ih
 屺	chi
 岈	ya
 岌	jih
@@ -14432,7 +14683,7 @@ min_phrase_weight: 100
 幻景	uae cin
 幻異
 幻術	uae dzeh
-幻覺	uae cioh
+幻覺	uae ciaoh
 幼	ieu
 幼兒	ieu r
 幼兒園	ieu r yoe
@@ -15637,7 +15888,7 @@ min_phrase_weight: 100
 快去	khua chi
 快喫
 快嗎	khua mo
-快婿	khua siu
+快婿	khua si
 快干
 快感	khua koe
 快手快腳
@@ -15692,7 +15943,8 @@ min_phrase_weight: 100
 怎會	tsen we
 怎生	tsen sen
 怎能	tsen nen
-怎麼回事體	tsen meh we dzy thi
+哪恁回事體	na nen we dzy thi
+哪恁一回事體	na nen ih we dzy thi
 怎麼樣	tsen moh yan
 怏	ian
 怒	nu
@@ -15872,6 +16124,8 @@ min_phrase_weight: 100
 恣	tsy
 恤	sih
 恤金
+賉	sih
+賉金
 恥	tshy
 恧	nyoh
 恨	ghen
@@ -16108,7 +16362,7 @@ min_phrase_weight: 100
 想為
 想玩	sian woe
 想眼
-想着吃	sian dzaoh chih
+想着喫	sian dzaoh chih
 想知
 想見	sian cie
 想說	sian seh
@@ -16262,7 +16516,7 @@ min_phrase_weight: 100
 感激	koe cih
 感知	koe tsy
 感興	koe shin
-感覺	koe cioh
+感覺	koe ciaoh
 感觀	koe kuoe
 感觸	koe tshoh
 感言	koe yie
@@ -18267,6 +18521,7 @@ min_phrase_weight: 100
 揩面
 揩面孔
 揪	tsieu
+揪	tshieu
 揪住	tsieu dzyu
 揪痧
 揭	cih	100%
@@ -18719,6 +18974,7 @@ min_phrase_weight: 100
 撩逗	liau deu
 撩開	liau khe
 撫	vu
+撫	fu
 撫恤
 撫掌
 撫照
@@ -18753,6 +19009,7 @@ min_phrase_weight: 100
 撲臉
 撲蝶
 撲閃	phoh soe
+搇	chin
 撳	chin
 撳釘
 撳鈕
@@ -19633,6 +19890,9 @@ min_phrase_weight: 100
 於上	yu zaon
 於今	yu cin
 於他	yu tha
+於𡢿	yu non
+於儂	yu non
+於渠	yu yi
 於其	yu ji
 於前	yu dzie
 於在	yu dze
@@ -19719,6 +19979,9 @@ min_phrase_weight: 100
 日久	nyih cieu
 日人	zeh nyin
 日你	zeh nhi
+日𡢿	zeh non
+日儂	zeh non
+日渠	zeh yi
 日來	zeh le
 日俄	zeh ngu
 日元	zeh nyoe
@@ -19751,6 +20014,9 @@ min_phrase_weight: 100
 日夜	zeh ya
 日天	zeh thie
 日她	zeh tha
+日𡢿	zeh non
+日儂	zeh non
+日渠	zeh yi
 日子	zeh tsy
 日寇	zeh kheu
 日寢	zeh tshin
@@ -20268,6 +20534,9 @@ min_phrase_weight: 100
 晚了	uae liau
 晚些	uae si
 晚他	uae tha
+晚𡢿	uae non
+晚儂	uae non
+晚渠	uae yi
 晚來	uae le
 晚到	uae tau
 晚唐	uae daon
@@ -20774,7 +21043,7 @@ min_phrase_weight: 100
 最香
 最鮮
 會	kue	0%
-會	%ue	0%
+會	ue	0%
 會	we	100%
 會一	we ih
 會上	we zaon
@@ -20782,10 +21051,16 @@ min_phrase_weight: 100
 會中	we tson
 會了	we lheh
 會他	we tha
+會𡢿	we non
+會儂	we non
+會渠	we yi
 會你	we nhi
+會𡢿	we non
+會儂	we non
+會渠	we yi
 會做	we tsu
 會做	ue tsu
-會做人家	we tsu nyin ka
+會做人家	ue tsu nyin ka
 會元	we nyoe
 會兒	we r
 會前	we dzie
@@ -21213,6 +21488,9 @@ min_phrase_weight: 100
 望人	maon nyin
 望儂	maon non
 望你	waon nhi
+望𡢿	waon non
+望儂	waon non
+望渠	waon yi
 望到	waon tau
 望向	maon shian
 望塵	maon dzen
@@ -21245,6 +21523,9 @@ min_phrase_weight: 100
 朝下	dzau gho
 朝中	dzau tson
 朝他	dzau tha
+朝𡢿	dzau non
+朝儂	dzau non
+朝渠	dzau yi
 朝代	dzau de
 朝個	dzau ku
 朝前	dzau dzie
@@ -21445,7 +21726,7 @@ min_phrase_weight: 100
 未虧	vi khue
 未被	vi be
 未見	vi cie
-未覺	vi cioh
+未覺	vi ciaoh
 未計	vi ci
 未詳	vi zian
 未變	vi pie
@@ -21876,7 +22157,7 @@ min_phrase_weight: 100
 查處	dzo tshyu
 查號	dzo ghau
 查表	dzo piau
-查覺	dzo cioh
+查覺	dzo ciaoh
 查訊	dzo sin
 查訪	dzo faon
 查詢	dzo sin
@@ -22063,7 +22344,6 @@ min_phrase_weight: 100
 根須
 格	kaoh
 格價
-格嚜
 格拉	kaoh lha
 格柵	kaoh sah
 格物	kaoh veh
@@ -23154,7 +23434,13 @@ min_phrase_weight: 100
 死人	si nyin
 死人勿關	si nyin veh kuae
 死他	sy tha
+死𡢿	sy non
+死儂	sy non
+死渠	sy yi
 死你	sy nhi
+死𡢿	sy non
+死儂	sy non
+死渠	sy yi
 死保	sy pau
 死傷	sy saon
 死光	sy kuaon
@@ -23428,9 +23714,15 @@ min_phrase_weight: 100
 比下	pi gho
 比丘	pi chieu
 比他	pi tha
+比𡢿	pi non
+比儂	pi non
+比渠	pi yi
 比伊	pi i
 比作	pi tsoh
 比你	pi nhi
+比𡢿	pi non
+比儂	pi non
+比渠	pi yi
 比來	pi le
 比例	pi li
 比值	pi dzeh
@@ -23447,6 +23739,9 @@ min_phrase_weight: 100
 比增	pi tsen
 比多	pi tu
 比她	pi tha
+比𡢿	pi non
+比儂	pi non
+比渠	pi yi
 比如	pi zyu
 比它	pi tha
 比對	pi te
@@ -23497,7 +23792,7 @@ min_phrase_weight: 100
 毛條	mau diau
 毛燥
 毛織	mau tseh
-毛腳女婿	mau ciaoh nyu siu
+毛腳女婿	mau ciaoh nyu si
 毛色
 毛蚶
 毛貨
@@ -24308,7 +24603,7 @@ min_phrase_weight: 100
 活脫勢象
 活膩
 活裏活絡
-活覺	weh cioh
+活覺	weh ciaoh
 洼	ua
 洼亮
 洽	yah
@@ -24552,6 +24847,7 @@ min_phrase_weight: 100
 淘換
 淘湯	dau thaon
 淘漿糊
+淘米
 淘米籮
 淘茶
 淙	dzon
@@ -25015,7 +25311,7 @@ min_phrase_weight: 100
 溫炕	uen khaon
 溫莎	uen so
 溫藥
-溫覺	uen cioh
+溫覺	uen ciaoh
 溫課
 溫食	uen dzeh
 溮	sy
@@ -26930,7 +27226,7 @@ min_phrase_weight: 100
 獨生	doh san
 獨腳蟹
 獨行	doh yin
-獨覺	doh cioh
+獨覺	doh ciaoh
 獨門心思	doh men sin sy
 獨闖	doh tshaon
 獨養兒子	doh yan nyi tsy
@@ -28001,7 +28297,7 @@ min_phrase_weight: 100
 痛殲
 痛腳
 痛苦	thon khu
-痛覺	thon cioh
+痛覺	thon ciaoh
 痛責	thon tseh
 痛陳
 痞	phi
@@ -28209,7 +28505,7 @@ min_phrase_weight: 100
 發行	fah ghan
 發行	fah yin
 發西風
-發覺	fah cioh
+發覺	fah ciaoh
 發言	fah yie
 發踱
 發車	fah tsho
@@ -28559,7 +28855,7 @@ min_phrase_weight: 100
 直行	dzeh yin
 直裏
 直裏向
-直覺	dzeh cioh
+直覺	dzeh ciaoh
 直言	dzeh yie
 直說	dzeh seh
 直講	dzeh kaon
@@ -28914,7 +29210,7 @@ min_phrase_weight: 100
 睡床
 睡着	zoe dzaoh
 睡臥
-睡覺	zoe cioh
+睡覺	zoe ciaoh
 睡車	zoe tsho
 睡龍
 睢	soe
@@ -29059,7 +29355,7 @@ min_phrase_weight: 100
 知組
 知能	tsy nen
 知行	tsy ghaon
-知覺	tsy cioh
+知覺	tsy ciaoh
 知識	tsy seh
 知趣	tsy tshiu
 矧	sen
@@ -29198,6 +29494,7 @@ min_phrase_weight: 100
 砍死	khae sy
 砍翻
 砑	nga
+砑	ya
 砒	phi
 研	nyie
 研	nyhie
@@ -29345,7 +29642,7 @@ min_phrase_weight: 100
 硬功
 硬勁	ngan cin
 硬化	ngan ho
-硬吃硬做
+硬喫硬做
 硬塞	ngan seh
 硬岩
 硬張
@@ -29626,6 +29923,9 @@ min_phrase_weight: 100
 祝	tseu	0%
 祝	tsoh	100%
 祝你	tsoh nhi
+祝𡢿	tsoh non
+祝儂	tsoh non
+祝渠	tsoh yi
 祝壽	tsoh zeu
 祝您	tsoh nyin
 祝捷	tsoh dzih
@@ -30656,7 +30956,8 @@ min_phrase_weight: 100
 粗貨
 粗飯
 粘	nyhie
-粘了	nyhie liau
+粘	nyie
+粘牢	nyhie lau
 粘住	nyhie dzyu
 粘劑
 粘合	nyhie gheh
@@ -31503,7 +31804,7 @@ min_phrase_weight: 100
 緣淺	yoe tshie
 緣緣
 緣薄	yoe boh
-緣覺	yoe cioh
+緣覺	yoe ciaoh
 緦	sy
 編	pie
 編了	pie liau
@@ -31646,6 +31947,7 @@ min_phrase_weight: 100
 總長	tson dzan
 總閘
 績	tsih
+績絨線	tsih nyon sie
 績分	tsih fen
 績學	tsih ghoh
 繁	bu
@@ -31719,7 +32021,7 @@ min_phrase_weight: 100
 織襪	tseh mah
 織造	tseh dzau
 織錦	tseh cin
-織絨線	cih nyon shie
+織絨線	tsih nyon sie
 繕	zoe
 繗	lin
 繚	liau
@@ -32075,7 +32377,7 @@ min_phrase_weight: 100
 羽化	yu ho
 羿	yi
 翁	on
-翁婿	on siu
+翁婿	on si
 翁媼
 翃	ghon
 翅	tshy
@@ -32190,7 +32492,7 @@ min_phrase_weight: 100
 老古板氣
 老古言話	lau ku ghae gho
 老右
-老吃老做
+老喫老做
 老嗆
 老多
 老多字
@@ -32567,7 +32869,7 @@ min_phrase_weight: 100
 聯線
 聯繫	lie yi
 聯華	lie gho
-聯覺	lie cioh
+聯覺	lie ciaoh
 聯詞
 聯誦
 聯遊
@@ -32680,7 +32982,7 @@ min_phrase_weight: 100
 聽聞	thin ven
 聽聲	thin sen
 聽見	thin cie
-聽覺	thin cioh
+聽覺	thin ciaoh
 聽記
 聽說	thin seh
 聽誰
@@ -32963,7 +33265,8 @@ min_phrase_weight: 100
 胡說	wu seh
 胡鍛
 胤	yin
-胥	siu
+胥	siu	0%
+胥	si	100%
 胩	kha
 胬	nu
 胭	ie
@@ -33484,7 +33787,7 @@ min_phrase_weight: 100
 自肥	dzy vi
 自艾	dzy nyi
 自行	dzy yin
-自覺	dzy cioh
+自覺	dzy ciaoh
 自解	dzy cia
 自誇	dzy kho
 自認為
@@ -33762,7 +34065,7 @@ min_phrase_weight: 100
 色澤	seh dzeh
 色織	seh tseh
 色衰	seh se
-色覺	seh cioh
+色覺	seh ciaoh
 色調	seh diau
 色譜	seh pu
 色變
@@ -35133,8 +35436,9 @@ min_phrase_weight: 100
 蛄	ku
 蛅	dzae
 蛅蝍
-蛆	tshiu
-蛆	tsiu
+蛆	tshi	100%
+蛆	tshiu	0%
+蛆	tsi	0%
 蛇	yi	0%
 蛇	dzo	100%
 蛇年	dzo nyie
@@ -35667,6 +35971,9 @@ min_phrase_weight: 100
 被困	be khuen
 被套	bi thau
 被她	be tha
+被𡢿	be non
+被儂	be non
+被渠	be yi
 被子	bi tsy
 被它	be tha
 被害	be ghe
@@ -35908,6 +36215,7 @@ min_phrase_weight: 100
 襲過
 襴	lae
 襻	phae
+襻襻頭	phae phae deu
 西	si
 西人	si nyin
 西化	si ho
@@ -36032,6 +36340,7 @@ min_phrase_weight: 100
 覃	dae
 覃	yie
 覅	viau
+覅	fiau
 覅多
 覅拿	viau nhe
 覅用
@@ -36047,7 +36356,13 @@ min_phrase_weight: 100
 見了	cie liau
 見仁	cie nyin
 見他	cie tha
+見𡢿	cie non
+見儂	cie non
+見渠	cie yi
 見你	cie nhi
+見𡢿	cie non
+見儂	cie non
+見渠	cie yi
 見光	cie kuaon
 見其	cie ji
 見出	cie tsheh
@@ -36124,7 +36439,7 @@ min_phrase_weight: 100
 視差	zy tsha
 視為
 視網
-視覺	zy cioh
+視覺	zy ciaoh
 覘	tshoe
 覡	yih
 覦	yu
@@ -36160,21 +36475,22 @@ min_phrase_weight: 100
 覲	jin
 覲見	jin cie
 覷	tshiu	100%
-覺	cioh
+覺	cioh	0%
+覺	ciaoh
 覺	kau
 覺	koh
-覺像	cioh zian
-覺察	cioh tshah
-覺得	cioh teh
-覺悟	cioh ngu
-覺查	cioh dzo
-覺民	cioh min
-覺猜	cioh tshe
-覺着	cioh dzaoh
+覺像	ciaoh zian
+覺察	ciaoh tshah
+覺得	ciaoh teh
+覺悟	ciaoh ngu
+覺查	ciaoh dzo
+覺民	ciaoh min
+覺猜	ciaoh tshe
+覺着	ciaoh dzaoh
 覺着	koh dzaoh
-覺算	cioh soe
-覺識	cioh seh
-覺醒	cioh sin
+覺算	ciaoh soe
+覺識	ciaoh seh
+覺醒	ciaoh sin
 覻	tshi
 覷	tshi	0%
 覽	lae
@@ -36227,8 +36543,14 @@ min_phrase_weight: 100
 解了	cia liau
 解人	cia nyin
 解他	cia tha
+解𡢿	cia non
+解儂	cia non
+解渠	cia yi
 解任	cia zen
 解你	cia nhi
+解𡢿	cia non
+解儂	cia non
+解渠	cia yi
 解像	cia zian
 解僱	cia ku
 解凍	cia ton
@@ -36322,7 +36644,7 @@ min_phrase_weight: 100
 觸景	tshoh cin
 觸氣
 觸祭	tshoh tsi
-觸覺	tshoh cioh
+觸覺	tshoh ciaoh
 觸鍵
 觸霉頭
 觸鬚	tshoh siu
@@ -36734,7 +37056,13 @@ min_phrase_weight: 100
 說事	seh dzy
 說些	seh si
 說他	seh tha
+說𡢿	seh non
+說儂	seh non
+說渠	seh yi
 說你	seh nhi
+說𡢿	seh non
+說儂	seh non
+說渠	seh yi
 說來	seh le
 說個	seh ku
 說出	seh tsheh
@@ -36951,7 +37279,7 @@ min_phrase_weight: 100
 請假	tshin ka
 請備
 請口
-請吃茶
+請喫茶
 請喫
 請寄
 請托
@@ -37059,6 +37387,9 @@ min_phrase_weight: 100
 講	kaon
 講一聲	kaon ih san
 講他	kaon tha
+講𡢿	kaon non
+講儂	kaon non
+講渠	kaon yi
 講來	kaon le
 講個	kaon gheh
 講個人	kaon gheh nyin
@@ -37163,7 +37494,13 @@ min_phrase_weight: 100
 識	seh	100%
 識	tsy	0%
 識他	seh tha
+識𡢿	seh non
+識儂	seh non
+識渠	seh yi
 識你	seh nhi
+識𡢿	seh non
+識儂	seh non
+識渠	seh yi
 識別	seh bih
 識到	seh tau
 識字	seh dzy
@@ -37206,7 +37543,7 @@ min_phrase_weight: 100
 警校	cin yau
 警棍	cin kuen
 警槍
-警覺	cin cioh
+警覺	cin ciaoh
 警車	cin tsho
 警辟
 警銜	cin ghae
@@ -37538,7 +37875,7 @@ min_phrase_weight: 100
 販夫	fae fu
 販毒	fae doh
 貪	thoe
-貪吃懶做
+貪喫懶做
 貪喫
 貪玩	thoe woe
 貪逸
@@ -38936,6 +39273,9 @@ min_phrase_weight: 100
 追上	tsoe zaon
 追了	tsoe liau
 追他	tsoe tha
+追𡢿	tsoe non
+追儂	tsoe non
+追渠	tsoe yi
 追來	tsoe le
 追償	tsoe zaon
 追兵	tsoe pin
@@ -38947,6 +39287,9 @@ min_phrase_weight: 100
 追回	tsoe we
 追奔	tsoe pen
 追她	tsoe tha
+追𡢿	tsoe non
+追儂	tsoe non
+追渠	tsoe yi
 追尋	tsoe zin
 追念	tsoe nyie
 追思	tsoe sy
@@ -39670,7 +40013,7 @@ min_phrase_weight: 100
 還未	ghe vi
 還款	wae khuoe
 還沒	ghe meh
-還沒吃	ghe meh chih
+還沒喫	ghe meh chih
 還派	wae pha
 還清	wae tshin
 還潮天	wae dzau thie
@@ -40038,7 +40381,7 @@ min_phrase_weight: 100
 醒	sin
 醒睡
 醒腦
-醒覺	sin cioh
+醒覺	sin ciaoh
 醚	mi
 醛	tshie
 醜	tsheu
@@ -40533,7 +40876,7 @@ min_phrase_weight: 100
 錯脫
 錯脫哉	tshu theh tse
 錯薦
-錯覺	tshu cioh
+錯覺	tshu ciaoh
 錯路
 錯車	tshu tsho
 錯連錯
@@ -40803,6 +41146,9 @@ min_phrase_weight: 100
 長亭	dzan din
 長人	dzan nyin
 長他	tsan tha
+長𡢿	tsan non
+長儂	tsan non
+長渠	tsan yi
 長休	dzan shieu
 長住	dzan dzyu
 長假	dzan ka
@@ -41097,6 +41443,9 @@ min_phrase_weight: 100
 間	kae
 間中	cie tson
 間他	cie tha
+間𡢿	cie non
+間儂	cie non
+間渠	cie yi
 間作	cie tsoh
 間前天	kae dzie thie
 間壁	cie pih
@@ -41104,6 +41453,9 @@ min_phrase_weight: 100
 間天	cie thie
 間奏	cie tseu
 間她	cie tha
+間𡢿	cie non
+間儂	cie non
+間渠	cie yi
 間我	cie ngu
 間或	cie weh
 間接	cie tsih
@@ -42665,7 +43017,7 @@ min_phrase_weight: 100
 頓生	ten sen
 頓腳	ten ciaoh
 頓號	ten ghau
-頓覺	ten cioh
+頓覺	ten ciaoh
 頓足	ten tsoh
 頓釋	ten seh
 頓飯	ten vae
@@ -42682,7 +43034,7 @@ min_phrase_weight: 100
 頗為
 頗細
 頗能	phu nen
-頗覺	phu cioh
+頗覺	phu ciaoh
 頗讓
 頗負	phu veu
 頗費	phu fi
@@ -43459,7 +43811,7 @@ min_phrase_weight: 100
 驚聞	cin ven
 驚艷
 驚蜇
-驚覺	cin cioh
+驚覺	cin ciaoh
 驚駕	cin ka
 驛	yih
 驛路
@@ -44367,7 +44719,7 @@ min_phrase_weight: 100
 鼾聲	hoe sen
 齁	heu
 齁私	heu sy
-齁覺	heu cioh
+齁覺	heu ciaoh
 齆	on
 齆鼻頭
 齈	non
@@ -46219,20 +46571,15 @@ min_phrase_weight: 100
 禍	ghou
 芦	ghou
 葫	ghou
-且	tshie
-些	sie
-姐	tsie
-姊	tsie
 廿	nyie
 月	ngeh
 哉	tseh
 哉	zeh
 許	ho
-場許	ci ho
+幾許	ci ho
 場許	dzan ho
 霞	gho
 邂	gha
-噪	tsau
 冊那	tsheh na
 頡	kah	%100
 頡	yih	%0
@@ -46245,7 +46592,6 @@ T-shirt	tshirt
 鋸	ke
 何	gha
 下	ya
-覺	ciah
 峽	ciah
 哈欠	ho chie
 哈軒	ho shie
@@ -46364,4 +46710,6 @@ Rime 中州韻輸入法	rime
 識𡢿	seh non
 蹦躂	pon tah
 𠲎	vah
-
+霍閃	hoh sie
+矆睒	hoh sie
+霍睒	hoh sie
