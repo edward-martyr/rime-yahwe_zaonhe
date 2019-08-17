@@ -4,7 +4,7 @@
 schema:
   schema_id: yahwe_zaonhe
   name: 吳協式上海言話
-  version: "2019.08.01"
+  version: "2019.08.17"
   author:
     - 埃爾德路 ‹edwardmartyr@outlook.com›
   description: |
@@ -76,7 +76,6 @@ speller:
     - derive/(.*)u/$1ou/
     - derive/^zaon/laon/                          # 地上、衣裳
     - derive/^zi(?=a)/y/                          # 謝謝 zia ya; 好像 hau yan
-    - derive/^dz/z/                               # 上海話模糊“從”“邪”
     - derive/(.*)aoh/$1ah/                        # 多數中派模糊前後ah
 
     - derive/^ny([aeou])/ni$1/                    # 簡寫以及更多易錯模糊
@@ -84,17 +83,17 @@ speller:
     - derive/^nyh([aeou])/ni$1/
     - derive/^nyhi/ni/
     - derive/^nyh/ny/
+    - derive/nyih/nyh/
     - derive/^([mnl])h/$1/
-    - derive/(.*)au/$1ao/
+    - derive/au$/ao/
     - derive/^tsh/tt/
     - derive/^sh/x/
     - derive/^ch/q/
-    - derive/(.*)([aoei])h/$1$2$2/
-    - derive/(.*)uih/$1uu/
-    - derive/^(.*)([sz])y/$1$2$2/
+    - derive/([aoei])h$/$1$1/
+    - derive/uih$/uu/
+    - derive/([sz])y/$1$1/
     - derive/^tshy/ttt/
-    - derive/(.*)uih/$1uh/
-    - derive/nyuih/nuu/
+    - derive/uih$/uh/
     - derive/^ng/gg/
     - derive/^gh/hh/
 
@@ -102,6 +101,7 @@ speller:
     - derive/^([cjymnqx])in/$1n/
     - derive/^([sc]h)iau/$1o/
     - derive/^([cj])iau/$1o/
+    - derive/(y)au/$1o/
     - derive/([bpsztdhuwvklg])en/$1n/                # 更多簡寫
 
     - derive/^(c|ch|j|ny|sh|x|q)i([aeou])/$1$2/
