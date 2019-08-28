@@ -3,12 +3,13 @@
 #
 # 上海吳語
 #
-# 碼表製作：
+# 碼表來源：
 #
 #   上海閒話abc <tzyyiggnih@yahoo.com.cn>
 #   吳語越音 <zhufya@mail.ustc.edu.cn>
+#   神死慟瞑 <411325365@qq.com>
 #
-# 增改：
+# 本地化、增改：
 # 
 #   埃爾德路 ‹edwardmartyr@outlook.com›
 
@@ -590,7 +591,7 @@ min_phrase_weight: 100
 下厰	gho tshan
 下情	gho zin
 下我	gho ngu
-下或	gho weh
+下或
 下手	gho seu
 下把戲	gho po shi
 下拉	gho lha
@@ -1035,8 +1036,8 @@ min_phrase_weight: 100
 不悅	peh yuih
 弗悖	veh be
 不悖	peh be
-弗惑	veh weh
-不惑	peh weh
+弗惑	veh ghoh
+不惑	peh ghoh
 弗惜	veh sih
 不惜	peh sih
 弗惟	veh vi
@@ -1722,6 +1723,8 @@ min_phrase_weight: 100
 主送
 主食	tsyu zeh
 乂	nyi
+㭆	ne
+㭆	ne meh
 乃	ne
 乃弟	ne di
 乃曰
@@ -2912,7 +2915,7 @@ min_phrase_weight: 100
 人物	nyin veh
 人犯	nyin vae
 人猿	nyin yoe
-人獲	nyin weh
+人獲	nyin ghoh
 人瑞	nyin zoe
 人生	nyin san
 人生	nyin sen
@@ -3374,7 +3377,7 @@ min_phrase_weight: 100
 份額	ven ngaoh
 仿	baon
 仿	faon
-仿佛	faon veh
+仿佛	faon feh
 仿冒	faon mau
 仿古	faon ku
 仿宋	faon son
@@ -3689,9 +3692,10 @@ min_phrase_weight: 100
 佚	yih
 佚名	yih min
 佚失	yih seh
-佛	beh
-佛	bih
-佛	veh
+佛	beh	0%
+佛	bih	0%
+佛	veh	10%
+佛	feh	90%
 佛事	veh zy
 佛偈	veh jih
 佛像	veh zian
@@ -7822,7 +7826,7 @@ min_phrase_weight: 100
 又無	yeu vu
 又熱	yeu nyih
 又燃	yeu zoe
-又獲	yeu weh
+又獲	yeu ghoh
 又生	yeu sen
 又用	yeu yon
 又發	yeu fah
@@ -13938,7 +13942,7 @@ min_phrase_weight: 100
 將比	tsian pi
 將為	tsian we
 將無	tsian vu
-將獲	tsian weh
+將獲	tsian ghoh
 將由	tsian yeu
 將略	tsian liaoh
 將相	tsian sian
@@ -16597,7 +16601,7 @@ min_phrase_weight: 100
 思忖	sy tshen
 思念	sy nyie
 思情	sy zin
-思惑	sy weh
+思惑	sy ghoh
 思想	sy sian
 思慕	sy mu
 思慧	sy we
@@ -16854,7 +16858,7 @@ min_phrase_weight: 100
 惆	tsheu
 惇	ten
 惋	uoe
-惑	weh
+惑	ghoh
 惑眾
 惕	thih
 惘	maon
@@ -18501,7 +18505,7 @@ min_phrase_weight: 100
 拾掇	zeh teh
 拾柴	zeh za
 拾滿	zeh moe
-拾獲	zeh weh
+拾獲	zeh ghoh
 拾穗	zeh zoe
 拾級	zeh cih
 拾荒	zeh huaon
@@ -20520,9 +20524,9 @@ min_phrase_weight: 100
 方言歌	faon yie ku
 方鋼
 方顯
-於	iu
-於	u
-於	yu
+於	iu	0%
+於	u	0%
+於	yu	100%
 於七	yu tshih
 於上	yu zaon
 於今	yu cin
@@ -21630,7 +21634,7 @@ min_phrase_weight: 100
 曾是	zen zy
 曾有	zen yeu
 曾為	zen we
-曾獲	zen weh
+曾獲	zen ghoh
 曾用	zen yon
 曾祖	tsen tsu
 曾祖父	tsen tsu vu
@@ -22362,7 +22366,7 @@ min_phrase_weight: 100
 未炒	vi tshau
 未然	vi zoe
 未熟	vi zoh
-未獲	vi weh
+未獲	vi ghoh
 未留	vi lieu
 未盡	vi zin
 未看	vi khoe
@@ -22797,7 +22801,7 @@ min_phrase_weight: 100
 查清	zo tshin
 查無	zo vu
 查照	zo tsau
-查獲	zo weh
+查獲	zo ghoh
 查理	zo li
 查的	zo tih
 查看	zo khoe
@@ -27925,8 +27929,8 @@ min_phrase_weight: 100
 獯	shiun
 獰	nyin
 獰惡	nyin oh
-獲	weh
-獲罪	weh zoe
+獲	ghoh
+獲罪	ghoh zoe
 獴	mon
 獵	lah
 獵人	lah nyin
@@ -29763,7 +29767,7 @@ min_phrase_weight: 100
 眩	yoe	100%
 眩人	yoe nyin
 眩光	yoe kuaon
-眩惑	yoe weh
+眩惑	yoe ghoh
 眩暈	yoe yun
 眩目	yoe moh
 眩迷	yoe mi
@@ -30277,7 +30281,7 @@ min_phrase_weight: 100
 破浪	phu laon
 破滅	phu mih
 破爛	phu lae
-破獲	phu weh
+破獲	phu ghoh
 破瓜	phu ko
 破產	phu tshae
 破的	phu tih
@@ -32805,7 +32809,7 @@ min_phrase_weight: 100
 繳款	ciau khuoe
 繳清	ciau tshin
 繳滿	ciau moe
-繳獲	ciau weh
+繳獲	ciau ghoh
 繳租	ciau tsu
 繳稅	ciau soe
 繳納	ciau nah
@@ -37140,7 +37144,7 @@ min_phrase_weight: 100
 見思	cie sy
 見性	cie sin
 見怪	cie kua
-見惑	cie weh
+見惑	cie ghoh
 見愛	cie e
 見慣	cie kuae
 見效	cie yau
@@ -37329,7 +37333,7 @@ min_phrase_weight: 100
 解恨	cia ghen
 解悟	cia ngu
 解悶	cia mhen
-解惑	cia weh
+解惑	cia ghoh
 解憂	cia ieu
 解懨氣	ka ie chi
 解懷	cia we
@@ -39369,10 +39373,10 @@ min_phrase_weight: 100
 蹇	cie
 蹈	dau
 蹉	tshu
-蹊	chi
-蹊	yi
-蹊徑	chi cin
-蹊蹺	chi chiau
+蹊	chi	0%
+蹊	yi	100%
+蹊徑
+蹊蹺
 蹋	thah
 蹌	tshian
 蹌踉
@@ -39439,6 +39443,7 @@ min_phrase_weight: 100
 躍陞
 躍馬	yaoh mo
 躐	lih
+躐	lah
 躑	zeh
 躒	lih
 躒	loh
@@ -86372,7 +86377,7 @@ min_phrase_weight: 100
 啃骨頭
 礪吻磨距
 緊繃
-一暴十寒
+一暴十寒	ih bau zeh ghoe
 處事原則
 風胡子
 流傳
@@ -112895,7 +112900,7 @@ max_phrase_length: 7
 𤫲	lin
 𣍦	faon
 狊	shioh
-睴	ven
+睴	wen
 戄	shiuih
 匌	keh
 茇	peh
@@ -113473,7 +113478,7 @@ max_phrase_length: 7
 𣚃	cih
 箯	bie
 梎	au
-𪘩	ven
+𪘩	wen
 䵝	i
 䰍	tshy
 鉆	thih
@@ -113948,7 +113953,7 @@ max_phrase_length: 7
 𨛬	be
 㼔	uen
 虋	men
-瘒	ven
+瘒	wen
 䶣	ke
 𤽊	pi
 瓈	li
@@ -114566,7 +114571,7 @@ max_phrase_length: 7
 𢛁	tah
 𥌄	khueh
 𠌮	tso
-夽	ven
+夽	wen
 驈	zeh
 懜	man
 㵣	kheh
@@ -117911,7 +117916,7 @@ max_phrase_length: 7
 㜽	tsy
 𡤙	nah
 髬	phe
-𧡡	ven
+𧡡	wen
 𤻱	lu
 瘚	ciuih
 刏	kue
@@ -118299,7 +118304,7 @@ max_phrase_length: 7
 欥	yeh
 䪙	phoh
 婓	fi
-袴	khu
+袴	kho
 𣩄	kheh
 緀	tshi
 㞓	chi
@@ -119922,7 +119927,7 @@ max_phrase_length: 7
 廦	pih
 㛍	shie
 馽	tseh
-齳	ven
+齳	wen
 𧸩	sen
 𦜯	then
 媕	ae
@@ -121302,7 +121307,7 @@ max_phrase_length: 7
 㲝	mau
 𩅼	tsae
 翣	sah
-𧼐	ven
+𧼐	nyuin
 禫	dae
 𨣱	meh
 䤗	kae
@@ -122645,7 +122650,7 @@ max_phrase_length: 7
 憸	shie
 㟅	ngaon
 攴	phoh
-𦺊	ven
+𦺊	wen
 秿	pu
 惼	pie
 浨	lae
@@ -123265,7 +123270,7 @@ max_phrase_length: 7
 𨎷	lie
 粮	lian
 㣂	ngeh
-喗	ven
+喗	nyuin
 爯	tshen
 𩔁	hue
 𨍷	nyon
@@ -124065,7 +124070,7 @@ max_phrase_length: 7
 鳫	ngae
 稵	tsieu
 蜟	yoh
-䎽	ven
+䎽	wen
 㲳	tseh
 霵	tseh
 阞	leh
@@ -124758,7 +124763,7 @@ max_phrase_length: 7
 𡿪	nyih
 𦓀	ji
 䕄	tsen
-𩘚	ve
+𩘚	we
 䚌	kau
 𦷛	tu
 𡴀	fon
@@ -124959,7 +124964,7 @@ max_phrase_length: 7
 𡶇	mih
 𩓡	kue
 𦖥	nga
-𩎯	ve
+𩎯	we
 𡥀	pau
 𨙅	nyoe
 𤎟	i
@@ -124996,7 +125001,7 @@ max_phrase_length: 7
 𤷚	tsoh
 𪎂	le
 𠟽	kuah
-𧞷	va
+𧞷	wa
 㷭	fon
 𡤬	oh
 𡽐	liau
@@ -125056,7 +125061,7 @@ max_phrase_length: 7
 𧬮	tsho
 𥏻	tshian
 𣘯	kuan
-𧲚	ve
+𧲚	we
 𨋱	the
 𡎰	zy
 㒋	sy
@@ -125228,11 +125233,11 @@ max_phrase_length: 7
 𢋑	vu
 𦂁	zoe
 𠂕	sy
-𩁧	ve
+𩁧	we
 䊷	tsy
 𥿬	nyih
 𦢸	phoh
-𦏊	ve
+𦏊	wae
 𥄀	au
 𢖔	pau
 𠈈	tshy
@@ -125334,7 +125339,7 @@ max_phrase_length: 7
 𢖒	ieu
 𩛿	zin
 𣐉	tshy
-𢣒	ven
+𢣒	wen
 𦝭	le
 𧗜	de
 𧖧	din
@@ -125608,7 +125613,7 @@ max_phrase_length: 7
 𣠟	zen
 𡔢	cih
 𠨴	ka
-𧲔	ve
+𧲔	we
 𦩻	tsau
 𡭊	te
 𩎧	voh
