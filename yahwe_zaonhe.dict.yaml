@@ -15,7 +15,7 @@
 
 ---
 name: yahwe_zaonhe
-version: "2019.08.17"
+version: "2019.09.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -128,6 +128,7 @@ min_phrase_weight: 100
 一時頭哴
 一晚	ih uae
 一會	ih we
+一月	ih nyuih
 一月	ih yuih
 一朝	ih zau
 一朝	ih tsau
@@ -282,6 +283,7 @@ min_phrase_weight: 100
 七日	tshih nyih
 七曲八彎
 七曲八繞
+七月	tshih nyuih
 七月	tshih yuih
 七根
 七條	tshih diau
@@ -345,7 +347,9 @@ min_phrase_weight: 100
 三更	sae kan
 三更天	sae kan thie
 三會	sae we
+三月	sae nyuih
 三月	sae yuih
+三月份	sae nyuih
 三月份	sae yuih ven
 三有
 三朝	sae zau
@@ -1930,6 +1934,7 @@ min_phrase_weight: 100
 九大	cieu da
 九折	cieu tseh
 九日	cieu nyih
+九月	cieu nyuih
 九月	cieu yuih
 九根
 九條	cieu diau
@@ -2265,6 +2270,7 @@ min_phrase_weight: 100
 二指	nyi tsy
 二日	nyi nyih
 二晚	nyi uae
+二月	nyi nyuih
 二月	nyi yuih
 二期	nyi ji
 二杯	nyi pe
@@ -2505,6 +2511,7 @@ min_phrase_weight: 100
 五晚	ng uae
 五智	ng tsy
 五更	ng kan
+五月	ng nyuih
 五月	ng yuih
 五服	ng voh
 五期	ng ji
@@ -4249,7 +4256,7 @@ min_phrase_weight: 100
 倉猝	tshaon tsheh
 倉頡	tshaon ciah
 個	geh
-個	eh
+個	keh
 個	koe	0%
 個	ku
 個	gheh
@@ -4741,6 +4748,7 @@ min_phrase_weight: 100
 傷腿
 傷陰積	saon in tsih
 傷隂隲
+儍	sa
 傻	sa
 傻了	sa liau
 傻冒	sa mau
@@ -5379,7 +5387,9 @@ min_phrase_weight: 100
 八日	pah nyih
 八旬
 八景	pah cin
+八月	pah nyuih
 八月	pah yuih
+八月份	pah nyuih
 八月份	pah yuih ven
 八根
 八桂
@@ -5443,6 +5453,7 @@ min_phrase_weight: 100
 六家	loh ka
 六弟	loh di
 六日	loh nyih
+六月	loh nyuih
 六月	loh yuih
 六朝	loh zau
 六條	loh diau
@@ -7185,7 +7196,8 @@ min_phrase_weight: 100
 十	seh	0%
 十	zeh	100%
 十一	zeh ih
-十一月	zeh ih yuih
+十一月	zeh ih nyuih
+一月	zeh ih yuih
 十七	zeh tshih
 十三	zeh sae
 十九	zeh cieu
@@ -7222,6 +7234,7 @@ min_phrase_weight: 100
 十數	zeh su
 十日	zeh nyih
 十日八夜	zeh nyih pah ya
+十月	zeh nyuih
 十月	zeh yuih
 十根	zeh ken
 十條	zeh diau
@@ -10131,6 +10144,7 @@ min_phrase_weight: 100
 四新
 四日	sy nyih
 四會	sy we
+四月	sy nyuih
 四月	sy yuih
 四有
 四望	sy maon
@@ -10496,6 +10510,7 @@ min_phrase_weight: 100
 圩院	we yoe
 圪	keh
 圪塔	keh thah
+圪墶
 圬	u
 圭	kue
 圮	bi
@@ -12145,7 +12160,8 @@ min_phrase_weight: 100
 夾頭夾腦	kah deu kah nau
 夾餡	kah ghae
 奄	ie
-奅	mau
+踫	bae
+奅	phau
 奇	ji	100%
 奇	ci	0%
 奇偶	ci ngeu
@@ -21471,6 +21487,7 @@ min_phrase_weight: 100
 曬黑	so heh
 曰	yuih
 曱	khah
+髷	chioh
 曲	chioh
 曲卷	chioh cioe
 曲嘯
@@ -23149,12 +23166,10 @@ min_phrase_weight: 100
 梭曼
 梯	thi
 梯河
+械	ya
 械	ye
-械	yae
 冶	ye
 諧	ye
-冶	yae
-諧	yae
 械器
 梱	khuen
 梳	syu
@@ -25638,6 +25653,7 @@ min_phrase_weight: 100
 淳樸	zen phoh
 淳美	zen mhe
 淳風	zen fon
+刬	tshae
 淴	hoh
 淴浴
 淴浴間	hoh yoh kae
@@ -26348,6 +26364,7 @@ min_phrase_weight: 100
 澤地	zeh di
 澤被	zeh be
 澥	ga
+澥	gha
 澦	yu
 澧	li
 澮	kue
@@ -26466,6 +26483,7 @@ min_phrase_weight: 100
 瀟	siau
 瀠	yin
 瀣	ya
+瀣	gha
 瀦	tsyu
 瀧	lon
 瀨	la
@@ -27925,6 +27943,7 @@ min_phrase_weight: 100
 獪	wah
 獫	shie
 獬	ya
+獬	gha
 獮	sie
 獯	shiun
 獰	nyin
@@ -30145,7 +30164,7 @@ min_phrase_weight: 100
 石油	zaoh yeu
 石洞	zaoh don
 石灰	zaoh hue
-石炭	zaoh the
+石炭	zaoh thae
 石牆	zaoh zian
 石片	zaoh phie
 石牌	zaoh ba
@@ -31145,6 +31164,8 @@ min_phrase_weight: 100
 窯	yau
 窯姐	yau tsia
 窯竈
+𠹁	o
+𦫪	o
 窳	yu
 窵	tiau
 窶	jiu
@@ -31355,6 +31376,8 @@ min_phrase_weight: 100
 筆耕	pih ken
 筆調	pih diau
 筇	jion
+扥	ten
+㩐	ten
 等	ten
 等人	ten nyin
 等來
@@ -31414,6 +31437,7 @@ min_phrase_weight: 100
 筻	kan
 箅	pi
 箇	geh
+箇	keh
 箇	ku
 箇個	geh gheh
 箇墶	geh tah
@@ -34602,7 +34626,7 @@ min_phrase_weight: 100
 臺鉗
 臺鐘
 臺長	de tsan
-臺階	de cia
+臺階	de ka
 臺面
 臺頭
 臺駕	de ka
@@ -36158,6 +36182,7 @@ min_phrase_weight: 100
 虯須
 虱	seh
 虹	ghon
+𧊋	ghon
 虺	hue
 虻	maon
 虼	keh
@@ -38083,6 +38108,8 @@ min_phrase_weight: 100
 諤	ngoh
 諦	ti
 諦閑
+龤龢
+龢龤
 諧	gha
 諧	ya
 諧波	ya pu
@@ -42916,7 +42943,7 @@ min_phrase_weight: 100
 階	ka
 階下	cia gho
 階層	cia zen
-階梯	cia thi
+階梯	ka thi
 階段	cia doe
 階沿	ka yie
 階沿石	ka yie zaoh
@@ -44661,6 +44688,7 @@ min_phrase_weight: 100
 骷郎頭
 骷顱頭
 骸	ghe
+骸	gha
 骹	gau
 骺	gheu
 骼	kaoh
@@ -44697,8 +44725,9 @@ min_phrase_weight: 100
 體魄	thi phaoh
 髕	bin
 髖	khuoe
+髙	kau
 高	kau
-高下	kau gho
+高下
 高了	kau liau
 高二	kau nyi
 高些	kau si
@@ -44757,6 +44786,7 @@ min_phrase_weight: 100
 鬆	son
 鬆勁	son cin
 鬆懈	son shia
+𩭊	jioh
 鬈	jioe
 鬈頭髮
 鬍	wu
@@ -44964,7 +44994,9 @@ min_phrase_weight: 100
 鮪魚	we ng
 鮫	kau
 鮫綃
-鮭	kue
+鮭	kue	100%
+鮭	gha	0%
+鮭珍	gha tsen
 鮭魚	kue ng
 鮮	sie
 鮮味	sie vi
@@ -45886,45 +45918,46 @@ min_phrase_weight: 100
 圐圙	khu len
 胮	phaon
 嗰	geh
-嗰一搶	geh ih tshian
-嗰代
-嗰件
-嗰個	geh gheh
-嗰個是	geh gheh zy
-嗰先
-嗰句	geh ciu
-嗰墶
-嗰墶裏
-嗰套
-嗰幾天
-嗰手
-嗰搭
-嗰檔碼子
-嗰歇
-嗰歇歇
-嗰歇裏
-嗰歇辰光	geh shih zen kuaon
-嗰歇點
-嗰種
-嗰種事體
-嗰種人	geh tson nyin
-嗰種字
-嗰種視頻
-嗰種詞
-嗰種路名
-嗰種音
-嗰總
-嗰恁	geh nen
-嗰恁介	geh nen ka
-嗰恁個	geh nen gheh
-嗰記
-嗰趟
-嗰辰光	geh zen kuaon
-嗰隻
-嗰面
-嗰面墶
-嗰頭
-嗰點
+嗰	keh
+箇一搶	geh ih tshian
+箇代
+箇件
+箇個	geh gheh
+箇個是	geh gheh zy
+箇先
+箇句	geh ciu
+箇墶
+箇墶裏
+箇套
+箇幾天
+箇手
+箇搭
+箇檔碼子
+箇歇
+箇歇歇
+箇歇裏
+箇歇辰光	geh shih zen kuaon
+箇歇點
+箇種
+箇種事體
+箇種人	geh tson nyin
+箇種字
+箇種視頻
+箇種詞
+箇種路名
+箇種音
+箇總
+箇恁	geh nen
+箇恁介	geh nen ka
+箇恁個	geh nen gheh
+箇記
+箇趟
+箇辰光	geh zen kuaon
+箇隻
+箇面
+箇面墶
+箇頭
+箇點
 嘅	gheh
 丌	ji
 劄	tsah
@@ -47289,7 +47322,7 @@ min_phrase_weight: 100
 䫌	phi
 㩝	ghau
 㕐	sia
-㿯	kah
+㿯	tah
 㶒	then
 㷟	thoe
 䠷	thiau
@@ -47586,6 +47619,8 @@ Rime 中州韻輸入法	rime
 柮	zeh
 上向	laon shian
 頭上	deu laon
+圪𡑍
+𡑍	lau
 
 # more phrases from luna and terra
 
@@ -50642,6 +50677,7 @@ name: luna_pinyin_ziam_tuan
 區落
 矯治
 圖形卡
+髷髻
 髽髻
 阿布扎比市
 宿善
@@ -98042,7 +98078,7 @@ max_phrase_length: 7
 結固固
 離攲
 是㑚個
-嗰種能
+箇種能
 操心思
 懊叨
 哀搭塊
@@ -98193,7 +98229,7 @@ max_phrase_length: 7
 勞碌
 趒加官
 扛三姑娘
-嗰尖毛
+箇尖毛
 對身
 大歲數
 野田圩
@@ -99423,7 +99459,7 @@ max_phrase_length: 7
 傴沙背
 低頭
 零頭零腦
-嗰排
+箇排
 門後底
 黑烏燈菜
 開肚
@@ -100061,7 +100097,7 @@ max_phrase_length: 7
 高樓路大小姐
 做新婦
 蛋糕
-嗰個月
+箇個月
 拆蛋雞
 孛相人
 央里央腔
@@ -100162,7 +100198,7 @@ max_phrase_length: 7
 河浜壗
 壽翁
 一眼弗啥啥
-嗰樣
+箇樣
 清官
 棉花耳朵
 開襟
@@ -100542,7 +100578,7 @@ max_phrase_length: 7
 怪且
 法國帽
 鬼形怪狀
-犟頭嗰腦
+犟頭犟腦
 竹瀝
 女客
 閣樓
@@ -100857,7 +100893,7 @@ max_phrase_length: 7
 水撥頭
 鬆迫迫
 出檔
-嗰注
+箇注
 南首
 傷風
 心扒拉抓
@@ -100994,7 +101030,7 @@ max_phrase_length: 7
 彎板究
 硬掙
 蒼蠅使花棒
-嗰將
+箇將
 隔日底
 鳥窠
 梢梢頭
@@ -101430,7 +101466,7 @@ max_phrase_length: 7
 行情三四
 撇脫
 開心
-嗰搭塊
+箇搭塊
 二鍋頭
 辣頭管腳
 二三十
@@ -101518,7 +101554,7 @@ max_phrase_length: 7
 鬥牌
 禮拜兩
 包圓
-嗰醒醒
+箇醒醒
 搶孤孀
 先養先大
 懈門
@@ -101531,7 +101567,7 @@ max_phrase_length: 7
 行盤
 五花肉
 挺張
-嗰能樣子
+箇能樣子
 老鼠弗留隔宿食
 風色
 胡吆癡子
@@ -101685,7 +101721,7 @@ max_phrase_length: 7
 赤刮拉新
 蟓子
 大姆
-嗰蛸
+箇蛸
 心頭活
 發凚
 看山水做山水
@@ -102204,7 +102240,7 @@ max_phrase_length: 7
 打光
 釘鞋
 魚鶴
-嗰點點
+箇點點
 一字開
 黃鰱頭
 有限
@@ -102281,7 +102317,7 @@ max_phrase_length: 7
 長一碼大一碼
 吹隱
 米花糖
-血髪
+血髮
 烏黢黑
 唩吵
 江瑤柱
@@ -102312,13 +102348,13 @@ max_phrase_length: 7
 犟頭白腦
 草鞋底
 邊旁
-嗰面搭
+箇面搭
 樹丫枝
 冷篤篤
 定婚
 半日
 諸親百眷
-嗰眼眼
+箇眼眼
 黏搭搭
 碗頭
 對櫥對箱
@@ -102371,7 +102407,7 @@ max_phrase_length: 7
 毻毛
 煤屑路
 難杭
-鬈螺髪
+鬈螺髮
 猴極極
 大團結
 搭腔
@@ -102519,7 +102555,7 @@ max_phrase_length: 7
 紅沙芋艿
 白虱
 卸肩胛
-嗰滴滴
+箇滴滴
 毛撚
 竹桿
 慢請
@@ -102677,7 +102713,7 @@ max_phrase_length: 7
 天高皇帝遠
 老早曉得
 散步
-嗰伊
+箇伊
 𧼱弗着
 牆埢
 水菜肉
@@ -103087,7 +103123,7 @@ max_phrase_length: 7
 天亮
 長生果肉
 五斜六角
-嗰樁
+箇樁
 弗起眼
 飯湯
 小阿舅
@@ -103113,7 +103149,7 @@ max_phrase_length: 7
 捉冷眼
 壽母
 鐘卵子
-嗰個能
+箇個能
 位套
 春筍
 三考裏出身
@@ -103677,7 +103713,7 @@ max_phrase_length: 7
 白沙枇杷
 進九
 一帶時
-嗰厾
+箇厾
 瞎纏三官經
 特誠特地
 窮心窮惡
@@ -103916,7 +103952,7 @@ max_phrase_length: 7
 一停弗停
 花心
 睏哉
-嗰腳
+箇腳
 軋賬
 醜八怪
 獻寶
@@ -104198,7 +104234,7 @@ max_phrase_length: 7
 落雛
 挖打
 杜堂貨
-嗰旦
+箇旦
 小雪
 扎底引線
 庭心
@@ -104808,7 +104844,7 @@ max_phrase_length: 7
 先弗先
 開眼喫老鼠藥
 䟿早起
-嗰搭裏
+箇搭裏
 忙抖抖
 弗局
 終七
@@ -107333,7 +107369,7 @@ max_phrase_length: 7
 木拖
 抽車
 蒸飯
-壓髪
+壓髮
 小籠
 嘸鈿造隻普照寺
 阿有啥
@@ -107504,7 +107540,7 @@ max_phrase_length: 7
 賭脾氣
 牌杌凳
 閉牢眼睛
-嗰在
+箇在
 相攏送
 桶甑
 𧻲嘴𧻲面
@@ -107545,7 +107581,7 @@ max_phrase_length: 7
 阿嗚
 扎襪帶
 老伯娘
-嗰能
+箇能
 胭脂花粉
 老爺車
 小京班
@@ -107606,7 +107642,7 @@ max_phrase_length: 7
 尖嘴弄舌
 聆市面
 頭眩茫光
-壓髪帽
+壓髮帽
 鏟頭皮
 女小人
 鷂子脫仔尾
@@ -107740,7 +107776,7 @@ max_phrase_length: 7
 做個虎勢
 像煞有介事
 邊筍
-嗰眼
+箇眼
 踏藥渣
 柴草團
 傷司
@@ -108163,7 +108199,7 @@ max_phrase_length: 7
 魚窠
 發火跳
 寫捐
-嗰厾稍
+箇厾稍
 正立垃
 尷裏尷尬
 臭胡吆
@@ -109380,7 +109416,7 @@ max_phrase_length: 7
 粗細
 翻腸倒肚
 毛搭搭
-壓髪簪
+壓髮簪
 夾工
 抄釺
 腳手架
@@ -110120,7 +110156,7 @@ max_phrase_length: 7
 碎地
 初十頭
 屈打成招
-插髪簪
+插髮簪
 試藥郎中
 半統子
 花鈴子
@@ -110566,7 +110602,7 @@ max_phrase_length: 7
 出老棚
 攷場
 懸空八隻腳
-嗰嗆
+箇嗆
 下棺材
 洋馬桶
 泥刀
@@ -111153,7 +111189,7 @@ max_phrase_length: 7
 洞庭紅
 洋山芋
 舍姆娘
-嗰能介
+箇能介
 嘸裏去
 五香茶葉蛋
 水潭凼
@@ -111253,7 +111289,7 @@ max_phrase_length: 7
 差野心
 老芋頭
 刷馬桶
-嗰票
+箇票
 井欄圈
 牢鈿
 一隻螺螄
@@ -111784,7 +111820,7 @@ max_phrase_length: 7
 𣛗	loh
 媢	mi
 𡳸	lih
-詏	ao
+詏	au
 豥	ke
 卶	sy
 㥆	the
@@ -113724,7 +113760,7 @@ max_phrase_length: 7
 㾾	shie
 𩿟	chiu
 閐	sae
-䰉	bae
+䰉	boe
 𣅝	theh
 蟌	tshon
 訽	gheu
@@ -113943,7 +113979,7 @@ max_phrase_length: 7
 䨰	phoh
 𣞟	tshen
 筰	zoh
-扷	ao
+扷	au
 䅓	ciu
 捼	ne
 煇	hue
@@ -114508,6 +114544,7 @@ max_phrase_length: 7
 㺖	hae
 㚅	lon
 㩭	ziau
+㩭	zi
 謓	tshen
 嗹	lie
 疛	zeu
@@ -114764,7 +114801,7 @@ max_phrase_length: 7
 㪤	pih
 寏	wae
 𠌪	thau
-𠀊	zao
+𠀊	zau
 娨	ghae
 𥳇	foh
 𥶌	liu
@@ -114793,6 +114830,7 @@ max_phrase_length: 7
 𩢴	chih
 噡	tsae
 㿩	thaon
+㾎	ha
 𣋟	mo
 𢾊	zan
 麚	ka
@@ -115023,7 +115061,6 @@ max_phrase_length: 7
 垐	zy
 䁸	naon
 𧂏	liau
-㗿	hu
 褋	dih
 𦆀	tshae
 𠛮	tshie
@@ -115057,7 +115094,7 @@ max_phrase_length: 7
 䭁	tsy
 𥭘	chi
 㠺	miau
-盄	tiao
+盄	tiau
 狢	ghoh
 呡	min
 袔	wu
@@ -116383,7 +116420,7 @@ max_phrase_length: 7
 騯	baon
 塩	yie
 蛝	ghae
-訬	tsiao
+訬	tsiau
 栙	kaon
 𣥺	zan
 䰲	ah
@@ -117195,7 +117232,8 @@ max_phrase_length: 7
 𤚫	daon
 𧗴	yon
 鱕	fae
-𤅸	yae
+𤅸	ghae
+𤅸	yie
 誻	deh
 𡌪	kua
 𩋊	eh
@@ -118497,6 +118535,8 @@ max_phrase_length: 7
 䞂	nyoe
 䎂	pau
 馶	ji
+讅	sen
+讅訊
 譢	soe
 𤞞	koh
 𢾁	we
@@ -120357,7 +120397,7 @@ max_phrase_length: 7
 𤝰	tah
 櫀	ji
 䎘	soh
-㗿	heu
+㗿	heu	0%
 鼿	hue
 𩆂	tsy
 䎠	r
@@ -121090,7 +121130,7 @@ max_phrase_length: 7
 肑	tih
 璙	liau
 㦎	hah
-㑃	ao
+㑃	au
 儰	we
 偞	shih
 颰	fah
@@ -121283,7 +121323,7 @@ max_phrase_length: 7
 𥣫	mih
 㺪	phoh
 䡞	cioh
-淛	tsy
+淛	tseh
 𧉥	poh
 爣	thaon
 䒗	chih
@@ -121619,7 +121659,8 @@ max_phrase_length: 7
 䑗	daon
 䖳	zo
 攗	me
-㗿	ho
+㗿	ho	0%
+㗿	hoe	100%
 𦤙	ngah
 𢲸	lu
 𢿣	chih
@@ -121793,6 +121834,7 @@ max_phrase_length: 7
 㚜	yoh
 𥫃	nyi
 澾	thah
+澾	dah
 䬐	we
 侅	hae
 𧾩	zin
@@ -121844,7 +121886,7 @@ max_phrase_length: 7
 䙘	tsoh
 䵟	koe
 釂	tsiau
-𤵥	zao
+𤵥	zau
 㩤	fu
 鶔	zeu
 𣷾	kue
@@ -122245,7 +122287,7 @@ max_phrase_length: 7
 㰪	kue
 魼	thah
 㾫	phie
-䕹	dih
+䕹	zih
 欑	tsae
 蠰	saon
 𦩝	we
@@ -122854,7 +122896,7 @@ max_phrase_length: 7
 怗	thih
 䲰	yon
 沄	ven
-𠛪	thiao
+𠛪	thiau
 蔾	li
 懤	tau
 䨼	wu
@@ -123677,6 +123719,7 @@ max_phrase_length: 7
 鮩	ban
 褆	di
 囏	kae
+囏	cie
 䚩	ciau
 𨙷	tsin
 侕	r
@@ -123856,6 +123899,7 @@ max_phrase_length: 7
 灛	tshae
 頶	ghoh
 龤	gha
+龤	ya
 榙	gheh
 𧹲	hoh
 鈌	ciuih
@@ -123895,7 +123939,6 @@ max_phrase_length: 7
 梡	uae
 㞄	ae
 䋛	mi
-𣶐	phao
 緅	tsiu
 吤	ka
 㲍	tsy
@@ -124184,7 +124227,8 @@ max_phrase_length: 7
 𨍩	ban
 噧	thah
 霅	tseh
-䕹	zeh
+䕹	zah
+叝	kau
 莔	man
 𤸎	kheh
 橪	zae
@@ -124193,6 +124237,7 @@ max_phrase_length: 7
 鷔	ngau
 𧚋	bon
 𩐭	nyih
+𩐭	nyie
 呿	chiu
 㽲	shieu
 𦐛	jiu
@@ -125265,7 +125310,7 @@ max_phrase_length: 7
 𥂖	loh
 𥭗	bon
 𪆇	zeu
-𢴵	yae
+𢴵	yie
 𤴰	ngeh
 𤫀	zi
 𦓷	yon
