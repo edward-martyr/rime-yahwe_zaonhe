@@ -15,7 +15,7 @@
 
 ---
 name: yahwe_zaonhe
-version: "2019.09.11"
+version: "2019.09.27"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1919,7 +1919,7 @@ min_phrase_weight: 100
 乙某
 乙炔	ih chiuih
 乙類
-乜	ma
+乜	mia
 乜水
 乜野
 九	cieu
@@ -5468,9 +5468,9 @@ min_phrase_weight: 100
 兮	ghe	0%
 兮	yi	100%
 兮兮	shi shi
-共	gon
-共	kon
-共	ghon
+共	gon	100%
+共	kon	0%
+共	ghon	0%
 共主	gon tsyu
 共事	gon zy
 共享	gon shian
@@ -6803,6 +6803,7 @@ min_phrase_weight: 100
 勸解	chioe cia
 勸說	chioe seh
 勸降	chioe ghaon
+𣟵	shi
 勺	zoh
 勻	yun
 勻分	yun fen
@@ -8554,7 +8555,7 @@ min_phrase_weight: 100
 向那
 吒	tso
 吒	tsa
-吘	nk
+吘	ngh
 君	ciun
 君命
 君安
@@ -8951,7 +8952,7 @@ min_phrase_weight: 100
 咨	tsy
 咨文
 咨照
-咩	mhie
+咩	myhae
 咪	mhi	0%
 咪	mi	100%
 咪咪	mhi mhi
@@ -9277,7 +9278,8 @@ min_phrase_weight: 100
 唶	tsia
 唶	tsoh
 唷	yoh
-唸	nyie
+唸	nyie	100%
+唸	nyae	0%
 唸唸
 唻	le
 唼	sah
@@ -14494,6 +14496,8 @@ min_phrase_weight: 100
 屌	tiau
 屍	sy
 屍解	sy cia
+㞎	ba
+㞎㞎
 屎	sy
 屎尿	sy nyhau
 屛	bin
@@ -14721,6 +14725,7 @@ min_phrase_weight: 100
 崎	ji
 崑	khuen
 崔	tshoe
+𠊎	nga
 厓	nga
 厓山	nga sae
 崖	nga
@@ -20540,6 +20545,8 @@ min_phrase_weight: 100
 方言歌	faon yie ku
 方鋼
 方顯
+込	yu	100%
+込	zeh	0%
 於	iu	0%
 於	u	0%
 於	yu	100%
@@ -23167,9 +23174,9 @@ min_phrase_weight: 100
 梯	thi
 梯河
 械	ya
-械	ye
-冶	ye
-諧	ye
+械	yae
+冶	yae
+諧	yae
 械器
 梱	khuen
 梳	syu
@@ -24849,8 +24856,9 @@ min_phrase_weight: 100
 沒魂
 沓	dah	10%
 沓	thah	80%
-沓	deh	5%
-沓	tah	5%
+沓	deh	10%
+沓	tah	0%
+畓	thah
 沔	mie
 沖	tshon
 沖來
@@ -28577,8 +28585,10 @@ min_phrase_weight: 100
 甬	ion
 甬劇
 甬江	ion kaon
-甭	fion
-甭	pion
+嫑	fiau	0%
+嫑	piau	100%
+甭	fion	100%
+甭	pion	0%
 甮	vion
 田	die
 田塍
@@ -29523,6 +29533,7 @@ min_phrase_weight: 100
 盤裡
 盤費	boe fi
 盤鈿
+盤尼西林	phae nyi si lin
 盥	kuoe
 盦	eh
 盧	lu
@@ -31110,6 +31121,7 @@ min_phrase_weight: 100
 窄腮
 窅	iau
 窈	iau
+礩	tseh
 窒	tseh
 窒人	tseh nyin
 窒塞	tseh seh
@@ -31504,6 +31516,7 @@ min_phrase_weight: 100
 管轄	kuoe yah
 管顧
 箢	ioe
+篛	nyaoh
 箬	nyaoh
 箭	tsie
 箱	sian
@@ -32828,7 +32841,7 @@ min_phrase_weight: 100
 繳出	ciau tsheh
 繳回	ciau we
 繳庫	ciau khu
-繳械	ciau ye
+繳械	ciau yae
 繳槍	ciau tshian
 繳款	ciau khuoe
 繳清	ciau tshin
@@ -33231,6 +33244,7 @@ min_phrase_weight: 100
 翽	hue
 耀	yau
 老	lau
+老師	lhau sy
 老七老八
 老三老四
 老么
@@ -33515,6 +33529,7 @@ min_phrase_weight: 100
 耳背	r pe
 耳膜	r moh
 耳蝸	r ko
+耳蝸	r ku
 耳裡	r li
 耳語	r nyu
 耳識	r seh
@@ -34847,6 +34862,7 @@ min_phrase_weight: 100
 色釉
 色鬼	seh ciu
 艴	beh
+𡤸	yie
 艷	yie
 艷事
 艷冶	yie yie
@@ -36187,7 +36203,9 @@ min_phrase_weight: 100
 虻	maon
 虼	keh
 蚊	men
-蚋	zoe
+蚋	zoe	100%
+蚋	nyu
+蚋	nyih	0%
 蚌	ban
 蚌殼棉鞋
 蚌鷸
@@ -36357,6 +36375,7 @@ min_phrase_weight: 100
 蝴	wu
 蝶	dih
 蝸	ko
+蝸	ku
 蝸杆
 蝸輪
 蝻	noe
@@ -37125,8 +37144,10 @@ min_phrase_weight: 100
 要麼	iau meh
 覃	dae
 覃	yie
-覅	viau
-覅	fiau
+𡠍	viau
+𧟰	viau
+覅	viau	100%
+覅	fiau	0%
 覅多
 覅拿	viau nhe
 覅用
@@ -38474,6 +38495,8 @@ min_phrase_weight: 100
 讞	nyie
 谷	koh
 谷米
+𤲺	yi
+豀	chi
 谿	chi
 谿谷
 豁	huah
@@ -38485,6 +38508,7 @@ min_phrase_weight: 100
 豁豁
 豁邊
 豁鑊
+豋	ten
 豆	deu
 豆沙	deu so
 豆沙色	deu so seh
@@ -40633,6 +40657,7 @@ min_phrase_weight: 100
 遞解	di cia
 遞降	di kaon
 遞陞
+逺	yoe
 遠	yoe
 遠七遠八
 遠之
@@ -43174,6 +43199,9 @@ min_phrase_weight: 100
 雛	zyu
 雛鳥	zyu nyhau
 雛鵝
+𠺝	kah
+囃𠺝嚨咚	zah kah lon ton
+囃𠺝嚨咚	zeh kah lon ton
 雜	zah	100%
 雜	zeh	0%
 雜交	zah ciau
@@ -44505,8 +44533,8 @@ min_phrase_weight: 100
 馱	du
 馱負	du veu
 馳	zy
-馴	shiun
-馴化	shiun ho
+馴	zin
+馴化	zin ho
 馴獸
 駁	poh
 駐	tsyu
@@ -44689,7 +44717,8 @@ min_phrase_weight: 100
 骷顱頭
 骸	ghe
 骸	gha
-骹	gau
+骹	khau
+骹	hau
 骺	gheu
 骼	kaoh
 骾	kan
@@ -45979,7 +46008,8 @@ min_phrase_weight: 100
 录	loh
 艸	tshau
 廕	in
-哶	mhie
+哶	mi
+哶	myhae
 劒	cie
 劔	cie
 攽	pae
@@ -46011,6 +46041,7 @@ min_phrase_weight: 100
 艣	lu
 艪	lu
 贗	nyie
+賳	tse
 囋	tsae
 囋	tsa
 囋叭	tsa pa
@@ -46945,6 +46976,7 @@ min_phrase_weight: 100
 瓋	thih
 瓍	zoe
 璻	tsoe
+𤑔	nyih
 爇	nyih
 鞳	thah
 鞮	ti
@@ -47017,6 +47049,7 @@ min_phrase_weight: 100
 擣	tau
 蝽	tshoe
 攲	chi
+𡛢	nyie
 齴	nyie
 岹	diau
 岧	diau
@@ -47621,6 +47654,12 @@ Rime 中州韻輸入法	rime
 頭上	deu laon
 圪𡑍
 𡑍	lau
+躾	me
+辻	zeh
+榊	zen
+峠	kha
+働	don
+哋	di
 
 # more phrases from luna and terra
 
@@ -112487,7 +112526,7 @@ max_phrase_length: 7
 皀	shian
 焃	hah
 唅	hae
-韰	ye
+韰	yae
 踳	tshen
 菗	zeu
 鷣	yin
@@ -112589,7 +112628,7 @@ max_phrase_length: 7
 虨	phin
 盭	li
 㾄	doh
-泧	fah
+泧	huah
 籝	yin
 䀣	mah
 蔍	loh
@@ -112713,7 +112752,7 @@ max_phrase_length: 7
 㵺	pha
 䰉	pae
 畐	voh
-蹃	nyah
+蹃	nyaoh
 𠣑	au
 䖧	nah
 𢞦	vu
@@ -112934,7 +112973,7 @@ max_phrase_length: 7
 𠏢	lu
 蠜	vae
 𤫲	lin
-𣍦	faon
+𣍦	huaon
 狊	shioh
 睴	wen
 戄	shiuih
@@ -113796,6 +113835,9 @@ max_phrase_length: 7
 䣚	liu
 莌	deh
 囃	tsheh
+囃	tshah
+囃	zeh
+囃	zah
 鼸	yie
 䥍	tseh
 磄	daon
@@ -113845,7 +113887,7 @@ max_phrase_length: 7
 鉹	tshy
 𩖴	lieu
 秜	li
-衸	ye
+衸	yae
 䱻	wah
 砩	fi
 鈆	tson
@@ -115572,7 +115614,7 @@ max_phrase_length: 7
 𪃈	cih
 籭	sy
 䮙	yoh
-嘦	ciau
+嘦	tsiau
 輢	i
 㧲	sae
 𩋏	nyih
@@ -115748,7 +115790,7 @@ max_phrase_length: 7
 𢕮	tso
 䛥	shih
 驙	dae
-蜹	zoe
+蜹	zoe	100%
 𧎾	liah
 駣	zau
 𥁑	mih
@@ -115818,7 +115860,6 @@ max_phrase_length: 7
 棌	tshe
 𦗐	nga
 𦵱	sih
-桸	he
 䍻	zie
 𨆪	chin
 衈	r
@@ -116898,7 +116939,7 @@ max_phrase_length: 7
 㞁	yau
 睒	sae
 㵐	chiuih
-爌	faon
+爌	huaon
 𦐄	ghaon
 㹞	nyin
 櫄	tshen
@@ -117188,7 +117229,7 @@ max_phrase_length: 7
 㝌	yeu
 䠄	thie
 㤕	tsheh
-㳦	ye
+㳦	yae
 䀽	yie
 揬	deh
 愖	zen
@@ -117357,7 +117398,8 @@ max_phrase_length: 7
 痒	zian
 𦟘	yin
 䲚	la
-蜹	nyuih
+蜹	nyuih	0%
+蜹	nyih	1%
 䃸	sie
 䊆	jieu
 碽	kon
@@ -117471,7 +117513,7 @@ max_phrase_length: 7
 啑	sah
 埍	ghoe
 𤡮	zae
-𣁳	fah
+𣁳	huah
 𢏤	sen
 𧃔	zoh
 顜	kaon
@@ -118424,7 +118466,7 @@ max_phrase_length: 7
 㰚	li
 殕	feu
 氋	mon
-逽	nyah
+逽	nyaoh
 𧿻	cioh
 𩰴	r
 㭾	jiuih
@@ -119711,7 +119753,7 @@ max_phrase_length: 7
 跥	tu
 璅	tsau
 楅	pih
-况	faon
+况	huaon
 觷	ngoh
 㾺	mae
 竱	toe
@@ -120231,7 +120273,7 @@ max_phrase_length: 7
 譸	tseu
 慙	zae
 㶇	waon
-躗	fa
+躗	hua
 𤹨	lie
 𢶃	vae
 柌	zy
@@ -120352,7 +120394,7 @@ max_phrase_length: 7
 抏	nyoe
 䤅	du
 炁	chi
-㒠	ye
+㒠	yae
 霣	iun
 孴	yih
 𤙞	bi
@@ -120431,7 +120473,7 @@ max_phrase_length: 7
 䁴	tsae
 䲀	tsy
 𧈜	den
-䪥	ye
+䪥	yae
 慜	min
 嬩	yu
 𧟌	lu
@@ -121267,7 +121309,7 @@ max_phrase_length: 7
 胾	tsy
 𠟍	tshon
 𨟄	vae
-𤡧	ye
+𤡧	yae
 灉	ion
 矕	mae
 䅲	ji
@@ -122115,6 +122157,7 @@ max_phrase_length: 7
 蒵	yi
 䍫	du
 𧸘	lie
+𧸘	pie
 啇	tih
 瑠	lieu
 𧑒	then
@@ -122383,7 +122426,6 @@ max_phrase_length: 7
 幋	bae
 𩈣	hae
 奞	sen
-㤄	fah
 頯	kue
 衳	tson
 㱦	ci
@@ -123014,7 +123056,8 @@ max_phrase_length: 7
 䞠	tsah
 鋋	zae
 寋	jie
-蟁	ven
+螡	men
+蟁	men
 𧵣	yon
 膲	tsiau
 㽂	soh
@@ -123192,7 +123235,7 @@ max_phrase_length: 7
 䳦	sie
 顡	ngue
 䔞	lih
-𨵫	nyah
+𨵫	nyaoh
 鬌	du
 撛	lin
 𪇹	leh
@@ -124532,7 +124575,7 @@ max_phrase_length: 7
 𣤶	tseh
 𤮚	le
 𨝯	don
-䦏	ye
+䦏	yae
 㮁	yau
 䀴	nyin
 貗	jiu
@@ -124850,7 +124893,7 @@ max_phrase_length: 7
 𧦦	ze
 𤏰	phih
 𡴺	zih
-𠿎	fa
+𠿎	hua
 𣬈	bi
 𨛴	ghau
 𣊡	shi
@@ -124883,7 +124926,7 @@ max_phrase_length: 7
 𢐸	lu
 𢛈	tshe
 𦼯	zoe
-𧧢	faon
+𧧢	huaon
 𥿳	si
 𠂞	vu
 𢮟	ghah
@@ -125017,7 +125060,7 @@ max_phrase_length: 7
 𤰩	yu
 𡈋	chiun
 𩪋	ngau
-𠜻	fah
+𠜻	huah
 𤛿	li
 𤃱	me
 𧬮	ko
@@ -125085,7 +125128,7 @@ max_phrase_length: 7
 𥆊	tshe
 𠛐	tsy
 𦉥	on
-𤃴	fah
+𤃴	huah
 𦗂	nyoh
 𦃟	yi
 𦏵	yeh
@@ -125193,7 +125236,7 @@ max_phrase_length: 7
 𡘸	ci
 𪃹	tsih
 𣎜	zen
-㡆	faon
+㡆	huaon
 𨔝	don
 𧲛	tsi
 𢷏	boh
@@ -125368,7 +125411,7 @@ max_phrase_length: 7
 𠰒	za
 𤺘	o
 𦱙	nyeu
-𩣐	faon
+𩣐	huaon
 𨛸	vu
 𣔴	yeu
 𡭴	chih
@@ -125413,7 +125456,7 @@ max_phrase_length: 7
 𢃓	tson
 𨣆	yeu
 𢆃	ne
-𥡃	faon
+𥡃	huaon
 𩰝	phin
 𤩚	lih
 𥚁	vu
@@ -125480,7 +125523,7 @@ max_phrase_length: 7
 𠣵	boh
 𥓔	ue
 𣰊	naon
-𥿼	faon
+𥿼	huaon
 𦕀	tshi
 𢆃	nae
 𩎌	shi
@@ -125654,7 +125697,7 @@ max_phrase_length: 7
 𩒱	khuen
 𩃗	i
 𧝍	du
-𤯍	khe
+𤯍	khae
 𣠟	zen
 𡔢	cih
 𠨴	ka
@@ -125718,14 +125761,14 @@ max_phrase_length: 7
 𢂷	keh
 𨒰	yeu
 𢓴	the
-𧉄	mi
+𧉄	mie
 𢥎	tsi
 𪁙	ngu
 𧂕	mau
 𩵌	siau
 𢂿	khah
 𠃚	cieu
-𣏜	mi
+𣏜	mie
 𧚍	jieu
 𢁦	bi
 𧡎	nyi
