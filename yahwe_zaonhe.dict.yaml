@@ -475,7 +475,7 @@ min_phrase_weight: 100
 上海閑話	zaon he ghae gho
 上海音
 上湧
-上為
+上爲
 上環
 上當學乖	zaon taon ghoh kua
 上發
@@ -637,7 +637,7 @@ min_phrase_weight: 100
 下游	gho yeu
 下滑	gho wah
 下炕	gho khaon
-下為	gho we
+下爲	gho we
 下營	gho yin
 下獄	gho nyoh
 下班	gho pae
@@ -1202,8 +1202,8 @@ min_phrase_weight: 100
 不潔	peh cih
 弗濟	veh tsi
 不濟	peh tsi
-弗為	veh we
-不為	peh we
+弗爲	veh we
+不爲	peh we
 弗無	veh vu
 不無	peh vu
 弗然	veh zoe
@@ -1585,7 +1585,7 @@ min_phrase_weight: 100
 並曾	bin zen
 並會	bin we
 並未	bin vi
-並為
+並爲
 並無	bin vu
 並獲
 並着	bin zaoh
@@ -2023,7 +2023,7 @@ min_phrase_weight: 100
 也比	gha pi
 也沒	gha meh
 也沒人做	gha meh nyin tsu
-也為	gha we
+也爲	gha we
 也無	gha vu
 也無知	ya vu tsy
 也用	gha yon
@@ -2292,7 +2292,7 @@ min_phrase_weight: 100
 二流	nyi lieu
 二滴	nyi tih
 二炮	nyi phau
-二為	nyi we
+二爲	nyi we
 二爺	nyi ya
 二版	nyi pae
 二獎	nyi tsian
@@ -2383,7 +2383,7 @@ min_phrase_weight: 100
 互教	wu kau
 互敬
 互濟
-互為
+互爲
 互生	wu sen
 互祝	wu tsoh
 互見	wu cie
@@ -2917,7 +2917,7 @@ min_phrase_weight: 100
 人海	nyin he
 人渣	nyin tso
 人潮	nyin zau
-人為	nyin we
+人爲	nyin we
 人煙	nyin ie
 人物	nyin veh
 人犯	nyin vae
@@ -3054,7 +3054,7 @@ min_phrase_weight: 100
 仍會	nyin we
 仍有	nyin yeu
 仍未	nyin vi
-仍為	nyin we
+仍爲	nyin we
 仍無	nyin vu
 仍然	nyin zoe
 仍用	nyin yon
@@ -3263,7 +3263,7 @@ min_phrase_weight: 100
 仡	nyih
 仡	keh
 代	de
-代為
+代爲
 代用字
 代租
 代耕	de ken
@@ -3303,8 +3303,8 @@ min_phrase_weight: 100
 以最
 以期	i ji
 以極
-以為
-以為然
+以爲
+以爲然
 以與
 以解	i cia
 以說	i seh
@@ -3369,7 +3369,7 @@ min_phrase_weight: 100
 任教	zen ciau
 任期	zen ji
 任氣	zen chi
-任為	zen we
+任爲	zen we
 任用	zen yon
 任由	zen yeu
 任縣	zen yoe
@@ -3532,7 +3532,7 @@ min_phrase_weight: 100
 似	zy
 似乎	zy wu
 似曾	zy zen
-似為
+似爲
 似畫
 似能	zy nen
 似鋼
@@ -3543,6 +3543,7 @@ min_phrase_weight: 100
 伽藍	ga lae
 伽馬	ga ma
 伽利略	ga li liaoh
+伽利畧	ga li liaoh
 伽人	jia nyin
 伾	phi
 佃	die
@@ -3657,7 +3658,7 @@ min_phrase_weight: 100
 佔分	tsoe fen
 佔去	tsoe chi
 佔比	tsoe pi
-佔為
+佔爲
 佔理
 佔該
 何	wu
@@ -3676,7 +3677,7 @@ min_phrase_weight: 100
 何曾	wu zen
 何況	wu khuaon
 何況	wu huaon
-何為
+何爲
 何物	wu veh
 何能	wu nen
 何至
@@ -3754,7 +3755,7 @@ min_phrase_weight: 100
 作氣
 作泛
 作派
-作為
+作爲
 作物	tsoh veh
 作癢
 作精作怪
@@ -3843,7 +3844,7 @@ min_phrase_weight: 100
 𡢿死	non sy
 儂死	non sy
 渠死	yi sy
-你為
+你爲
 你無	nhi vu
 𡢿無	non vu
 儂無	non vu
@@ -3933,7 +3934,7 @@ min_phrase_weight: 100
 併勒
 併合	pin gheh
 併畀
-併為
+併爲
 併立
 佶	jih
 佻	thiau
@@ -4004,7 +4005,7 @@ min_phrase_weight: 100
 來比	le pi
 來氣
 來滬
-來為
+來爲
 來牌
 來生	le sen
 來用
@@ -4028,7 +4029,7 @@ min_phrase_weight: 100
 例句	li ciu
 例會	li we
 例湯	li thaon
-例舉
+例擧
 例行	li yin
 例言	li yie
 侍	zy
@@ -4088,7 +4089,7 @@ min_phrase_weight: 100
 係	shi	0%
 係呱	yi kuaoh
 係咩
-係為
+係爲
 促	tshoh
 促掐	tshoh khah
 促掐鬼	tshoh khah ciu
@@ -4396,6 +4397,7 @@ min_phrase_weight: 100
 倡議	tshaon nyi
 倥	khon
 倥侗	khon don
+劵	jioe
 倦	jioe
 倦乏
 倦憊
@@ -4723,7 +4725,7 @@ min_phrase_weight: 100
 傳教	zoe ciau
 傳染	zoe nyie
 傳標
-傳為
+傳爲
 傳看
 傳紀
 傳聞	zoe ven
@@ -4779,7 +4781,7 @@ min_phrase_weight: 100
 僅得
 僅想
 僅指
-僅為
+僅爲
 僅獲
 僅管
 僅能	jin nen
@@ -5321,6 +5323,7 @@ min_phrase_weight: 100
 全能	zie nen
 全責	zie tseh
 全長	zie zan
+両	lian
 兩	lian
 兩下	lian gho
 兩人	lian nyin
@@ -5492,7 +5495,7 @@ min_phrase_weight: 100
 共有	gon yeu
 共業	gon nyih
 共渡	gon du
-共為	gon we
+共爲	gon we
 共犯	gon vae
 共生	gon sen
 共產	gon tshae
@@ -5992,7 +5995,7 @@ min_phrase_weight: 100
 分清	fen tshin
 分潤	fen zen
 分竈	fen tsau
-分為	fen we
+分爲	fen we
 分片	fen phie
 分班	fen pae
 分理	fen li
@@ -6071,6 +6074,7 @@ min_phrase_weight: 100
 切藥
 切麵
 刈	nyi
+刋	tshie
 刊	khae
 刊名
 刊大	khae da
@@ -6099,7 +6103,7 @@ min_phrase_weight: 100
 列好
 列強	lih jian
 列日	lih nyih
-列為
+列爲
 列確
 列維
 列車	lih tsho
@@ -6133,7 +6137,7 @@ min_phrase_weight: 100
 初顯
 判	phoe
 判斷	phoe doe
-判為
+判爲
 判罪	phoe zoe
 判讀	phoe doh
 別	bih
@@ -6159,7 +6163,7 @@ min_phrase_weight: 100
 別忘	bih vaon
 別慌
 別提	bih di
-別為
+別爲
 別無	bih vu
 別相
 別致
@@ -6233,7 +6237,7 @@ min_phrase_weight: 100
 制售
 制是
 制法
-制為
+制爲
 制發
 制程
 制粉
@@ -6288,7 +6292,7 @@ min_phrase_weight: 100
 則明
 則曰
 則會	tseh we
-則為
+則爲
 則無	tseh vu
 則稱
 則能	tseh nen
@@ -6301,6 +6305,7 @@ min_phrase_weight: 100
 削好
 削得
 削骨臉
+尅	kheh
 剋	kheh
 剋日	kheh nyih
 剋期	kheh ji
@@ -6341,7 +6346,7 @@ min_phrase_weight: 100
 前景	zie cin
 前期	zie ji
 前浪
-前為
+前爲
 前生	zie sen
 前生前世	zie sen zie sy
 前繞
@@ -6479,7 +6484,7 @@ min_phrase_weight: 100
 劃拉	wah lha
 劃拳
 劃水
-劃為
+劃爲
 劃破	wah phu
 劃粉
 劃落
@@ -6713,10 +6718,10 @@ min_phrase_weight: 100
 勇攀
 勇於	ion yu
 勇毅
-勇為
+勇爲
 勇鬥
 勉	mhie
-勉強	mhie chian
+勉強	mhie jian
 勍	jin
 勐	man
 勒	leh
@@ -7019,7 +7024,7 @@ min_phrase_weight: 100
 化成	ho zen
 化是	ho zy
 化有	ho yeu
-化為	ho we
+化爲	ho we
 化現	ho yie
 化生	ho san
 化生	ho sen
@@ -7535,7 +7540,7 @@ min_phrase_weight: 100
 即日	tsih nyih
 即景	tsih cin
 即會	tsih we
-即為
+即爲
 即能	tsih nen
 即與
 即行	tsih yin
@@ -7625,7 +7630,7 @@ min_phrase_weight: 100
 原想
 原指
 原於	nyoe yu
-原為
+原爲
 原無	nyoe vu
 原物	nyoe veh
 原生	nyoe sen
@@ -7836,7 +7841,7 @@ min_phrase_weight: 100
 又未	yeu vi
 又比	yeu pi
 又沒	yeu meh
-又為	yeu we
+又爲	yeu we
 又無	yeu vu
 又熱	yeu nyih
 又燃	yeu zoe
@@ -8188,7 +8193,7 @@ min_phrase_weight: 100
 可樂	khu loh
 可比	khu pi
 可濕
-可為
+可爲
 可產
 可發
 可稱
@@ -8329,7 +8334,7 @@ min_phrase_weight: 100
 各條	koh diau
 各業
 各款
-各為
+各爲
 各省	koh san
 各站
 各章
@@ -8377,7 +8382,7 @@ min_phrase_weight: 100
 合水	gheh syu
 合法	gheh fah
 合流	gheh lieu
-合為	gheh we
+合爲	gheh we
 合照	gheh tsau
 合營	gheh yin
 合理	gheh li
@@ -8468,7 +8473,7 @@ min_phrase_weight: 100
 同樂	don loh
 同此
 同比	don pi
-同為
+同爲
 同犯
 同生	don sen
 同相
@@ -8508,7 +8513,7 @@ min_phrase_weight: 100
 名校	min yau
 名正
 名氏	min zy
-名為
+名爲
 名男
 名站
 名簿	min bu
@@ -9751,7 +9756,7 @@ min_phrase_weight: 100
 喹	khue
 喻	yu
 喻意
-喻為
+喻爲
 喻的
 喻示
 喻義
@@ -10222,7 +10227,7 @@ min_phrase_weight: 100
 因患
 因我
 因日	in zeh
-因為
+因爲
 因私
 因被	in be
 因論
@@ -10556,7 +10561,7 @@ min_phrase_weight: 100
 地浪向
 地滾
 地灘
-地為
+地爲
 地爆	di bau
 地物	di veh
 地瓜	di ko
@@ -10595,7 +10600,7 @@ min_phrase_weight: 100
 均會	ciun we
 均未	ciun vi
 均比	ciun pi
-均為
+均爲
 均無	ciun vu
 均獲
 均能	ciun nen
@@ -10831,7 +10836,7 @@ min_phrase_weight: 100
 堤防	di vaon
 堨	eh
 堪	khoe
-堪為
+堪爲
 堯	nyau	100%
 堯	yau	0%
 堰	ie
@@ -11190,7 +11195,7 @@ min_phrase_weight: 100
 壯碩	tsaon zaoh
 壯美	tsaon mhe
 壯膽	tsaon tae
-壯舉	tsaon ciu
+壯擧	tsaon ciu
 壯苗	tsaon miau
 壯行	tsaon yin
 壯觀	tsaon kuoe
@@ -11364,7 +11369,7 @@ min_phrase_weight: 100
 多會	tu we
 多月	tu yuih
 多活
-多為
+多爲
 多生	tu sen
 多番	tu fae
 多練
@@ -11774,7 +11779,7 @@ min_phrase_weight: 100
 大災	du tse
 大炮	da phau
 大炮	du phau
-大為	da we
+大爲	da we
 大煙	da ie
 大煠蟹	du zah ha
 大燈	da ten
@@ -11787,6 +11792,7 @@ min_phrase_weight: 100
 大田	da die
 大甲	da kah
 大略	da liaoh
+大畧	da liaoh
 大疏	da syu
 大病	du bin
 大白	da baoh
@@ -11855,7 +11861,7 @@ min_phrase_weight: 100
 大舅	du jieu
 大舅子	du jieu tsy
 大興	da shin
-大舉	da ciu
+大擧	da ciu
 大舌頭	du zeh deu
 大英	da in
 大菜	da tshe
@@ -12186,7 +12192,7 @@ min_phrase_weight: 100
 奈	ne
 奉	von
 奉敬
-奉為
+奉爲
 奉行	von yin
 奉還	von wae
 奎	khue
@@ -12447,7 +12453,7 @@ min_phrase_weight: 100
 她本
 她正
 她沒
-她為
+她爲
 她發
 她等
 她給
@@ -12605,7 +12611,7 @@ min_phrase_weight: 100
 如毯
 如法
 如注
-如為
+如爲
 如獲
 如用
 如神
@@ -12643,7 +12649,7 @@ min_phrase_weight: 100
 妄念	vaon nyie
 妄想	vaon sian
 妄求	vaon jieu
-妄為	vaon we
+妄爲	vaon we
 妄稱	vaon tshen
 妄自	vaon zy
 妄言	vaon yie
@@ -12698,7 +12704,7 @@ min_phrase_weight: 100
 妥	thu
 妥加	thu ka
 妥否	thu feu
-妥為
+妥爲
 妥靠
 妨	faon
 妨害	faon ghe
@@ -13078,7 +13084,7 @@ min_phrase_weight: 100
 存據
 存數
 存查	zen zo
-存為
+存爲
 存着	zen zaoh
 存積
 孚	fu
@@ -13288,7 +13294,7 @@ min_phrase_weight: 100
 它會	tha we
 它有
 它比	tha pi
-它為
+它爲
 它用
 它留
 它真
@@ -13423,7 +13429,7 @@ min_phrase_weight: 100
 定有
 定期	din ji
 定業
-定為
+定爲
 定相
 定省	din san
 定眼
@@ -13755,7 +13761,7 @@ min_phrase_weight: 100
 實招
 實景	zeh cin
 實歸
-實為
+實爲
 實無	zeh vu
 實然
 實物	zeh veh
@@ -13870,7 +13876,7 @@ min_phrase_weight: 100
 封掉
 封條	fon diau
 封死	fon sy
-封為
+封爲
 封片
 封疆	fon cian
 封神
@@ -13958,11 +13964,12 @@ min_phrase_weight: 100
 將此	tsian tshy
 將死	tsian sy
 將比	tsian pi
-將為	tsian we
+將爲	tsian we
 將無	tsian vu
 將獲	tsian ghoh
 將由	tsian yeu
 將略	tsian liaoh
+將畧	tsian liaoh
 將相	tsian sian
 將臨	tsian lin
 將至	tsian tsy
@@ -13995,7 +14002,7 @@ min_phrase_weight: 100
 專斷	tsoe doe
 專橫	tsoe wan
 專櫃	tsoe gue
-專為
+專爲
 專責	tsoe tseh
 專車	tsoe tsho
 專頁
@@ -14004,7 +14011,7 @@ min_phrase_weight: 100
 尉官	ue kuoe
 尉遲	yuih zy
 尊	tsen
-尊為
+尊爲
 尊貴	tsen kue
 尊長	tsen tsan
 尊駕	tsen ka
@@ -14307,7 +14314,7 @@ min_phrase_weight: 100
 尤其	yeu ji
 尤如
 尤妙
-尤為
+尤爲
 尤物	yeu veh
 尥	lhiau
 尬	ka
@@ -14836,6 +14843,7 @@ min_phrase_weight: 100
 州	tseu
 州裡
 州長	tseu tsan
+廵	zin
 巡	zin
 巡更	zin kan
 巡查	zin zo
@@ -14992,7 +15000,7 @@ min_phrase_weight: 100
 已晚	i uae
 已比	i pi
 已漸
-已為
+已爲
 已現
 已用
 已給
@@ -15081,6 +15089,7 @@ min_phrase_weight: 100
 帔	phi
 帕	phaoh
 帖	thih
+袟	zeh
 帙	zeh
 帚	tseu
 帛	baoh
@@ -15531,7 +15540,7 @@ min_phrase_weight: 100
 廣收
 廣東人	kuaon ton nyin
 廣源
-廣為
+廣爲
 廣納
 廣辟
 廨	ka
@@ -15612,7 +15621,7 @@ min_phrase_weight: 100
 引去	yin chi
 引吭	yin khaon
 引拉	yin lha
-引為
+引爲
 引爆	yin bau
 引物	yin veh
 引着	yin zaoh
@@ -16097,7 +16106,7 @@ min_phrase_weight: 100
 後期	gheu ji
 後極
 後樑
-後為
+後爲
 後生	gheu san
 後生家	gheu san ka
 後的
@@ -16194,6 +16203,7 @@ min_phrase_weight: 100
 從父	zon vu
 從犯	zon vae
 從略	zon liaoh
+從畧	zon liaoh
 從盤	zon boe
 從簡	zon cie
 從緊	zon cin
@@ -16993,7 +17003,7 @@ min_phrase_weight: 100
 想是
 想望	sian maon
 想死	sian sy
-想為
+想爲
 想玩	sian woe
 想眼
 想着喫	sian zaoh chih
@@ -17054,7 +17064,7 @@ min_phrase_weight: 100
 意會	i we
 意根
 意業
-意為
+意爲
 意甲	i kah
 意緒
 意見	i cie
@@ -17169,7 +17179,7 @@ min_phrase_weight: 100
 愦	kue
 愧	gue
 愧憾
-愧為
+愧爲
 愫	su
 愴	tshaon
 愷	khe
@@ -17356,7 +17366,7 @@ min_phrase_weight: 100
 應景	in cin
 應會	in we
 應歸
-應為
+應爲
 應着	in zaoh
 應知
 應節
@@ -17485,7 +17495,7 @@ min_phrase_weight: 100
 成式
 成日	zen nyih
 成是
-成為
+成爲
 成癖
 成竹
 成約	zen iaoh
@@ -17541,11 +17551,11 @@ min_phrase_weight: 100
 我給
 我能	ngu nen
 我自
-我舉
+我擧
 我若
 我被	ngu be
 我見	ngu cie
-我認為
+我認爲
 我說	ngu seh
 我講	ngu kaon
 我讓
@@ -17589,7 +17599,7 @@ min_phrase_weight: 100
 或庫
 或把
 或按
-或為
+或爲
 或由
 或發
 或經
@@ -17720,7 +17730,7 @@ min_phrase_weight: 100
 所欠
 所歸
 所殺
-所為
+所爲
 所無	su vu
 所畫
 所立
@@ -17728,7 +17738,7 @@ min_phrase_weight: 100
 所缺
 所聞	su ven
 所能	su nen
-所舉
+所擧
 所花
 所藏
 所見	su cie
@@ -18145,7 +18155,7 @@ min_phrase_weight: 100
 抬老三
 抬腳
 抬腿
-抬舉
+抬擧
 抬走
 抬起
 抬轎
@@ -18468,7 +18478,7 @@ min_phrase_weight: 100
 拜佛	pa veh
 拜將	pa tsian
 拜會	pa we
-拜為
+拜爲
 拜爵
 拜祖
 拜祭	pa tsi
@@ -18579,7 +18589,7 @@ min_phrase_weight: 100
 指日	tsy nyih
 指有
 指望	tsy maon
-指為
+指爲
 指物	tsy veh
 指甲	tsy ciah
 指甲	tsy khah
@@ -18969,7 +18979,7 @@ min_phrase_weight: 100
 推普
 推普周
 推普機
-推為
+推爲
 推行	the yin
 推說	the seh
 推販
@@ -19522,6 +19532,7 @@ min_phrase_weight: 100
 摸魚	moh ng
 摸魚公	moh ng kon
 摹	mu
+㪿	tseh
 摺	la
 摺	tseh
 摺傘	tseh sae
@@ -19896,9 +19907,9 @@ min_phrase_weight: 100
 攤場	thae zan
 攤平
 攤底牌
-攤為
-攤為弗起
-攤為勿起
+攤爲
+攤爲弗起
+攤爲勿起
 攤王牌
 攤薄	thae boh
 攤還	thae wae
@@ -19977,7 +19988,7 @@ min_phrase_weight: 100
 改日會	ke nyih we
 改易	ke yih
 改期	ke ji
-改為
+改爲
 改碼
 改脫
 改脫點
@@ -20152,7 +20163,7 @@ min_phrase_weight: 100
 敢搏
 敢於	koe yu
 敢是
-敢為
+敢爲
 敢煩
 敢言	koe yie
 敢說	koe seh
@@ -20276,7 +20287,7 @@ min_phrase_weight: 100
 數最
 數月	su yuih
 數本
-數為
+數爲
 數章
 數筆
 數節
@@ -20578,7 +20589,7 @@ min_phrase_weight: 100
 施教	sy ciau
 施樂	sy loh
 施治
-施為
+施爲
 施肥	sy vi
 施行	sy yin
 施術	sy zeh
@@ -21093,7 +21104,7 @@ min_phrase_weight: 100
 是沒
 是沒辦法
 是活
-是為
+是爲
 是男
 是當
 是白
@@ -21435,7 +21446,7 @@ min_phrase_weight: 100
 暴曬	bau sa
 暴炒
 暴熱
-暴舉
+暴擧
 暴行	bau yin
 暴起
 暴虎馮河	bau hu bin wu
@@ -21561,7 +21572,7 @@ min_phrase_weight: 100
 更正	ken tsen
 更深	ken sen
 更添	ken thie
-更為	ken we
+更爲	ken we
 更煩	ken vae
 更熱	ken nyih
 更爽	ken saon
@@ -21657,7 +21668,7 @@ min_phrase_weight: 100
 曾於	zen yu
 曾是	zen zy
 曾有	zen yeu
-曾為	zen we
+曾爲	zen we
 曾獲	zen ghoh
 曾用	zen yon
 曾祖	tsen tsu
@@ -21696,7 +21707,7 @@ min_phrase_weight: 100
 最強	tsoe jian
 最晚	tsoe uae
 最淺	tsoe tshie
-最為
+最爲
 最無	tsoe vu
 最矮
 最碰
@@ -22064,7 +22075,7 @@ min_phrase_weight: 100
 有清
 有清頭
 有漏
-有為
+有爲
 有無	yeu vu
 有熬頭
 有生	yeu sen
@@ -22139,6 +22150,7 @@ min_phrase_weight: 100
 有鬼	yeu kue
 有鬼	yeu ciu
 有點字
+䏓	kuoe
 朊	nyoe
 朋	ban
 朋友道理
@@ -22151,8 +22163,7 @@ min_phrase_weight: 100
 服毒	voh doh
 服罪	voh zoe
 服食	voh zeh
-朐	jiu	0%
-朐	geu	100%
+朐	tshen
 朔	soh
 朔日	soh nyih
 朔月	soh yuih
@@ -22164,8 +22175,8 @@ min_phrase_weight: 100
 朗照
 朗科
 朗讀	laon doh
-朘	tsoe
-朘	tsie
+朘	tsoe	0%
+朘	tsie	100%
 望	maon	100%
 望	waon	0%
 望人	maon nyin
@@ -22278,6 +22289,7 @@ min_phrase_weight: 100
 期間	ji cie
 期限	ji ghae
 朦	mon
+𦢫	lon
 朧	lon
 木	moh
 木人頭戲	moh nyin deu shi
@@ -22904,8 +22916,10 @@ min_phrase_weight: 100
 栓塞	soe seh
 栗	lih
 栗子頸	lih tsy cin
-栝	kueh
-栝	thie
+桰	kuah
+桰	kue
+栝	kuah	0%
+栝	thie	100%
 栟	pen
 栟	pin
 校	kau	0%
@@ -23347,7 +23361,7 @@ min_phrase_weight: 100
 業報
 業大	nyih da
 業有
-業舉
+業擧
 楮	tshyu
 楯	den
 楯	zen
@@ -23380,7 +23394,7 @@ min_phrase_weight: 100
 極樂	jih loh
 極殼皮
 極深
-極為
+極爲
 極熱
 極爽
 極瘦
@@ -23845,7 +23859,7 @@ min_phrase_weight: 100
 權實
 權是
 權欲
-權為
+權爲
 權相
 權網
 權能	jioe nen
@@ -24444,7 +24458,7 @@ min_phrase_weight: 100
 比方	pi faon
 比武	pi vu
 比法	pi fah
-比為	pi we
+比爲	pi we
 比照	pi tsau
 比熱	pi nyih
 比爾	pi r
@@ -24522,7 +24536,7 @@ min_phrase_weight: 100
 民家	min ka
 民屯	min den
 民強	min jian
-民為
+民爲
 民生	min sen
 民生路	min sen lu
 民眾
@@ -25602,7 +25616,7 @@ min_phrase_weight: 100
 淩宕
 淪	len
 淪亡	len vaon
-淪為
+淪爲
 淪陷	len ghae
 淫	yin
 淫佚	yin yih
@@ -25647,7 +25661,7 @@ min_phrase_weight: 100
 深淺	sen tshie
 深潭	sen dae
 深澗	sen kae
-深為
+深爲
 深省	sen san
 深紅	sen ghon
 深耕	sen ken
@@ -25675,7 +25689,7 @@ min_phrase_weight: 100
 混拼
 混排
 混沌	wen den
-混為
+混爲
 混碗
 混糊
 混進去	wen tsin chiu
@@ -26327,6 +26341,7 @@ min_phrase_weight: 100
 潵	sa
 潵	sae
 潷	pih
+澘	sae
 潸	sae
 潺	zae
 潼	don
@@ -26687,150 +26702,150 @@ min_phrase_weight: 100
 炸群
 炸鍋
 炸響
-為	we
 爲	we
-為三
-為中
-為主
-為之
-為亂
-為了
-為二	we nyi
-為二	we r
-為人	we nyin
-為什麼	we seh moh
-為今
-為仔	we tsy
-為他
-為伍	we wu
-為伴
-為低
-為何
-為你
-為佳	we cia
-為使
-為來為去	we le we chi
-為例
-為偶
-為傲
-為兄
-為先
-為免
-為公
-為其	we ji
-為准
-為利
-為副	we fu
-為力
-為名
-為向
-為君
-為啥
-為啥體
-為善
-為國
-為圖
-為外
-為大	we da
-為夫	we fu
-為奇
-為女	we nyu
-為她
-為好
-為妻
-為子
-為學	we ghoh
-為它
-為官
-為宜
-為害	we ghe
-為家	we cia
-為實
-為對
-為己
-為師
-為幸
-為序
-為度
-為後
-為念	we nyie
-為患
-為您
-為情
-為惡	we oh
-為愛
-為憑
-為憾
-為我
-為戒	we ka
-為所
-為把
-為搶	we tshian
-為政
-為敵
-為數
-為文
-為是
-為時
-為最
-為有
-為期	we ji
-為本
-為校	we yau
-為業
-為榮
-為樂	we loh
-為權
-為次
-為止
-為正
-為此
-為母
-為民
-為水
-為求
-為準
-為滿
-為父
-為王
-為甚
-為生	we sen
-為用
-為由
-為界
-為的
-為盼
-為着	we zaoh
-為禍
-為私
-為綱
-為美
-為能	we nen
-為臨
-為自
-為自家	we zy ka
-為要
-為誰
-為證
-為讓
-為輔	we vu
-為這
-為那
-為鄰
-為重
-為金
-為鑑	we cie
-為鑒	we cie
-為長	we zan
-為開
-為間	we cie
-為限
-為難
-為零
-為非
-為題
-為首
-為高
+爲	we
+爲三
+爲中
+爲主
+爲之
+爲亂
+爲了
+爲二	we nyi
+爲二	we r
+爲人	we nyin
+爲什麼	we seh moh
+爲今
+爲仔	we tsy
+爲他
+爲伍	we wu
+爲伴
+爲低
+爲何
+爲你
+爲佳	we cia
+爲使
+爲來爲去	we le we chi
+爲例
+爲偶
+爲傲
+爲兄
+爲先
+爲免
+爲公
+爲其	we ji
+爲准
+爲利
+爲副	we fu
+爲力
+爲名
+爲向
+爲君
+爲啥
+爲啥體
+爲善
+爲國
+爲圖
+爲外
+爲大	we da
+爲夫	we fu
+爲奇
+爲女	we nyu
+爲她
+爲好
+爲妻
+爲子
+爲學	we ghoh
+爲它
+爲官
+爲宜
+爲害	we ghe
+爲家	we cia
+爲實
+爲對
+爲己
+爲師
+爲幸
+爲序
+爲度
+爲後
+爲念	we nyie
+爲患
+爲您
+爲情
+爲惡	we oh
+爲愛
+爲憑
+爲憾
+爲我
+爲戒	we ka
+爲所
+爲把
+爲搶	we tshian
+爲政
+爲敵
+爲數
+爲文
+爲是
+爲時
+爲最
+爲有
+爲期	we ji
+爲本
+爲校	we yau
+爲業
+爲榮
+爲樂	we loh
+爲權
+爲次
+爲止
+爲正
+爲此
+爲母
+爲民
+爲水
+爲求
+爲準
+爲滿
+爲父
+爲王
+爲甚
+爲生	we sen
+爲用
+爲由
+爲界
+爲的
+爲盼
+爲着	we zaoh
+爲禍
+爲私
+爲綱
+爲美
+爲能	we nen
+爲臨
+爲自
+爲自家	we zy ka
+爲要
+爲誰
+爲證
+爲讓
+爲輔	we vu
+爲這
+爲那
+爲鄰
+爲重
+爲金
+爲鑑	we cie
+爲鑒	we cie
+爲長	we zan
+爲開
+爲間	we cie
+爲限
+爲難
+爲零
+爲非
+爲題
+爲首
+爲高
 炻	zaoh
 烀	hu
 烈	lih
@@ -27029,7 +27044,7 @@ min_phrase_weight: 100
 無涉	vu zeh
 無涯	vu nga
 無漏	vu leu
-無為	vu we
+無爲	vu we
 無煙	vu ie
 無照	vu tsau
 無父	vu vu
@@ -27743,7 +27758,7 @@ min_phrase_weight: 100
 特慘	deh tshoe
 特招
 特教	deh ciau
-特為
+特爲
 特爽
 特立
 特約	deh iaoh
@@ -28370,7 +28385,7 @@ min_phrase_weight: 100
 甘於	koe yu
 甘服
 甘汁
-甘為
+甘爲
 甘苦	koe khu
 甘醇
 甙	dae
@@ -28386,7 +28401,7 @@ min_phrase_weight: 100
 甚於	zen yu
 甚殷	zen in
 甚法
-甚為
+甚爲
 甚解	zen cia
 甚高
 甚麼	zen meh
@@ -28452,7 +28467,7 @@ min_phrase_weight: 100
 生活勢勁	san weh sy cin
 生涯	san nga
 生漆	san tshih
-生為	san we
+生爲	san we
 生煎饅頭	san tsie moe deu
 生煤	san me
 生熱	san nyih
@@ -28546,7 +28561,7 @@ min_phrase_weight: 100
 用有
 用活
 用火
-用為
+用爲
 用煤
 用着了	yon zaoh lheh
 用空
@@ -28645,7 +28660,7 @@ min_phrase_weight: 100
 甲級	ciah cih
 甲組	ciah tsu
 甲肝	ciah koe
-甲胄	kah zeu
+甲冑	kah zeu
 甲苯	ciah pen
 甲蟲	kah zon
 甲蟲	ciah zon
@@ -28757,27 +28772,49 @@ min_phrase_weight: 100
 畢至
 畢鈿生絲	pih die sen sy
 略	liaoh
+畧	liaoh
 略具
+畧具
 略加	liaoh ka
+畧加	liaoh ka
 略去	liaoh chi
+畧去	liaoh chi
 略多
+畧多
 略大	liaoh da
+畧大	liaoh da
 略嫌
+畧嫌
 略差	liaoh tsha
+畧差	liaoh tsha
 略張
+畧張
 略微	liaoh vi
+畧微	liaoh vi
 略施
+畧施
 略染	liaoh nyie
-略為
+畧染	liaoh nyie
+略爲
+畧爲
 略看
+畧看
 略粗
+畧粗
 略註
+畧註
 略談
+畧談
 略論
+畧論
 略讀	liaoh doh
+畧讀	liaoh doh
 略長	liaoh zan
+畧長	liaoh zan
 略陳
+畧陳
 略高
+畧高
 畦	yi
 番	fae
 番	phoe
@@ -28810,7 +28847,7 @@ min_phrase_weight: 100
 畫景	gho cin
 畫會	gho we
 畫滿
-畫為
+畫爲
 畫瓢
 畫苑
 畫虎
@@ -28865,7 +28902,7 @@ min_phrase_weight: 100
 當晚	taon uae
 當月	taon yuih
 當朝	taon zau
-當為
+當爲
 當當
 當眾
 當紅	taon ghon
@@ -28942,7 +28979,7 @@ min_phrase_weight: 100
 疑心疑惑
 疑是
 疑欲
-疑為
+疑爲
 疑處
 疔	tin
 疘	kon
@@ -29353,7 +29390,7 @@ min_phrase_weight: 100
 皆北	cia poh
 皆同
 皆曰
-皆為
+皆爲
 皆無	cia vu
 皆由
 皆能	cia nen
@@ -29458,7 +29495,7 @@ min_phrase_weight: 100
 盛演	zen ie
 盛產	zen tshae
 盛筵	zen yie
-盛舉	zen ciu
+盛擧	zen ciu
 盛苑	zen ioe
 盛行	zen yin
 盛衰	zen se
@@ -29682,6 +29719,7 @@ min_phrase_weight: 100
 省會	san we
 省油	san yeu
 省略	san liaoh
+省畧	san liaoh
 省立	san lih
 省籍	san zih
 省級	san cih
@@ -29778,7 +29816,7 @@ min_phrase_weight: 100
 真摯	tsen tsy
 真敢
 真混
-真為
+真爲
 真率	tsen se
 真生活	tsen san weh
 真細
@@ -30956,7 +30994,7 @@ min_phrase_weight: 100
 稍懈	sau shia
 稍數
 稍淡
-稍為	sau we
+稍爲	sau we
 稍胖	sau phaon
 稍許	sau shiu
 稍退
@@ -30999,7 +31037,7 @@ min_phrase_weight: 100
 稱尊
 稱手
 稱是
-稱為
+稱爲
 稱砣
 稱許	tshen shiu
 稱誦
@@ -31247,7 +31285,7 @@ min_phrase_weight: 100
 竟日	cin zeh
 竟會	cin we
 竟未	cin vi
-竟為
+竟爲
 竟約	cin iaoh
 竟能	cin nen
 竟被	cin be
@@ -31892,9 +31930,10 @@ min_phrase_weight: 100
 約期	iaoh ji
 約束	iaoh soh
 約法	iaoh fah
-約為	iaoh we
+約爲	iaoh we
 約瑟	iaoh seh
 約略	iaoh liaoh
+約畧	iaoh liaoh
 約稿	iaoh kau
 約簡	iaoh cie
 約翰	iaoh ghoe
@@ -32027,7 +32066,7 @@ min_phrase_weight: 100
 紋	ven
 紋波	ven pu
 納	nah
-納為
+納爲
 納粹	nah tshoe
 納粹	nah zoe
 納賢
@@ -32255,7 +32294,7 @@ min_phrase_weight: 100
 結扣
 結棍	cih kuen
 結欠
-結為
+結爲
 結症
 結着	cih zaoh
 結石	cih zaoh
@@ -32580,7 +32619,7 @@ min_phrase_weight: 100
 編就
 編故事
 編校	pie yau
-編為
+編爲
 編發
 編着	pie zaoh
 編筐
@@ -32777,9 +32816,10 @@ min_phrase_weight: 100
 繈	cian
 繦	cian
 緥	pau
-繈緥
+繈緥	cian pau
+襁褓	cian pau
 繒	tsen
-織	cih	0%
+織	tsih	0%
 織	tseh	100%
 織	tsy	0%
 織出	tseh tsheh
@@ -33411,7 +33451,7 @@ min_phrase_weight: 100
 而比	r pi
 而況	r huaon
 而活
-而為
+而爲
 而無	r vu
 而生	r san
 而知
@@ -33595,7 +33635,7 @@ min_phrase_weight: 100
 聘上
 聘任	phin zen
 聘問	phin ven
-聘為
+聘爲
 聘約	phin iaoh
 聚	ziu
 聚光	ziu kuaon
@@ -34123,7 +34163,7 @@ min_phrase_weight: 100
 能有	nen yeu
 能治	nen zy
 能源	nen nyoe
-能為	nen we
+能爲	nen we
 能燒	nen sau
 能用	nen yon
 能由	nen yeu
@@ -34521,7 +34561,7 @@ min_phrase_weight: 100
 臨時佛腳	lin zy veh ciaoh
 臨時末結
 臨月	lin yuih
-臨朐	lin geu
+臨胊	lin jiu
 臨朝	lin zau
 臨死	lin sy
 臨死	lin si
@@ -34530,8 +34570,8 @@ min_phrase_weight: 100
 臨行	lin yin
 臨身
 自	zy
-自以為
-自以為是
+自以爲
+自以爲是
 自來火
 自信	zy sin
 自刎	zy ven
@@ -34557,7 +34597,7 @@ min_phrase_weight: 100
 自暴
 自查	zy zo
 自治區	zy zy chiu
-自為
+自爲
 自爆	zy bau
 自珍
 自生自滅	zy sen zy mih
@@ -34575,7 +34615,7 @@ min_phrase_weight: 100
 自覺	zy ciaoh
 自解	zy cia
 自誇	zy kho
-自認為
+自認爲
 自謂
 自譴
 自豪感	zy ghau koe
@@ -34618,7 +34658,7 @@ min_phrase_weight: 100
 至於	tsy yu
 至日	tsy zeh
 至深
-至為
+至爲
 至真
 至終
 致	tsy
@@ -34697,13 +34737,14 @@ min_phrase_weight: 100
 興邊
 興革	shin keh
 舉	ciu
-舉人	ciu nyin
-舉借
-舉壁架子
-舉家	ciu cia
-舉着	ciu zaoh
-舉行	ciu yin
-舉賢
+擧	ciu
+擧人	ciu nyin
+擧借
+擧壁架子
+擧家	ciu cia
+擧着	ciu zaoh
+擧行	ciu yin
+擧賢
 舊	jieu
 舊交	jieu ciau
 舊人	jieu nyin
@@ -34767,6 +34808,7 @@ min_phrase_weight: 100
 舞棍	vu kuen
 舞獅子
 舞臂
+𣍝	tseu
 舟	tseu
 舟橋
 舟車	tseu tsho
@@ -35840,7 +35882,7 @@ min_phrase_weight: 100
 蔚	ue	100%
 蔚	iuih	0%
 蔚成	ue zen
-蔚為	ue we
+蔚爲	ue we
 蔚然	ue zoe
 蔚縣	ue yoe
 蔚色	ue seh
@@ -36171,7 +36213,7 @@ min_phrase_weight: 100
 號	ghau
 號叫	ghau ciau
 號炮	ghau phau
-號為
+號爲
 號笛
 號聲	ghau sen
 號腸拍肚	ghau zan phaoh du
@@ -36393,7 +36435,7 @@ min_phrase_weight: 100
 融彙
 融攝	yon seh
 融會	yon we
-融為
+融爲
 融解	yon cia
 螓	zin
 螗	daon
@@ -36595,7 +36637,7 @@ min_phrase_weight: 100
 行檢	ghaon cie
 行款	yin khuoe
 行止	yin tsy
-行為	yin we
+行爲	yin we
 行照	ghaon tsau
 行畫	ghaon gho
 行當	ghaon taon
@@ -36862,7 +36904,7 @@ min_phrase_weight: 100
 裝填	tsaon die
 裝樣
 裝潢	tsaon waon
-裝為
+裝爲
 裝甲	tsaon kah
 裝胡羊
 裝腔
@@ -37113,7 +37155,7 @@ min_phrase_weight: 100
 要沖
 要活
 要淘汰
-要為
+要爲
 要用個人	iau yon gheh nyin
 要畫
 要知
@@ -37245,7 +37287,7 @@ min_phrase_weight: 100
 視屛	zy bin
 視屏	zy bin
 視差	zy tsha
-視為
+視爲
 視網
 視覺	zy ciaoh
 覘	tshoe
@@ -37497,7 +37539,7 @@ min_phrase_weight: 100
 訂數
 訂於	tin yu
 訂滿
-訂為
+訂爲
 訂約	tin iaoh
 訃	fu
 訃聞	fu ven
@@ -37588,7 +37630,7 @@ min_phrase_weight: 100
 設	seh
 設下	seh gho
 設於	seh yu
-設為
+設爲
 設疑
 設防	seh vaon
 許	he	0%
@@ -37643,7 +37685,7 @@ min_phrase_weight: 100
 評斷	bin doe
 評核
 評比	bin pi
-評為
+評爲
 評職
 評薪
 評說	bin seh
@@ -37738,6 +37780,7 @@ min_phrase_weight: 100
 詳情	zian zin
 詳查	zian zo
 詳略	zian liaoh
+詳畧	zian liaoh
 詳盡	zian zin
 詳細	zian si
 詳見	zian cie
@@ -37773,7 +37816,7 @@ min_phrase_weight: 100
 認准
 認同感	nyin don koe
 認局
-認為
+認爲
 認狠
 認破	nyin phu
 認罪	nyin zoe
@@ -38283,6 +38326,7 @@ min_phrase_weight: 100
 謠俗
 謠言	yau yie
 謠諺
+謩	mu
 謨	mu
 謫	tsaoh
 謫守
@@ -38379,7 +38423,7 @@ min_phrase_weight: 100
 譯員	yih yoe
 譯師
 譯注
-譯為
+譯爲
 議	nyi
 議員	nyi yoe
 議場	nyi zan
@@ -38399,7 +38443,7 @@ min_phrase_weight: 100
 護青
 譽	yu
 譽冠
-譽為
+譽爲
 讀	deu	0%
 讀	doh	100%
 讀了	doh liau
@@ -38454,7 +38498,7 @@ min_phrase_weight: 100
 變更	pie ken
 變死	pie si
 變灰
-變為
+變爲
 變熱
 變窄
 變粗
@@ -39520,7 +39564,7 @@ min_phrase_weight: 100
 身條	sen diau
 身殘
 身浪
-身為
+身爲
 身無	sen vu
 身相
 身纏
@@ -39542,6 +39586,10 @@ min_phrase_weight: 100
 躺着	thaon zaoh
 躽	ie
 軀	chiu
+俥	ciu
+俥	tsho
+俥伕	tsho fu
+大俥	da tsho
 車	ciu
 車	tsho
 車上	tsho zaon
@@ -39757,7 +39805,7 @@ min_phrase_weight: 100
 較松
 較正
 較比	ciau pi
-較為
+較爲
 較矮
 較硬
 較窄
@@ -39902,7 +39950,7 @@ min_phrase_weight: 100
 轉折	tsoe tseh
 轉暖
 轉會	tsoe we
-轉為
+轉爲
 轉生	tsoe sen
 轉碼
 轉筋透骨
@@ -40041,7 +40089,7 @@ min_phrase_weight: 100
 迪化	dih ho
 迪吧	dih ba
 迪慶
-迪為
+迪爲
 迫	phaoh
 迫	pheh
 迫	pah
@@ -40080,6 +40128,7 @@ min_phrase_weight: 100
 述	zeh
 述懷	zeh we
 述略
+述畧
 述記
 述說	zeh seh
 迳	cin
@@ -40823,7 +40872,7 @@ min_phrase_weight: 100
 還	wae
 還弗	wae veh
 還不	wae peh
-還以為	ghe i we
+還以爲	ghe i we
 還來	ghe le
 還來	wae le
 還俗	wae zoh
@@ -41438,6 +41487,7 @@ min_phrase_weight: 100
 鈀	pha
 鈁	faon
 鈃	yin
+銒	cie
 鈄	deu
 鈈	peh
 鈉	nah
@@ -42663,7 +42713,7 @@ min_phrase_weight: 100
 降水	kaon syu
 降溫	kaon uen
 降火	kaon hu
-降為	kaon we
+降爲	kaon we
 降生	kaon sen
 降福	kaon foh
 降級	kaon cih
@@ -42709,7 +42759,7 @@ min_phrase_weight: 100
 陞官
 陞格
 陞檔
-陞為
+陞爲
 陞級
 陞職
 陞讀	sen doh
@@ -43143,7 +43193,7 @@ min_phrase_weight: 100
 雖屬	soe zoh
 雖把
 雖未	soe vi
-雖為
+雖爲
 雖無	soe vu
 雖短
 雖經
@@ -43898,7 +43948,7 @@ min_phrase_weight: 100
 頗少
 頗感	phu koe
 頗濃
-頗為
+頗爲
 頗細
 頗能	phu nen
 頗覺	phu ciaoh
@@ -43987,7 +44037,7 @@ min_phrase_weight: 100
 顆顆
 題	di
 題榜	di paon
-題為
+題爲
 題眼
 題籤
 題解	di cia
@@ -44012,7 +44062,7 @@ min_phrase_weight: 100
 願將	nyoe tsian
 願景	nyoe cin
 願望	nyoe waon
-願為
+願爲
 願者
 顙	saon
 顛	tie
@@ -45758,10 +45808,10 @@ min_phrase_weight: 100
 芻	tshyu
 汙	u
 蹚	thaon
-奓	tsa	100%
-奓	so	0%
-奓	tshy	0%
+奓	tso
+奓	tshy
 齖	nga
+銽	kuah
 銛	tie
 刉	ke
 逕	cin
@@ -46347,6 +46397,7 @@ min_phrase_weight: 100
 舁	yu
 俙	shi
 俍	lian
+𠪋	gheu
 垕	gheu
 衎	khoe
 侴	hau
@@ -47148,6 +47199,7 @@ min_phrase_weight: 100
 屮	tsheh
 夶	pi
 竝	bin
+𠀤	bin
 瑲	tshan
 檮	zeu
 檮	tau
@@ -47660,6 +47712,32 @@ Rime 中州韻輸入法	rime
 峠	kha
 働	don
 哋	di
+膧	don
+𣮆	thu
+羡	yie
+㼖	li
+濍	son
+𤁬	son
+㾮	waon
+瘟㾮
+圕	doe
+圕	du syu kuoe
+瓩	tshie
+瓩	tshie ngo
+瓩	tshie kheh
+竰	li sen
+甅	li kheh
+糎	li mi
+珊	li mi
+瓱	ghau kheh
+竓	ghau sen
+粍	ghau mi
+瓩	tshie kheh
+竏	tshie sen
+粁	tshie mi
+竕	fen sen
+瓲	ten
+瓲	ngo
 
 # more phrases from luna and terra
 
@@ -48225,7 +48303,7 @@ Rime 中州韻輸入法	rime
 金寧
 阿爾巴尼亞共和國
 耍獅子
-重要舉措
+重要擧措
 平面描跡
 玉米螟
 贍表子
@@ -48333,6 +48411,7 @@ Rime 中州韻輸入法	rime
 簸揚
 打毷氉
 傳略
+傳畧
 彈奏
 板上釘釘
 碌曲縣
@@ -49014,7 +49093,7 @@ Rime 中州韻輸入法	rime
 西格蒙德
 旄牛
 顯露原形
-舉目無親
+擧目無親
 出結
 塞聲
 惡兇兇
@@ -50023,7 +50102,7 @@ name: luna_pinyin_ziam_tuan
 勒斯波斯島
 喜怒哀樂
 擇善而行
-興滅舉廢
+興滅擧廢
 吐哺捉髮
 傳重
 社會行爲
@@ -50343,6 +50422,7 @@ name: luna_pinyin_ziam_tuan
 苦差事
 教學質量
 略地侵城
+畧地侵城
 跳行
 風調雨潤
 韓盧逐逡
@@ -50447,7 +50527,7 @@ name: luna_pinyin_ziam_tuan
 幺麼小醜
 韻律操
 傳驛
-一舉兩便
+一擧兩便
 俟俟
 東柏林
 憤切
@@ -51210,7 +51290,7 @@ name: luna_pinyin_ziam_tuan
 孚乳
 柏梁體
 日曬雨淋
-贗鼎
+贋鼎
 平樂縣
 豁着
 功均柱地
@@ -51288,7 +51368,7 @@ name: luna_pinyin_ziam_tuan
 憐孤惜寡
 劈着
 嘵舌
-朝虀暮鹽
+朝𧆌暮鹽
 展轉
 八正道
 蟢子
@@ -51775,6 +51855,7 @@ name: luna_pinyin_ziam_tuan
 礙難照辦
 法耶德
 戰略要地
+戰畧要地
 不可估量
 望風而潰
 根頭
@@ -52836,7 +52917,7 @@ name: luna_pinyin_ziam_tuan
 鑿空指鹿
 老少配
 身體部分
-一舉兩得
+一擧兩得
 親昵
 稱作
 還貸
@@ -53450,7 +53531,7 @@ name: luna_pinyin_ziam_tuan
 甘分隨時
 一個鍋裏吃飯的
 搬脣弄舌
-滑扢虀
+滑扢𧆌
 患難見棄
 人是地行仙
 行成功滿
@@ -54178,7 +54259,7 @@ name: luna_pinyin_ziam_tuan
 和暢
 長條
 捕緝
-舉世無匹
+擧世無匹
 中路梆子
 巖穴之士
 聯軸器
@@ -55964,7 +56045,7 @@ name: luna_pinyin_ziam_tuan
 道長
 疵蒙謬累
 塑身
-真贗
+真贋
 拽塌
 依撒意亞
 玉卮無當
@@ -56845,7 +56926,7 @@ name: luna_pinyin_ziam_tuan
 赤瓦不剌海
 奄宦
 耳聞目擊
-舉扇一撝
+擧扇一撝
 供求
 雌黃
 錫紙
@@ -57368,6 +57449,7 @@ version: "2018.10.22"
 鼻血
 太平日子
 略無參商
+畧無參商
 人心惟危
 打旋兒
 散曲
@@ -57937,7 +58019,7 @@ version: "2018.10.22"
 白鵠
 絕倒
 傳訊
-舉酒作樂
+擧酒作樂
 熱容量
 飯糗茹草
 滎經
@@ -58308,6 +58390,7 @@ version: "2018.10.22"
 倒句
 卒律律
 豁略大度
+豁畧大度
 逗悶子
 長命鎖
 賀朝
@@ -60927,6 +61010,7 @@ version: "2018.10.22"
 盛京
 不干涉
 金匱要略
+金匱要畧
 當口
 聒擾
 蜚語
@@ -61018,7 +61102,7 @@ version: "2018.10.22"
 平阜
 酣歌恆舞
 裝裹
-舉行婚禮
+擧行婚禮
 感性知識
 折箭爲誓
 中山科學研究院
@@ -61681,6 +61765,7 @@ version: "2018.10.22"
 衡量制
 夸毗
 略跡原情
+畧跡原情
 興奮劑
 形跡敗露
 妥當
@@ -62148,7 +62233,7 @@ version: "2018.10.22"
 吃啞吧虧
 經宿不歸
 突尼西亞
-百端待舉
+百端待擧
 盡數
 絕甘分少
 新幾內亞島
@@ -62919,7 +63004,7 @@ version: "2018.10.22"
 陸德明
 降塵
 拆洗
-舉足輕重
+擧足輕重
 誤入歧途效應
 瞠乎後矣
 應用數學
@@ -62948,7 +63033,7 @@ version: "2018.10.22"
 辟廱
 興興頭頭
 悶酒
-隆重舉行
+隆重擧行
 回船轉舵
 世伯
 大話小結果
@@ -63592,7 +63677,7 @@ version: "2018.10.22"
 打靶場
 暴桑
 逢處
-龍興鳳舉
+龍興鳳擧
 山肴野蔌
 阤靡
 行己有恥
@@ -63829,7 +63914,7 @@ version: "2018.10.22"
 天方教
 那臺
 張牙舞爪
-規模遠舉
+規模遠擧
 沒魂少智
 匡當
 易加卡
@@ -63906,6 +63991,7 @@ version: "2018.10.22"
 薄海同仇
 羅馬正教
 伽利略·伽利雷
+伽利畧·伽利雷
 創造力
 膩糊
 磨佗子
@@ -64122,7 +64208,7 @@ version: "2015.02.08"
 發光度
 簸弄
 第三度空間
-舉觴稱慶
+擧觴稱慶
 順序
 抹布
 行車距離
@@ -64580,6 +64666,7 @@ version: "2015.02.08"
 孅趨
 本事
 地緣戰略
+地緣戰畧
 信宿
 和村
 書呆子
@@ -64887,7 +64974,7 @@ version: "2015.02.08"
 增長速度
 自重
 詭祕
-舉行會談
+擧行會談
 推輪捧轂
 駢肩累跡
 十相具足
@@ -65720,6 +65807,7 @@ version: "2015.02.08"
 銖積寸累
 打長工
 略爲
+畧爲
 了當不得
 餑餑
 蕃蕪
@@ -66488,7 +66576,7 @@ version: "2015.02.08"
 肝腦塗地
 塞凡提斯
 扎花
-不受擡舉
+不受擡擧
 乞留曲律
 行食
 暮去朝來
@@ -66561,6 +66649,7 @@ version: "2015.02.08"
 阿旺曲培
 綸音佛語
 略施薄懲
+畧施薄懲
 囚攮的
 螺旋面
 健保卡
@@ -67014,7 +67103,7 @@ version: "2015.02.08"
 樂浪郡
 山地管制區
 浪蕩乾坤
-期中選舉
+期中選擧
 泥腿光棍
 一分錢
 種植業
@@ -68149,7 +68238,7 @@ version: "2015.02.08"
 富寧縣
 和合日
 渾天儀
-待時而舉
+待時而擧
 冰炭不相入
 綏靖
 分會場
@@ -68202,6 +68291,7 @@ version: "2015.02.08"
 長順縣
 絲竹樂
 戰略核力量
+戰畧核力量
 普度
 訊框傳送
 愛沙尼亞共和國
@@ -68371,7 +68461,7 @@ version: "2015.02.08"
 海苔
 冠絕古今
 插火坑
-辟舉
+辟擧
 絕長繼短
 朴實
 難若登天
@@ -69532,6 +69622,7 @@ version: "2015.02.08"
 收斂劑
 腦子生銹
 春盛食罍
+缾罄罍恥
 扭曲作直
 一中原則
 得證
@@ -69845,7 +69936,7 @@ version: "2015.02.08"
 守成難
 爛攤子
 不分青紅皂白
-舉劾
+擧劾
 爲的是
 興兵動衆
 傾吐胸臆
@@ -69877,6 +69968,7 @@ version: "2015.02.08"
 天下爲家
 彈空說嘴
 崖略
+崖畧
 喜地歡天
 扒沙
 抽薪止沸
@@ -71844,7 +71936,7 @@ version: "2015.02.08"
 彈劾
 期勉
 順竿子
-言揚行舉
+言揚行擧
 搖搖落落
 模組
 菜包子
@@ -72574,6 +72666,7 @@ min_phrase_weight: 100
 荷塘
 衝口而出
 略遜一籌
+畧遜一籌
 大將軍
 土坯
 面熟
@@ -74315,7 +74408,7 @@ min_phrase_weight: 100
 藉寇兵
 # http://cc-cedict.org/wiki/
 倒休
-高舉遠蹈
+高擧遠蹈
 萬能曲尺
 澗壑
 監督人
@@ -74477,7 +74570,7 @@ min_phrase_weight: 100
 了劣
 對不住
 香餑餑
-褎然舉首
+褎然擧首
 勦撫兼施
 白眉鴃
 星際旅行
@@ -74556,6 +74649,7 @@ min_phrase_weight: 100
 混淪
 出操
 毘婆沙部
+亞拉毘亞
 瘋瘋傻傻
 嘮三叨四
 不氣干
@@ -74678,6 +74772,7 @@ min_phrase_weight: 100
 看風使舵
 大智度論
 六韜三略
+六韜三畧
 東翻西倒
 忽剌巴
 重點工程
@@ -74973,7 +75068,7 @@ min_phrase_weight: 100
 朝不圖夕
 麻六甲海峽
 綏來縣
-舉眼無親
+擧眼無親
 鄭重其事
 輿地廣記
 平鉋
@@ -75023,7 +75118,7 @@ min_phrase_weight: 100
 巴比倫空中花園
 冠世之才
 赤誠相待
-時絀舉贏
+時絀擧贏
 車笠之盟
 綠地
 眼餳耳熱
@@ -76325,6 +76420,7 @@ min_phrase_weight: 100
 預行
 倍感親切
 略跡原心
+畧跡原心
 滎經縣
 自強運動
 裛裛
@@ -76366,7 +76462,7 @@ min_phrase_weight: 100
 窮相
 宿麥
 丹闕
-高舉深藏
+高擧深藏
 重關
 杜門晦跡
 卷筆刀
@@ -76553,6 +76649,7 @@ min_phrase_weight: 100
 掣電
 弛緩
 龍韜虎略
+龍韜虎畧
 放一百二十個心
 詐啞佯聾
 揚幡擂鼓
@@ -79132,6 +79229,7 @@ min_phrase_weight: 100
 油渣子
 排水量
 戰略轟炸
+戰畧轟炸
 散座
 鬻文
 嘑頭
@@ -79492,7 +79590,7 @@ min_phrase_weight: 100
 誰讓你
 莫之與京
 郯城縣
-贗品
+贋品
 帥氣
 鉤輈格磔
 沒奔一頭處
@@ -79579,7 +79677,7 @@ min_phrase_weight: 100
 炸碎
 盤槓子
 銀髮族
-祕密選舉
+祕密選擧
 要不得
 要束
 重義輕生
@@ -80336,7 +80434,7 @@ min_phrase_weight: 100
 澂江縣
 塔塔兒
 助紂爲虐
-創舉
+創擧
 禍亂交興
 㕷啦
 百度知道
@@ -81059,6 +81157,7 @@ min_phrase_weight: 100
 豪釐千里
 探著
 攻城略地
+攻城畧地
 護從
 酷刑折磨
 受聘
@@ -81238,7 +81337,7 @@ min_phrase_weight: 100
 宓羲
 上邊
 重九
-百廢待舉
+百廢待擧
 印刷品
 煨乾避濕
 少見多怪
@@ -81365,7 +81464,7 @@ min_phrase_weight: 100
 飽和點
 寧德市
 唱獨角戲
-字學舉隅
+字學擧隅
 巴音郭楞蒙古自治州
 光電傳導
 一廟一個神
@@ -81447,7 +81546,7 @@ min_phrase_weight: 100
 驀忽間
 人事不省
 歪打正着
-兔起鳧舉
+兔起鳧擧
 教育界
 衆生好度
 盤攪
@@ -82234,6 +82333,7 @@ min_phrase_weight: 100
 柞樹
 可轉換同位素
 戰略轟炸機
+戰畧轟炸機
 磨砂
 儕居
 桓殷危語
@@ -82278,6 +82378,7 @@ min_phrase_weight: 100
 八蜡
 阿卡
 疏謀少略
+疏謀少畧
 沒金飲羽
 打高空
 子母炸彈
@@ -82604,6 +82705,7 @@ min_phrase_weight: 100
 一張一弛
 地塹
 略地攻城
+畧地攻城
 捭闔縱橫
 與民偕樂
 名稱權
@@ -83545,7 +83647,7 @@ min_phrase_weight: 100
 蓋造
 爛腸子
 質難
-言行舉止
+言行擧止
 湖廣熟
 當家子
 樸陋
@@ -83634,7 +83736,7 @@ min_phrase_weight: 100
 曝腮龍門
 纖柔
 更去煉銅
-舉重若輕
+擧重若輕
 聖索非亞大教堂
 怯怯喬喬
 亭午夜分
@@ -84703,6 +84805,7 @@ min_phrase_weight: 100
 陳與義
 坐標軸
 虎略龍韜
+虎畧龍韜
 蛤粉
 槓上開花
 人工閱卷
@@ -85086,7 +85189,7 @@ min_phrase_weight: 100
 薄油層
 書種
 數據鏈路
-共襄盛舉
+共襄盛擧
 二道販子
 百辟
 天女散花
@@ -85193,7 +85296,7 @@ min_phrase_weight: 100
 搖囝仔歌
 回紇
 夜漏將傳
-差額選舉
+差額選擧
 格子布
 艾薩克·牛頓
 跛足
@@ -85243,7 +85346,7 @@ min_phrase_weight: 100
 兵微將寡
 蹙國喪師
 大有裨益
-舉場
+擧場
 塞耳偷鈴
 念曲叫曲
 墾地
@@ -85252,7 +85355,7 @@ min_phrase_weight: 100
 阿洪
 兵少將微
 和藹
-舉重
+擧重
 體重計
 串親訪友
 超維空間
@@ -85370,7 +85473,7 @@ min_phrase_weight: 100
 綜合存款
 大數學家
 爐子
-不中擡舉
+不中擡擧
 草檄
 抑塞
 阿拉斯加洋流
@@ -85436,6 +85539,7 @@ min_phrase_weight: 100
 簸蕩
 悒悒不樂
 韜略
+韜畧
 鬧騰
 沒有主意
 實受資本
@@ -86148,7 +86252,7 @@ min_phrase_weight: 100
 顓頊
 息女
 火星塞
-舉薦征辟
+擧薦征辟
 懷刺漫滅
 好飯不怕晚
 衍射格子
@@ -86164,7 +86268,7 @@ min_phrase_weight: 100
 共和派
 大容量
 喝探
-贗幣
+贋幣
 湊數
 帶菌
 昭通地區
@@ -86358,7 +86462,7 @@ min_phrase_weight: 100
 名爲
 屏語
 獅子山共和國
-柏舉之戰
+柏擧之戰
 于嗟
 伐謀
 貢監
@@ -87306,7 +87410,7 @@ min_phrase_weight: 100
 分類廣告
 胴體
 無服之喪
-中舉
+中擧
 教皇
 豁地
 補苴
@@ -87763,7 +87867,7 @@ min_phrase_weight: 100
 國家旅遊度假區
 似火
 僞書
-舉世混濁
+擧世混濁
 少不了
 習以爲常
 螺旋
@@ -88949,7 +89053,7 @@ min_phrase_weight: 100
 信馬游韁
 死鰾白纏
 半生半熟
-酸黃虀爛豆腐
+酸黃𧆌爛豆腐
 褫職
 菽水
 鼻塞聲重
@@ -89009,6 +89113,7 @@ min_phrase_weight: 100
 荷花大少
 休屠
 略見一斑
+畧見一斑
 黏稠度
 矯情自飾
 橫列
@@ -90305,7 +90410,7 @@ min_phrase_weight: 100
 徇私作弊
 怯牀
 門帖
-舉隅
+擧隅
 琴瑟和鳴
 歸屬地
 生殖腺
@@ -90797,6 +90902,7 @@ min_phrase_weight: 100
 埋葬
 不當事
 分散的策略
+分散的策畧
 偷東摸西
 數字化
 相類
@@ -90860,7 +90966,7 @@ min_phrase_weight: 100
 樂施會
 得意之色
 基礎教育
-不勝枚舉
+不勝枚擧
 東家食西家宿
 種別
 螣蛇無足而飛
@@ -91845,6 +91951,7 @@ name: terra_pinyin
 裙子
 大模廝樣
 文韜武略
+文韜武畧
 遊手好閒
 數點
 偲偲
@@ -91961,7 +92068,7 @@ name: terra_pinyin
 張綱埋輪
 曲黴毒素
 葡萄乾兒
-贗本
+贋本
 孵化場
 憨厚
 禮教吃人
@@ -92013,7 +92120,7 @@ name: terra_pinyin
 擊劍
 持人長短
 生朝
-肋骨舉肌
+肋骨擧肌
 揭櫫
 剽輕
 乾坤一擲
@@ -92046,7 +92153,7 @@ name: terra_pinyin
 重門擊柝
 起落裝置
 儻來
-一舉數得
+一擧數得
 制度
 動脈輸血
 吃地面
@@ -92075,6 +92182,7 @@ name: terra_pinyin
 兄弟鬩牆
 四平調
 略識之無
+畧識之無
 轉輪聖帝
 苞苴公行
 這行子
@@ -92671,7 +92779,7 @@ name: terra_pinyin
 拉大便
 緩和劑
 樂亭
-高蹈遠舉
+高蹈遠擧
 挑三豁四
 大言非夸
 殺菌劑
@@ -93680,6 +93788,7 @@ name: terra_pinyin
 譚天說地
 老和尚看嫁妝
 長算遠略
+長算遠畧
 重拍
 發行量
 諷讀
@@ -93918,6 +94027,7 @@ name: terra_pinyin
 馴鴿
 掃地滔天
 略稱
+畧稱
 批頭竹片
 白嚼人
 潭瀹
@@ -94323,7 +94433,7 @@ name: terra_pinyin
 十人傳百
 玳瑁殼
 煩懣
-騫舉
+騫擧
 動人心弦
 揉着癢處
 聽證制度
@@ -94658,7 +94768,7 @@ name: terra_pinyin
 皮劃艇激流回旋
 空想
 模具
-舉不勝舉
+擧不勝擧
 光降
 強烈反對
 路得
@@ -94853,7 +94963,7 @@ name: terra_pinyin
 公共假期
 玩意兒
 手帖
-舉監
+擧監
 生產基地
 抽菸
 班門弄斧
@@ -95822,7 +95932,7 @@ name: terra_pinyin
 搔着癢處
 馬撓子
 咯噹
-應舉
+應擧
 美酒佳肴
 光效應藝術
 跂想
@@ -96021,7 +96131,7 @@ name: terra_pinyin
 套衫兒
 獬豸冠
 披覽
-噶舉派
+噶擧派
 重生爺娘
 病相思
 一條腸子
@@ -96194,7 +96304,7 @@ name: terra_pinyin
 熬菜
 腸繫膜
 不見天日
-地方選舉
+地方選擧
 豁達明亮
 科斂
 衝冠髮怒
@@ -96446,7 +96556,7 @@ name: terra_pinyin
 了畢
 披閱
 多兇少吉
-冠蓋高舉
+冠蓋高擧
 傾覆重器
 載運
 嘿嘿無言
@@ -96907,6 +97017,7 @@ name: terra_pinyin
 溫溫和和
 縱切面
 略地
+畧地
 大陸礁層公約
 債多了不愁
 甲長
@@ -98966,7 +99077,7 @@ max_phrase_length: 7
 板板六四
 兩腳車
 捉摸
-為啥咾
+爲啥咾
 小驐
 猜枚枚子
 消客氣
@@ -100071,7 +100182,7 @@ max_phrase_length: 7
 武大佬
 兄弟兩個
 鵪鶉
-迭為
+迭爲
 高粱
 閑當
 新客人
@@ -102060,6 +102171,7 @@ max_phrase_length: 7
 牆門
 半高統
 粗致大略
+粗致大畧
 小敨卵
 是過
 夾搔落
@@ -103933,7 +104045,7 @@ max_phrase_length: 7
 暴捏
 蒸飯䈆
 勢直
-讓為
+讓爲
 洋弢
 還湯
 漲一些
@@ -104653,7 +104765,7 @@ max_phrase_length: 7
 喪事
 禮示旁
 通宵
-難為情
+難爲情
 藥水
 斫柴刀
 池潭
@@ -105627,7 +105739,7 @@ max_phrase_length: 7
 布毛臭
 寒裏
 柱腳
-鬼相打難為生病人
+鬼相打難爲生病人
 塞銅鈿
 有淘伴
 六十日
@@ -106077,7 +106189,7 @@ max_phrase_length: 7
 解紐子
 月頭路
 老十八出
-枉為人世
+枉爲人世
 迭搭
 落蘇揀軟個捘
 對面襟
@@ -106315,7 +106427,7 @@ max_phrase_length: 7
 烊勩
 打籃
 相罵
-為此緣故
+爲此緣故
 俏眼打本瞎子看
 深溝
 立棵子草
@@ -108404,6 +108516,7 @@ max_phrase_length: 7
 油嘴搭舌
 阿有介事
 毛毛略略
+毛毛略畧
 一同
 大殮
 呴勢
@@ -109851,7 +109964,7 @@ max_phrase_length: 7
 擿痧
 嘸圖保正
 下一絞
-怕難為情
+怕難爲情
 看好戲
 沿街房子
 肉膘
@@ -110390,7 +110503,7 @@ max_phrase_length: 7
 大約摸捉
 起奔頭
 楝樹
-難為
+難爲
 拱手
 一共攏總
 着着前頭
@@ -111448,7 +111561,7 @@ max_phrase_length: 7
 瀗	shie
 䛳	ie
 𢜭	cih
-焲	yeh
+焲	yih
 敜	nyih
 嚟	li
 儌	ciau
@@ -111496,6 +111609,7 @@ max_phrase_length: 7
 螔	yi
 羜	ziu
 艐	khu
+朡	khu
 憌	jion
 䳻	zae
 𠳋	chie
@@ -111652,7 +111766,7 @@ max_phrase_length: 7
 覴	tshen
 瀈	hue
 笓	bi
-𣐋	yuh
+𣐋	yuih
 懬	khaon
 𪑝	ioh
 𠇗	kho
@@ -111701,7 +111815,7 @@ max_phrase_length: 7
 䬵	a
 淲	biau
 𦂌	pon
-䬑	yuh
+䬑	yuih
 鷿	bih
 㥶	seh
 鮤	li
@@ -111759,7 +111873,7 @@ max_phrase_length: 7
 魺	wu
 㽷	soe
 𣤴	shi
-婏	fae
+𡢎	fae
 䃳	lih
 阬	khaon
 䳺	ae
@@ -111827,7 +111941,7 @@ max_phrase_length: 7
 貜	goh
 𠮯	ci
 䮩	kueh
-䋖	yuh
+䋖	yuih
 濥	yin
 騴	ae
 扜	iu
@@ -111964,7 +112078,8 @@ max_phrase_length: 7
 𡎻	zae
 傱	son
 脡	thin
-泆	yeh
+泆	yih
+泆	ih
 狟	wae
 磈	ue
 𣂁	thiau
@@ -112179,8 +112294,8 @@ max_phrase_length: 7
 縪	pih
 鐄	waon
 𡩡	seh
-䚫	yeh
-璏	yuh
+䚫	yih
+璏	yuih
 辝	zy
 𪓻	sy
 㗗	pi
@@ -112472,7 +112587,7 @@ max_phrase_length: 7
 㚛	shih
 菑	tse
 𥉸	khan
-䓲	yuh
+䓲	yuih
 牏	yu
 𡫽	iu
 㳛	yu
@@ -112621,7 +112736,7 @@ max_phrase_length: 7
 𢂺	tshie
 𨜔	waon
 蜁	zie
-𥡪	yeh
+𥡪	yih
 𩮜	thih
 𠲮	cin
 𧺡	bah
@@ -113092,8 +113207,8 @@ max_phrase_length: 7
 廅	eh
 𨼮	zae
 宭	jun
-櫱	ngeh
-䖃	yah
+櫱	ngeh	0%
+䖃	yaoh
 栭	r
 㾩	kua
 撍	tsae
@@ -113153,7 +113268,7 @@ max_phrase_length: 7
 䍶	ton
 䕪	zah
 鴸	tsiu
-䘝	yeh
+䘝	yih
 䣀	kue
 𠭥	soe
 窌	lau
@@ -113272,7 +113387,7 @@ max_phrase_length: 7
 䧁	shiu
 㺁	nau
 窉	pin
-𧀲	yuh
+𧀲	yuih
 剨	hah
 𩢸	tseu
 竀	tshen
@@ -113296,6 +113411,7 @@ max_phrase_length: 7
 𩟊	naon
 炪	tseh
 狦	sae
+𠛹	sae
 䮻	tau
 衧	yu
 顤	yau
@@ -113319,7 +113435,7 @@ max_phrase_length: 7
 誜	so
 飍	shieu
 㷰	tshy
-坹	yuh
+坹	yuih
 䀩	loh
 𣯻	fen
 𨛫	li
@@ -113448,7 +113564,7 @@ max_phrase_length: 7
 鄪	pi
 䫂	tu
 廦	phih
-䁌	yuh
+䁌	yuih
 葾	oe
 㞆	ci
 䌞	lie
@@ -113490,7 +113606,7 @@ max_phrase_length: 7
 㹲	hau
 𧍲	bie
 𩦢	nyu
-𤑹	yeh
+𤑹	yih
 𥄹	bau
 餂	thie
 𩭇	li
@@ -113501,7 +113617,7 @@ max_phrase_length: 7
 𣘪	lau
 緰	deu
 㨙	gha
-椺	yeh
+椺	yih
 醥	phiau
 鼦	tiau
 蔖	zu
@@ -113579,7 +113695,7 @@ max_phrase_length: 7
 𧰿	nge
 㧶	khen
 餲	i
-帟	yeh
+帟	yih
 𦍀	nae
 侜	tseu
 𦰾	hoh
@@ -113807,7 +113923,7 @@ max_phrase_length: 7
 魶	neh
 沷	fah
 𨏹	ciuih
-𧾰	yeh
+𧾰	yih
 㳀	ku
 㝢	yu
 帴	sah
@@ -113927,7 +114043,8 @@ max_phrase_length: 7
 袓	ziu
 𩹼	ghoe
 𧻕	tshiah
-胊	jiu
+胊	jiu	100%
+胊	geu	0%
 絅	chion
 䲊	vi
 㚢	nu
@@ -114035,7 +114152,7 @@ max_phrase_length: 7
 䶣	ke
 𤽊	pi
 瓈	li
-䢖	yuh
+䢖	yuih
 秌	tshieu
 蘓	su
 盓	u
@@ -114046,6 +114163,7 @@ max_phrase_length: 7
 憢	shiau
 搰	weh
 梤	ven
+𣔄	ven
 愇	we
 櫭	jih
 鱏	yin
@@ -114309,6 +114427,7 @@ max_phrase_length: 7
 𧪡	chi
 輠	gho
 遻	ngu
+遻	ngoh
 𤝻	yi
 殰	doh
 㤥	ghe
@@ -114463,7 +114582,7 @@ max_phrase_length: 7
 鵅	kah
 脠	tshae
 𤬂	toh
-劮	yeh
+劮	yih
 䊊	mi
 皔	ghoe
 峝	don
@@ -114493,7 +114612,7 @@ max_phrase_length: 7
 醊	tsoe
 梖	pe
 澿	jin
-櫱	nyih
+櫱	nyih	100%
 𡡏	sau
 𥉐	chie
 䩞	tih
@@ -114538,7 +114657,7 @@ max_phrase_length: 7
 謋	hah
 𥬲	tso
 㰮	zen
-𢖺	yeh
+𢖺	yih
 𢆸	pan
 櫖	liu
 嵥	jih
@@ -114755,7 +114874,7 @@ max_phrase_length: 7
 笐	kaon
 䯜	sih
 腄	zeu
-𥜃	yeh
+𥜃	yih
 㙨	ji
 譈	de
 聅	dae
@@ -114784,7 +114903,7 @@ max_phrase_length: 7
 蜠	chiun
 䵌	shie
 䃺	mo
-睪	yeh
+睪	yih
 𦸁	thae
 𧯫	tsan
 藆	cie
@@ -114803,6 +114922,7 @@ max_phrase_length: 7
 㲅	ci
 艗	nyih
 呥	zae
+棇	tshon
 樬	tshon
 扢	kueh
 繂	lih
@@ -114960,7 +115080,7 @@ max_phrase_length: 7
 𧆥	ghah
 曮	nyie
 𥖪	lah
-𤬩	yeh
+𤬩	yih
 𥠄	toe
 䵬	thah
 𧆉	fon
@@ -114997,11 +115117,13 @@ max_phrase_length: 7
 濇	seh
 筊	kau
 𥐞	maon
-䭿	yeh
+䭿	yih
 𠮊	teh
 棏	deh
 鈂	zin
 榘	ciu
+㠪	ciu
+𢀓	ciu
 䀴	ngah
 𢏗	nyi
 䶢	kah
@@ -115125,7 +115247,7 @@ max_phrase_length: 7
 𠢲	kha
 䤍	mi
 咮	tseu
-鴪	yuh
+鴪	yuih
 扵	iu
 䶞	ji
 欚	li
@@ -115698,7 +115820,7 @@ max_phrase_length: 7
 膃	ueh
 㻍	ngu
 瑮	lih
-𨒋	yuh
+𨒋	yuih
 无	vu
 畇	yun
 朒	nyoh
@@ -115708,7 +115830,7 @@ max_phrase_length: 7
 𦳢	we
 𤉧	kau
 藑	jion
-䫻	yuh
+䫻	yuih
 趆	ti
 𪗾	ghah
 𩑷	meh
@@ -115809,7 +115931,7 @@ max_phrase_length: 7
 㦦	shih
 䥵	ciau
 𠥐	tshaon
-𨷲	yah
+𨷲	yaoh
 鉆	jie
 粿	ku
 𣲒	lih
@@ -115838,7 +115960,7 @@ max_phrase_length: 7
 㸹	leh
 攨	o
 䨞	yu
-蚏	yuh
+蚏	yuih
 𩅿	foh
 欇	zeh
 狕	au
@@ -115985,7 +116107,7 @@ max_phrase_length: 7
 簨	sen
 楏	khue
 㯋	cion
-娧	yuh
+娧	yuih
 嵃	nyie
 㯻	kuen
 栔	chih
@@ -116058,7 +116180,7 @@ max_phrase_length: 7
 䁇	mih
 𩎑	tsoe
 𢐂	zy
-驈	yuh
+驈	yuih
 鱏	zin
 䫆	jin
 䃀	tshoe
@@ -116401,7 +116523,7 @@ max_phrase_length: 7
 袉	du
 薓	sen
 瀢	vi
-㘁	yeh
+㘁	yih
 蚹	vu
 㓃	tu
 𡞢	kheh
@@ -116439,7 +116561,7 @@ max_phrase_length: 7
 鞪	moh
 訬	miau
 䟓	tshan
-䳀	yeh
+䳀	yih
 謈	phoh
 㨟	ghe
 蚸	lih
@@ -116676,7 +116798,7 @@ max_phrase_length: 7
 㖏	nyah
 㹶	din
 䮉	liu
-燡	yeh
+燡	yih
 𡚮	cieu
 餣	ih
 鄈	gue
@@ -116798,7 +116920,7 @@ max_phrase_length: 7
 䲊	du
 𧬇	i
 䁔	shioe
-𧢢	yah
+𧢢	yaoh
 鞀	dau
 𠞩	seh
 邩	hu
@@ -116908,7 +117030,7 @@ max_phrase_length: 7
 薱	de
 䘎	uae
 𣯼	soh
-隿	yeh
+隿	yih
 㾨	i
 䉹	lin
 䶓	tsi
@@ -116919,7 +117041,7 @@ max_phrase_length: 7
 䙄	tsah
 㦌	heh
 痑	tu
-繘	yuh
+繘	yuih
 韛	ba
 梀	tshoh
 㸸	kheu
@@ -117150,7 +117272,7 @@ max_phrase_length: 7
 楱	tsheu
 鈙	jin
 伃	yu
-芅	yeh
+芅	yih
 𨚯	don
 𥭑	jieu
 㻝	lah
@@ -117179,7 +117301,7 @@ max_phrase_length: 7
 謷	ngau
 濔	mi
 𢻚	ji
-𠥦	yeh
+𠥦	yih
 璑	vu
 躆	ciu
 𩑃	nyih
@@ -117258,7 +117380,7 @@ max_phrase_length: 7
 㳹	uaon
 儢	liu
 䩂	hae
-䘸	yeh
+䘸	yih
 𧷡	leu
 齵	ngeu
 䖹	mi
@@ -117523,7 +117645,7 @@ max_phrase_length: 7
 韴	zeh
 鮧	yi
 邮	dih
-𢯮	yuh
+𢯮	yuih
 䈲	bae
 瓟	bau
 𩍅	don
@@ -117574,7 +117696,7 @@ max_phrase_length: 7
 䶵	zy
 欭	i
 儶	we
-𧃟	yeh
+𧃟	yih
 㹗	tshe
 㶣	zae
 䳴	dah
@@ -117779,7 +117901,7 @@ max_phrase_length: 7
 鶝	foh
 閵	lin
 稴	ghae
-獥	yeh
+獥	yih
 郻	chiau
 錥	yoh
 䠘	phi
@@ -117809,7 +117931,7 @@ max_phrase_length: 7
 騽	zih
 覗	sy
 𩻜	lin
-蒁	yuh
+蒁	yuih
 䎕	han
 垽	nyin
 跇	yi
@@ -117885,7 +118007,7 @@ max_phrase_length: 7
 硰	so
 㽸	zen
 矠	zeh
-㴒	yeh
+㴒	yih
 𦵧	laon
 輚	zae
 𤘡	jin
@@ -117904,7 +118026,7 @@ max_phrase_length: 7
 銇	le
 𨑊	non
 𦵩	zieu
-𧑌	yeh
+𧑌	yih
 𨍰	kheh
 尵	zoe
 䬦	teu
@@ -117940,7 +118062,7 @@ max_phrase_length: 7
 𠮌	tseh
 繢	we
 𦫙	bo
-籰	yuh
+籰	yuih
 𣓅	khae
 㚠	chiau
 𪇲	tsih
@@ -118030,7 +118152,7 @@ max_phrase_length: 7
 笒	zen
 䣝	du
 𪉸	uen
-醳	yeh
+醳	yih
 𥿇	su
 䄘	ban
 煗	noe
@@ -118107,7 +118229,7 @@ max_phrase_length: 7
 䯳	son
 鋀	theu
 彺	vaon
-鱊	yuh
+鱊	yuih
 躩	khoh
 鼵	deh
 𤲬	nu
@@ -118126,7 +118248,7 @@ max_phrase_length: 7
 讑	yau
 𢪎	shio
 睼	thi
-𤼌	yeh
+𤼌	yih
 趎	ziu
 鬠	weh
 㩒	jin
@@ -118209,7 +118331,7 @@ max_phrase_length: 7
 洔	zy
 坴	loh
 楛	wu
-䋉	yuh
+䋉	yuih
 敀	phah
 掕	lin
 𢤁	sau
@@ -118254,7 +118376,7 @@ max_phrase_length: 7
 輣	ban
 𪇹	lah
 滶	ngau
-圛	yeh
+圛	yih
 匵	doh
 㴥	tshiau
 矨	nyin
@@ -118373,7 +118495,7 @@ max_phrase_length: 7
 䴇	lin
 芇	mae
 禲	li
-䢲	yuh
+䢲	yuih
 篃	mi
 䕅	seu
 䓍	ghoe
@@ -118381,7 +118503,7 @@ max_phrase_length: 7
 𢶍	zah
 𨫒	leu
 芐	ghau
-欥	yeh
+欥	yih
 䪙	phoh
 婓	fi
 袴	kho
@@ -118492,7 +118614,7 @@ max_phrase_length: 7
 敻	shion
 艜	ta
 暎	ian
-𤄶	yah
+𤄶	yaoh
 醙	sieu
 𪂅	tsy
 𠈵	maon
@@ -118505,7 +118627,7 @@ max_phrase_length: 7
 蟗	tshieu
 𥼚	tsoh
 䘰	sae
-𦔜	yeh
+𦔜	yih
 䫔	chi
 槈	neu
 𡱣	ziu
@@ -118548,7 +118670,7 @@ max_phrase_length: 7
 蘌	nyu
 顩	nyie
 䜮	lau
-熼	yeh
+熼	yih
 㧁	gheh
 搈	yon
 𤙡	sin
@@ -118627,7 +118749,6 @@ max_phrase_length: 7
 轊	we
 蠚	tshah
 詄	sy
-脧	tsi
 矎	shioe
 鰿	tsih
 䖲	zin
@@ -118645,6 +118766,7 @@ max_phrase_length: 7
 濆	ven
 𪍛	seh
 抌	yeu
+嬔	fu
 嬎	fae
 靐	bin
 𦱠	cieu
@@ -118835,7 +118957,7 @@ max_phrase_length: 7
 塙	khoh
 𥻦	sah
 㒚	in
-瀷	yeh
+瀷	yih
 臤	yie
 飳	theu
 弴	tiau
@@ -118869,7 +118991,7 @@ max_phrase_length: 7
 㺖	tshae
 𧴤	phoh
 㟅	ngon
-䋐	yuh
+䋐	yuih
 𩬙	fu
 銵	khen
 䟺	be
@@ -118976,7 +119098,7 @@ max_phrase_length: 7
 𢖫	nyi
 蟡	kue
 匰	tae
-薂	yeh
+薂	yih
 𧄓	ton
 𥴭	khah
 泲	tsi
@@ -119050,10 +119172,11 @@ max_phrase_length: 7
 尌	ziu
 胔	tshy
 艐	tson
+朡	tson
 䩶	tshen
 㦬	lu
 𪄀	bae
-銉	yuh
+銉	yuih
 楀	yu
 夆	von
 䅁	oe
@@ -119292,7 +119415,7 @@ max_phrase_length: 7
 伹	tshiu
 𡳭	tshy
 妢	ven
-蛡	yeh
+蛡	yih
 𦅶	lah
 𪒒	tshon
 㛮	sau
@@ -119353,7 +119476,7 @@ max_phrase_length: 7
 聏	nyoh
 蜺	nyi
 汮	ciun
-𥩡	yuh
+𥩡	yuih
 㟸	kau
 㰲	shioh
 甎	tsae
@@ -119465,7 +119588,7 @@ max_phrase_length: 7
 斮	tsoh
 啌	haon
 斮	tsah
-𥎐	yuh
+𥎐	yuih
 𨍇	ghah
 𩨴	yau
 趩	tsheh
@@ -119757,7 +119880,7 @@ max_phrase_length: 7
 觷	ngoh
 㾺	mae
 竱	toe
-𪕯	yeh
+𪕯	yih
 鵷	oe
 𪂽	ben
 籸	sin
@@ -119799,7 +119922,7 @@ max_phrase_length: 7
 𣟼	tshiau
 帬	jun
 炘	shin
-𧑐	yuh
+𧑐	yuih
 𢻢	liau
 𨵥	sin
 稶	ioh
@@ -119908,7 +120031,7 @@ max_phrase_length: 7
 薡	tin
 㾶	kueh
 䳝	pheu
-噊	yuh
+噊	yuih
 忦	kah
 䊈	me
 䱅	meh
@@ -120425,7 +120548,7 @@ max_phrase_length: 7
 郺	on
 㾆	zae
 冸	phae
-欥	yuh
+欥	yuih
 磌	die
 䣛	tshih
 𨞙	jiu
@@ -120497,6 +120620,7 @@ max_phrase_length: 7
 𣀃	lie
 鄦	shiu
 籋	nyih
+䇣	nyih
 褷	sy
 𩤠	gha
 㦅	dih
@@ -120657,7 +120781,7 @@ max_phrase_length: 7
 无	mo
 𧤖	ue
 𩢑	tshy
-墿	yeh
+墿	yih
 鬉	tson
 瘜	sih
 䛋	ji
@@ -120945,7 +121069,7 @@ max_phrase_length: 7
 凭	bin
 惗	si
 𨪎	ioh
-袕	yuh
+袕	yuih
 㰠	haon
 㨹	sih
 袺	cih
@@ -120959,12 +121083,12 @@ max_phrase_length: 7
 齱	tshoh
 檡	seh
 䧆	ghon
-襗	yeh
+襗	yih
 𦫔	pheh
 樴	tseh
 䚴	ngah
 䚭	shioe
-痬	yeh
+痬	yih
 鐁	sy
 劥	khan
 𠜙	pu
@@ -121027,7 +121151,7 @@ max_phrase_length: 7
 𥳖	bu
 𩈜	te
 錏	o
-𦔥	yeh
+𦔥	yih
 㶟	le
 𢍚	we
 𪀘	zian
@@ -121042,7 +121166,7 @@ max_phrase_length: 7
 䯖	laon
 㣻	nyi
 䗱	boh
-𢎀	yeh
+𢎀	yih
 𦰬	bah
 膱	tseh
 摵	seh
@@ -121064,7 +121188,7 @@ max_phrase_length: 7
 𡜊	phe
 胻	ghaon
 𡧍	mie
-泧	yuh
+泧	yuih
 𥍯	tsin
 㱵	fen
 𧉩	pu
@@ -121085,7 +121209,7 @@ max_phrase_length: 7
 㜘	tsia
 鯰	nyae
 㔋	ghae
-鸄	yeh
+鸄	yih
 櫽	in
 靤	bau
 熽	siau
@@ -121548,7 +121672,7 @@ max_phrase_length: 7
 䠣	chioe
 坹	shiuih
 菤	cioe
-熭	yuh
+熭	yuih
 𪖎	zae
 𧔞	nyoe
 矆	shiuih
@@ -121715,7 +121839,7 @@ max_phrase_length: 7
 胻	ghan
 祰	khau
 孂	ciau
-斁	yeh
+斁	yih
 𡠚	pih
 㮰	bi
 轏	zae
@@ -121763,7 +121887,7 @@ max_phrase_length: 7
 䱝	ba
 揘	yon
 𣁳	ueh
-𠓋	yeh
+𠓋	yih
 𢄹	chiau
 箹	oh
 姅	pae
@@ -121816,6 +121940,7 @@ max_phrase_length: 7
 㮖	kah
 賲	pau
 艐	ka
+朡	ka
 㦁	lie
 䏪	r
 𢟤	li
@@ -121833,7 +121958,7 @@ max_phrase_length: 7
 𧡹	yeu
 𨂁	ah
 蠮	ih
-䴬	yeh
+䴬	yih
 䘷	pih
 嶭	ngeh
 𡬍	mi
@@ -122069,7 +122194,7 @@ max_phrase_length: 7
 䡂	cieu
 𩒣	zen
 䶜	ghoh
-𢔥	yuh
+𢔥	yuih
 蠰	shian
 㞷	guaon
 𦺴	zih
@@ -122216,7 +122341,7 @@ max_phrase_length: 7
 㲫	boh
 哊	yoh
 葤	zeu
-戉	yuh
+戉	yuih
 𠂤	te
 㠥	le
 𣟄	thoh
@@ -122292,6 +122417,10 @@ max_phrase_length: 7
 䄼	thie
 䱀	aon
 䀹	kah
+鿃	sie
+鿃	soe
+鿃	thae
+鿃	sae
 帴	zae
 𤴱	tu
 欶	seu
@@ -122368,7 +122497,7 @@ max_phrase_length: 7
 䉎	daon
 傂	sy
 𧼐	chiun
-𥸘	yuh
+𥸘	yuih
 榞	nyoe
 䓠	tah
 𩧃	li
@@ -122569,7 +122698,7 @@ max_phrase_length: 7
 橌	ghae
 臶	zie
 𤜹	yu
-芛	yuh
+芛	yuih
 輁	jion
 弜	ji
 㜰	sah
@@ -122738,7 +122867,7 @@ max_phrase_length: 7
 秿	pu
 惼	pie
 浨	lae
-齸	yeh
+齸	yih
 𩍜	doh
 𣣌	tsy
 蠈	zeh
@@ -122966,7 +123095,7 @@ max_phrase_length: 7
 𥢌	vae
 𨊳	sin
 𤗎	ie
-㧒	yuh
+㧒	yuih
 㑛	soh
 䔬	yi
 澞	nyu
@@ -123003,7 +123132,7 @@ max_phrase_length: 7
 𡍨	du
 䀣	pi
 蘾	wa
-䣧	yeh
+䣧	yih
 噷	m
 䙼	zau
 𩂥	in
@@ -123345,6 +123474,8 @@ max_phrase_length: 7
 懝	nge
 𩱱	yoh
 嶻	zih
+𢧵	zih
+巀	zih
 𦸚	zih
 覞	yau
 脧	tsoe
@@ -123388,7 +123519,7 @@ max_phrase_length: 7
 橅	mo
 㺜	non
 䯠	au
-㚤	yeh
+㚤	yih
 譀	hae
 蠷	jiu
 㔷	lieu
@@ -123413,7 +123544,7 @@ max_phrase_length: 7
 䫎	tseh
 𥀈	tsah
 䂎	tsoe
-𢓀	yeh
+𢓀	yih
 𧯆	hah
 皽	tsau
 㚇	tson
@@ -123481,7 +123612,7 @@ max_phrase_length: 7
 𧗸	zie
 㖃	heu
 䎃	nae
-𡛟	yuh
+𡛟	yuih
 㜇	ue
 𧼨	cih
 䪸	min
@@ -123647,7 +123778,7 @@ max_phrase_length: 7
 䈰	sau
 䆞	iau
 粊	pi
-𧅚	yuh
+𧅚	yuih
 袽	nyu
 𧄿	lu
 鑈	nyi
@@ -123745,7 +123876,7 @@ max_phrase_length: 7
 䗵	cian
 㼠	du
 朁	tshae
-霱	yuh
+霱	yuih
 𥗫	ciu
 覹	me
 𢡍	keh
@@ -123858,7 +123989,7 @@ max_phrase_length: 7
 𩢮	shieu
 𧕄	in
 𥄎	shiuih
-䄩	yeh
+䄩	yih
 戁	nae
 鷴	ghae
 䒴	yeu
@@ -123968,7 +124099,7 @@ max_phrase_length: 7
 𩤽	thi
 虵	zo
 㹭	yi
-𡿯	yuh
+𡿯	yuih
 湋	we
 劙	li
 𢮁	iu
@@ -123987,6 +124118,7 @@ max_phrase_length: 7
 㲍	tsy
 䜅	tsheu
 砯	phin
+𥒜	phin
 髳	mon
 敐	zen
 䳤	pih
@@ -124083,7 +124215,7 @@ max_phrase_length: 7
 㥾	nyih
 䫏	chi
 椈	cioh
-𧤽	yuh
+𧤽	yuih
 𠴨	kuae
 郳	nyi
 𥄱	vi
@@ -124315,6 +124447,7 @@ max_phrase_length: 7
 𪆷	zu
 𧡪	dae
 㢝	su
+鶒	tsheh
 鷘	tsheh
 慸	di
 裪	dau
@@ -124322,7 +124455,7 @@ max_phrase_length: 7
 顲	lae
 𠱡	sa
 𧃝	tsheu
-㔴	yeh
+㔴	yih
 袕	zeh
 𠷈	lih
 凄	tshi
@@ -124544,7 +124677,7 @@ max_phrase_length: 7
 𣣋	lin
 纗	tsy
 𤳤	chi
-黓	yeh
+黓	yih
 㦰	tsie
 𦃓	lieu
 駴	hae
@@ -124700,6 +124833,7 @@ max_phrase_length: 7
 捾	ueh
 㧴	ngu
 夌	lin
+䏛	tshen
 𦚧	tshen
 𧤕	zieu
 䔺	we
@@ -124859,7 +124993,7 @@ max_phrase_length: 7
 𤆎	tse
 𢷒	jih
 𠅞	zen
-𧊎	yuh
+𧊎	yuih
 𪓞	jiu
 𪘏	tshoh
 𨶩	gheh
@@ -125106,7 +125240,7 @@ max_phrase_length: 7
 𠩃	yah
 𨆮	zih
 𢿥	pu
-𨙒	yeh
+𨙒	yih
 㿁	yau
 𤷜	in
 㮍	tsi
@@ -125131,7 +125265,7 @@ max_phrase_length: 7
 𤃴	huah
 𦗂	nyoh
 𦃟	yi
-𦏵	yeh
+𦏵	yih
 𣢆	ci
 𩖎	hon
 𠟭	tseh
@@ -125477,7 +125611,7 @@ max_phrase_length: 7
 𣪏	ke
 𥐗	pi
 𦥘	pi
-𩙺	yeh
+𩙺	yih
 𧧗	shion
 𥛲	tsiau
 𡸓	chian
@@ -125488,7 +125622,7 @@ max_phrase_length: 7
 𥁼	tsy
 𥁔	fae
 𪔜	don
-𩙅	yuh
+𩙅	yuih
 𧱑	zu
 𤏻	sih
 𤠑	lieu
@@ -125499,12 +125633,13 @@ max_phrase_length: 7
 𡤯	le
 𠣟	tshen
 𨑋	non
-𡱿	yeh
+𡱿	yih
 𢢝	soe
 𤟭	tshah
 𥱩	cioh
 𢿱	sae
 𧆌	tsi
+虀	tsi
 𤜑	pi
 𦡁	taon
 𧆫	nyih
@@ -125733,7 +125868,7 @@ max_phrase_length: 7
 𥽭	lae
 𧈟	nyih
 𤢔	shih
-𦒔	yuh
+𦒔	yuih
 𦽑	tsen
 𦐊	sy
 𢨪	zy
@@ -125835,7 +125970,7 @@ max_phrase_length: 7
 𥰸	tsi
 𦞠	den
 𥳊	fi
-㔻	phe
+㔻	phi
 𡱂	di
 𡧮	iau
 𡘌	shie
