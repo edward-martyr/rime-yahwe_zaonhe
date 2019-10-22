@@ -1,4 +1,5 @@
-<p align="center"><img src="./images/logo.svg?sanitize=true"  height="120"/></p> 
+<p align="center"><img src="./images/logo.svg?sanitize=true" height="120"/></p>
+
 #  rime-yahwe_zaonhe：吳語協會式上海話輸入法
 
 [Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個 repo 把  Plum  方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563> 以及 https://zhuanlan.zhihu.com/p/78791101。
@@ -55,28 +56,28 @@ bash rime-install :preset
 用  `rime-yahwe_zaonhe` 也有別具一格的寫詩體驗：
 
 ```
-草長鶯飛 路邊
-某種動物 塌下的五穀
-有鋤頭和花芳
-伊講
-要從布穀鳥的叫聲當中
-挑出三個
-錯別字
-因爲鋤頭講成了乳頭
-但是
-夢裏夢着的詩
-是啥言話就是啥
-翻譯不出
-不是訛轉了 燕子的詩
+草長鶯飛　路邊 
+某種動物　塌下的五穀 
+有鋤頭和花芳 
+伊講 
+要從布穀鳥的叫聲當中 
+挑出三個 
+錯別字 
+因爲鋤頭講成了乳頭 
+但是 
+夢裏夢着的詩 
+是啥言話就是啥 
+翻譯不出 
+不是訛轉了　燕子的詩 
 
-—— Edward the Martyr
+—— だせい
 ```
 
 自然就具備了一種 pastoralism。
 
 ## 文件說明
 
-- ``*.dict.yaml` 皆爲字典文件，若不需要則可以在 `yahwe_zaonhe.dict.yaml` 中註釋掉。
+- `*.dict.yaml` 皆爲字典文件，若不需要則可以在 `yahwe_zaonhe.dict.yaml` 中註釋掉。
 - `yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
 
