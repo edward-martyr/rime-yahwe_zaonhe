@@ -15,7 +15,7 @@
 
 ---
 name: yahwe_zaonhe
-version: "2019.09.27"
+version: "2020.01.07"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -14451,6 +14451,7 @@ min_phrase_weight: 100
 屁股頭浪
 屁鼓
 屄	pi
+毴	pi
 𡲰	ziu
 居	ciu
 居上
@@ -18048,6 +18049,8 @@ min_phrase_weight: 100
 抒懷	syu wa
 抓	tsa
 抓	tsau
+抓頭	tsau deu
+抓頭髮	tsau deu fah
 抓住	tsa zyu
 抓去	tsa chi
 抓屛	tsa bin
@@ -18059,6 +18062,8 @@ min_phrase_weight: 100
 抓破	tsa phu
 摣破	tsa phu
 揸破	tsa phu
+揸頭	tsau deu
+揸頭髮	tsau deu fah
 抔	beu
 投	deu
 投七投八
@@ -112659,7 +112664,8 @@ max_phrase_length: 7
 菗	zeu
 鷣	yin
 𪕎	nyon
-孈	wi
+𪕁	nyon
+孈	vi
 𣩡	soe
 𢲔	pae
 䜸	me
@@ -112800,7 +112806,7 @@ max_phrase_length: 7
 㨝	sih
 敀	paeh
 竷	khae
-𤸷	vae
+𤸷	woe
 魗	tsheu
 䞈	kue
 謕	sy
