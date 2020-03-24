@@ -2,8 +2,6 @@
 
 # rime-yahwe_zaonhe：<ruby>吳語協會式上海話輸入法<rt><ruby>Ngnyu<rt>Wunyu</ruby> <ruby>Yahweseh<rt>Yihweseh</ruby> <ruby>Zaonhegho<rt>Zanhegho</ruby> <ruby>Syzehfah<rt>Syuzehfah</ruby></ruby>
 
-<ruby class="complex"><rb>吳語協會式上海話輸入法</rb><rtc lang="wuu-Latn"><rt>Yahweseh</rt></rtc><rtc lang="wuu-Latn"><rt>Yihweseh</rt></rtc></ruby>
-
 [Plum 給出的吳語拼音方案](<https://github.com/rime/rime-wugniu>)是法吳的，並不一定適合所有的用戶。這個 repo 把  Plum  方案中的 `wugniu_lopha.dict.yaml` 的拼音全部轉化爲[吳語協會式拼音](<http://wu-chinese.com/romanization/>)（稍有改動，詳見下附知乎介紹鏈接），望能方便更多用戶、使用面更廣。簡介另見知乎上的介紹文章<https://zhuanlan.zhihu.com/p/62118563> 以及 https://zhuanlan.zhihu.com/p/78791101。
 
 | Example 1                         | Example 2                         |
