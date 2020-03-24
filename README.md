@@ -104,6 +104,6 @@ bash rime-install :preset
 
 自然就具備了一種 pastoralism。
 
-<hrule>
+ <hr /> 
 
-<b id="f1">1．</b>該 repository 經過了幾此更改。需要之前輸入特性的用戶請從 commits 下載歷史版本的 `yahwe.schema.yaml`，而只更新 `yahwe_zaonhe.dict.yaml`。[↩](#a1)
+<b id="f1">1．</b>該 repository 經過了多次更改，需要之前輸入特性的用戶請從 commits 下載歷史版本的 `yahwe.schema.yaml`，而只更新 `yahwe_zaonhe.dict.yaml`。[↩](#a1)
