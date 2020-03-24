@@ -66,7 +66,7 @@ bash rime-install :preset
 
 ## <ruby>輸入習慣<rt>Syzeh Zihkuae</ruby>
 
-在 `yahwe.schema.yaml` 中~~默認是不區分尖團的~~新版本詳見 `yahwe.schema.yaml` 設置不區分尖團，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 `ss=sy`、`tsh=tt`、~~`-VV=-Vh (V is any vowel, eg. nyoo=nioh)`~~，etc，熟悉的用戶都可以自定義。
+在 `yahwe.schema.yaml` 中~~默認是不區分尖團的~~新版本詳見 `yahwe.schema.yaml` 設置不區分尖團，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 ~~`ss=sy`~~、`tsh=tt`、~~`-VV=-Vh (V is any vowel, eg. nyoo=nioh)`~~，etc，熟悉的用戶都可以自定義。[^1](該 repository 經過了幾此更改。需要之前輸入特性的用戶請從 commits 下載歷史版本的 `yahwe.schema.yaml`，而只更新 `yahwe_zaonhe.dict.yaml`。)
 
 可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe` 即可。
 
