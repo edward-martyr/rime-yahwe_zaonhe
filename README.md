@@ -62,13 +62,13 @@ bash rime-install :preset
 ## <ruby>文件說明<rt>Venjie Sehmin</ruby>
 
 - `*.dict.yaml` 皆爲字典文件，若不需要則可以在 `yahwe_zaonhe.dict.yaml` 中註釋掉。
-- `yahwe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
+- `yahwe_zaonhe.schema.yaml`：輸入方案設定，包括模糊音、簡寫等設置。
 
 ## <ruby>輸入習慣<rt>Syzeh Zihkuae</ruby>
 
-在 `yahwe.schema.yaml` 中~~默認是不區分尖團的~~新版本詳見 `yahwe.schema.yaml` 設置不區分尖團，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 ~~`ss=sy`~~、`tsh=tt`、~~`-VV=-Vh (V is any vowel, eg. nyoo=nioh)`~~，etc，熟悉的用戶都可以自定義。<sup id="a1">[[1]](#f1)</sup>
+在 `yahwe_zaonhe.schema.yaml` 中~~默認是不區分尖團的~~新版本詳見 `yahwe_zaonhe.schema.yaml` 設置不區分尖團，也有 `q=ch`、 `x=sh` 等方便部分用戶習慣的設置。另外設置了一些簡寫，如 ~~`ss=sy`~~、`tsh=tt`、~~`-VV=-Vh (V is any vowel, eg. nyoo=nioh)`~~，etc，熟悉的用戶都可以自定義。<sup id="a1">[[1]](#f1)</sup>
 
-可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe` 即可。
+可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe_zaonhe` 即可。
 
 <img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@5cdbb1e/images/emoji.png" alt="示例" height="200"/>
 
