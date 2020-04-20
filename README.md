@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@5cdbb1e/images/logo.svg?sanitize=true" height="120"/></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@add3661/images/logo.svg?sanitize=true" height="120"/></p>
 
 # rime-yahwe_zaonhe：<ruby>吳語協會式上海話輸入法<rt><ruby>Ngnyu<rt>Wunyu</ruby> <ruby>Yahweseh<rt>Yihweseh</ruby> <ruby>Zaonhegho<rt>Zanhegho</ruby> <ruby>Syzehfah<rt>Syuzehfah</ruby></ruby>
 
@@ -6,7 +6,7 @@
 
 | Example 1                         | Example 2                         |
 | --------------------------------- | --------------------------------- |
-| ![示例1](https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@5cdbb1e/images/gifsample2.gif) | ![示例2](https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@5cdbb1e/images/gifsample1.gif) |
+| ![示例1](https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@add3661/images/gifsample2.gif) | ![示例2](https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@add3661/images/gifsample1.gif) |
 
 ## <ruby>更新須知<rt>Kensin Siutsy</ruby>
 
@@ -70,15 +70,15 @@ bash rime-install :preset
 
 可以結合Emoji一起使用，參見<https://github.com/rime/rime-emoji>，將 `schema=xxx` 改爲 `yahwe_zaonhe` 即可。
 
-<img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@5cdbb1e/images/emoji.png" alt="示例" height="200"/>
+<img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@add3661/images/emoji.png" alt="示例" height="200"/>
 
 支持四字成語：
 
-<img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@5cdbb1e/images/chengyu.png" alt="成語" height="200"/>
+<img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@add3661/images/chengyu.png" alt="成語" height="200"/>
 
 可通過 `luna_pinyin.poetry.dict.yaml` 支持詩句：
 
-<img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@5cdbb1e/images/poetry.png" alt="詩句" height="200"/>
+<img src="https://cdn.jsdelivr.net/gh/edward-martyr/rime-yahwe_zaonhe@add3661/images/poetry.png" alt="詩句" height="200"/>
 
 ## <ruby>試用<rt>Syyon</ruby>
 
