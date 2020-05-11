@@ -3,8 +3,8 @@
 
 schema:
   schema_id: yahwe_zaonhe_jieupaepen
-  name: 吳協式上海言話
-  version: "2019.08.17"
+  name: "吳協式上海言話舊版本"
+  version: "2020.05.11"
   author:
     - 埃爾德路 ‹edwardmartyr@outlook.com›
   description: |
