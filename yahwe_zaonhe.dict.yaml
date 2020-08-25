@@ -15,7 +15,7 @@
 
 ---
 name: yahwe_zaonhe
-version: "2020.03.15"
+version: "2020.08.25"
 sort: by_weight
 use_preset_vocabulary: true
 # import_tables: 
@@ -18541,8 +18541,8 @@ min_phrase_weight: 100
 拽住	tse zyu
 拽好	tse hau
 拽牢	tse lau
-拾	zeh	100%
-拾	zih	1%
+拾	zeh	90%
+拾	zih	10%
 拾取	zeh tshiu
 拾得	zeh teh
 拾掇	zeh teh
@@ -29389,6 +29389,7 @@ min_phrase_weight: 100
 皂莢	zau kaeh
 皂角
 皂隸	zau di
+的	ti	0%
 的	tih
 的人	tih nyin
 的哥
@@ -38465,6 +38466,7 @@ min_phrase_weight: 100
 譽冠
 譽爲
 讀	deu	0%
+讀號	deu ghau
 讀	doh	100%
 讀了	doh liau
 讀作	doh tsoh
