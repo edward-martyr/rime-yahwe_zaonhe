@@ -17190,6 +17190,8 @@ min_phrase_weight: 100
 愣着	len zah
 愦	kue
 愧	gue
+愧	kue
+愧	khue
 愧憾
 愧爲
 愫	su
@@ -17357,6 +17359,8 @@ min_phrase_weight: 100
 懇誠
 懇過
 懈	ga	0%
+懈	ya	0%
+懈	yae	0%
 懈	shia	100%
 懈勁	shia cin
 懈怠	shia de
@@ -18703,7 +18707,7 @@ min_phrase_weight: 100
 振聾
 振鈴
 挲	su
-挶	jioh
+挶	cioh
 挹	ih
 挺	thin
 挺像
