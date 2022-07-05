@@ -98,14 +98,14 @@ speller:
     - derive/^nyi/ni/
     # - derive/^sh/x/
     # - derive/^ch/q/
-    - derive/ui(?=[nh])$/u/
+    - derive/ui(?=[nh]$)/u/
 
     # 蘇州口音
     # - derive/^(ts|z|dz|s|l)i(eu)/$1$2/
 
     # 兼容吳語學堂
     # - derive/^r$/er/
-    # - abbrev/^nyi(?=[nh]|$)/gni/
+    # - abbrev/^nyi(?=[nh]$|$)/gni/
     # - abbrev/^ny(?=[aeou])/gni/
     # - derive/ui(nh)$/u/
     # - derive/h$/q/
