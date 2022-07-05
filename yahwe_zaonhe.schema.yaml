@@ -1,0 +1,152 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: yahwe_zaonhe
+  name: 吳協式上海言話
+  version: "2022.07.05"
+  author:
+    - Yuanhao 'Nyoeghau' Chen ‹nyoeghau@nyoeghau.com›
+  description: |
+    上海言話
+    拼寫方案採用吳語協會式
+    http://wu-chinese.com/romanization/
+    http://wu-chinese.com/minidict/
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: simplification
+    states: [漢字, 汉字]
+  - name: ascii_mode
+    reset: 0
+    states: [中文, 西文]
+  - name: full_shape
+    reset: 0
+    states: [半角, 全角]
+  - name: extended_charset
+    reset: 1
+    states: [通用, 增廣]
+  - name: ascii_punct
+    reset: 0
+    states: [。，, ．，]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@luna_pinyin
+  filters:
+    - simplifier
+    - uniquifier
+    - reverse_lookup_filter@yahwe_zaonhe_reverse_lookup
+
+speller:
+  alphabet: ";zyxwvutsrqponmlkjihgfedcba"
+  delimiter: " '"
+  algebra:
+    - xform/'/;/
+    - xform/\d+$//
+
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^(([ptsck]|ts)h).+$/$1/
+    - abbrev/^(ts).+$/$1/
+    - abbrev/^(ny).+$/$1/
+    - abbrev/^(ng).+$/$1/
+    - abbrev/^(gh).+$/$1/
+
+    # 新派口音
+    # - derive/^tsi/ci/
+    # - derive/^tshi/chi/
+    # - derive/^([sz])i/$1hi/
+    # - derive/^zi/ji/
+    # - derive/ah$/eh/
+    # - derive/eh$/ah/
+    # - derive/ioh$/iuih/
+    # - derive/iuih$/ioh/
+    - derive/ae$/e/ # 模糊“蘭”“雷”
+    - derive/ie$/i/ # 模糊“煙”“衣”
+
+    # 中派口音
+    - derive/(?<=[sz])yu$/y/
+    - derive/aeh$/ah/ # 多數中派模糊前後ah
+    - derive/ah$/aeh/
+    - derive/aon$/an/ # 多數中派模糊前後an
+    - derive/an$/aon/
+
+    - derive/^zaon$/laon/ # 地上、衣裳
+    - derive/^zi(?=a)/y/ # 謝謝 zia ya; 好像 hau yan
+
+    # 簡寫以及更多易錯模糊
+    - derive/^ny(?=[aeou])/ni/
+    - derive/^nyi/ni/
+    # - derive/^sh/x/
+    # - derive/^ch/q/
+    - derive/ui(?=[nh])$/u/
+
+    # 蘇州口音
+    # - derive/^(ts|z|dz|s|l)i(eu)/$1$2/
+
+    # 兼容吳語學堂
+    # - derive/^r$/er/
+    # - abbrev/^nyi(?=[nh]|$)/gni/
+    # - abbrev/^ny(?=[aeou])/gni/
+    # - derive/ui(nh)$/u/
+    # - derive/h$/q/
+
+translator:
+  dictionary: yahwe_zaonhe
+  prism: yahwe_zaonhe
+  spelling_hints: 6
+  comment_format:
+    - xform/\d+$//
+
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: ";"
+  tips: 〔普通話〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+yahwe_zaonhe_reverse_lookup:
+  tags: [luna_pinyin]
+  overwrite_comment: false
+  dictionary: yahwe_zaonhe
+  comment_format:
+    - xform/\d+$//
+
+punctuator:
+  import_preset: symbols
+  full_shape:
+    ":": [：, ；]
+  half_shape:
+    ":": [：, ；]
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    luna_pinyin: "`[a-z]*;?$"
