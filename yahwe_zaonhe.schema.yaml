@@ -115,7 +115,7 @@ translator:
   prism: yahwe_zaonhe
   spelling_hints: 6
   comment_format:
-    - xform/\d+$//
+    - xform/\d+//
 
 luna_pinyin:
   tag: luna_pinyin
@@ -133,7 +133,7 @@ yahwe_zaonhe_reverse_lookup:
   overwrite_comment: false
   dictionary: yahwe_zaonhe
   comment_format:
-    - xform/\d+$//
+    - xform/\d+//
 
 punctuator:
   import_preset: symbols
